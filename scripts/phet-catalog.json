@@ -1,0 +1,967 @@
+{
+  "catalogVersion": 1,
+  "simulations": [
+    {
+      "slug": "alpha-decay",
+      "version": "1.0.2",
+      "chapter": "quantum",
+      "titles": {
+        "vi": "Phân rã Alpha",
+        "en": "Alpha Decay"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/alpha-decay/1.0.2/alpha-decay_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/alpha-decay/1.0.2/alpha-decay_en.html"
+      }
+    },
+    {
+      "slug": "atomic-interactions",
+      "version": "1.2.23",
+      "chapter": "thermodynamics",
+      "titles": {
+        "vi": "Tương tác nguyên tử",
+        "en": "Atomic Interactions"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/atomic-interactions/1.2.23/atomic-interactions_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/atomic-interactions/1.2.23/atomic-interactions_en.html"
+      }
+    },
+    {
+      "slug": "balancing-act",
+      "version": "1.3.9",
+      "chapter": "mechanics",
+      "titles": {
+        "vi": "Cân bằng",
+        "en": "Balancing Act"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/balancing-act/1.3.9/balancing-act_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/balancing-act/1.3.9/balancing-act_en.html"
+      }
+    },
+    {
+      "slug": "balloons-and-static-electricity",
+      "version": "1.5.28",
+      "chapter": "electromagnetism",
+      "titles": {
+        "vi": "Bong bóng và tĩnh điện",
+        "en": "Balloons and Static Electricity"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/balloons-and-static-electricity/1.5.28/balloons-and-static-electricity_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/balloons-and-static-electricity/1.5.28/balloons-and-static-electricity_en.html"
+      }
+    },
+    {
+      "slug": "band-structure",
+      "version": "1.0.0",
+      "chapter": "quantum",
+      "titles": {
+        "vi": "Cấu trúc vùng năng lượng",
+        "en": "Band Structure"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/band-structure/1.0.0/band-structure_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/band-structure/1.0.0/band-structure_en.html"
+      }
+    },
+    {
+      "slug": "bending-light",
+      "version": "1.2.7",
+      "chapter": "optics",
+      "titles": {
+        "vi": "Khúc xạ ánh sáng",
+        "en": "Bending Light"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/bending-light/1.2.7/bending-light_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/bending-light/1.2.7/bending-light_en.html"
+      }
+    },
+    {
+      "slug": "beta-decay",
+      "version": "1.0.2",
+      "chapter": "quantum",
+      "titles": {
+        "vi": "Phân rã Beta",
+        "en": "Beta Decay"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/beta-decay/1.0.2/beta-decay_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/beta-decay/1.0.2/beta-decay_en.html"
+      }
+    },
+    {
+      "slug": "blackbody-spectrum",
+      "version": "1.0.28",
+      "chapter": "quantum",
+      "titles": {
+        "vi": "Quang phổ của thể đen",
+        "en": "Blackbody Spectrum"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/blackbody-spectrum/1.0.28/blackbody-spectrum_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/blackbody-spectrum/1.0.28/blackbody-spectrum_en.html"
+      }
+    },
+    {
+      "slug": "bound-state-superposition",
+      "version": "1.0.0",
+      "chapter": "quantum",
+      "titles": {
+        "vi": "Sự chồng chập các trạng thái liên kết",
+        "en": "Bound State Superposition"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/bound-state-superposition/1.0.0/bound-state-superposition_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/bound-state-superposition/1.0.0/bound-state-superposition_en.html"
+      }
+    },
+    {
+      "slug": "build-a-nucleus",
+      "version": "1.1.12",
+      "chapter": "quantum",
+      "titles": {
+        "vi": "Tạo dựng hạt nhân",
+        "en": "Build a Nucleus"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/build-a-nucleus/1.1.12/build-a-nucleus_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/build-a-nucleus/1.1.12/build-a-nucleus_en.html"
+      }
+    },
+    {
+      "slug": "build-an-atom",
+      "version": "1.9.5",
+      "chapter": "quantum",
+      "titles": {
+        "vi": "Tạo dựng nguyên tử",
+        "en": "Build an Atom"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/build-an-atom/1.9.5/build-an-atom_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/build-an-atom/1.9.5/build-an-atom_en.html"
+      }
+    },
+    {
+      "slug": "buoyancy",
+      "version": "1.2.14",
+      "chapter": "mechanics",
+      "titles": {
+        "vi": "Sự nổi",
+        "en": "Buoyancy"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/buoyancy/1.2.14/buoyancy_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/buoyancy/1.2.14/buoyancy_en.html"
+      }
+    },
+    {
+      "slug": "buoyancy-basics",
+      "version": "1.2.13",
+      "chapter": "mechanics",
+      "titles": {
+        "vi": "Sự nổi: phần cơ bản",
+        "en": "Buoyancy: Basics"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/buoyancy-basics/1.2.13/buoyancy-basics_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/buoyancy-basics/1.2.13/buoyancy-basics_en.html"
+      }
+    },
+    {
+      "slug": "calculus-grapher",
+      "version": "1.1.3",
+      "chapter": "mechanics",
+      "titles": {
+        "vi": "Máy vẽ đồ thị vi tích phân",
+        "en": "Calculus Grapher"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/calculus-grapher/1.1.3/calculus-grapher_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/calculus-grapher/1.1.3/calculus-grapher_en.html"
+      }
+    },
+    {
+      "slug": "capacitor-lab-basics",
+      "version": "1.6.41",
+      "chapter": "electromagnetism",
+      "titles": {
+        "vi": "Tụ điện: phần cơ bản",
+        "en": "Capacitor Lab: Basics"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/capacitor-lab-basics/1.6.41/capacitor-lab-basics_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/capacitor-lab-basics/1.6.41/capacitor-lab-basics_en.html"
+      }
+    },
+    {
+      "slug": "charges-and-fields",
+      "version": "1.0.69",
+      "chapter": "electromagnetism",
+      "titles": {
+        "vi": "Điện tích và điện trường",
+        "en": "Charges and Fields"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/charges-and-fields/1.0.69/charges-and-fields_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/charges-and-fields/1.0.69/charges-and-fields_en.html"
+      }
+    },
+    {
+      "slug": "circuit-construction-kit-ac",
+      "version": "1.0.25",
+      "chapter": "electromagnetism",
+      "titles": {
+        "vi": "Bộ lắp ráp mạch điện: AC",
+        "en": "Circuit Construction Kit: AC"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/1.0.25/circuit-construction-kit-ac_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/1.0.25/circuit-construction-kit-ac_en.html"
+      }
+    },
+    {
+      "slug": "circuit-construction-kit-ac-virtual-lab",
+      "version": "1.0.24",
+      "chapter": "electromagnetism",
+      "titles": {
+        "vi": "Bộ lắp ráp mạch điện: AC - Phòng thí nghiệm ảo",
+        "en": "Circuit Construction Kit: AC - Virtual Lab"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/circuit-construction-kit-ac-virtual-lab/1.0.24/circuit-construction-kit-ac-virtual-lab_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/circuit-construction-kit-ac-virtual-lab/1.0.24/circuit-construction-kit-ac-virtual-lab_en.html"
+      }
+    },
+    {
+      "slug": "circuit-construction-kit-dc",
+      "version": "1.5.4",
+      "chapter": "electromagnetism",
+      "titles": {
+        "vi": "Bộ lắp ráp mạch điện: DC",
+        "en": "Circuit Construction Kit: DC"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/1.5.4/circuit-construction-kit-dc_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/1.5.4/circuit-construction-kit-dc_en.html"
+      }
+    },
+    {
+      "slug": "circuit-construction-kit-dc-virtual-lab",
+      "version": "1.5.4",
+      "chapter": "electromagnetism",
+      "titles": {
+        "vi": "Bộ lắp ráp mạch điện: DC - Phòng thí nghiệm ảo",
+        "en": "Circuit Construction Kit: DC - Virtual Lab"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/circuit-construction-kit-dc-virtual-lab/1.5.4/circuit-construction-kit-dc-virtual-lab_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/circuit-construction-kit-dc-virtual-lab/1.5.4/circuit-construction-kit-dc-virtual-lab_en.html"
+      }
+    },
+    {
+      "slug": "collision-lab",
+      "version": "1.1.25",
+      "chapter": "mechanics",
+      "titles": {
+        "vi": "Va chạm",
+        "en": "Collision Lab"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/collision-lab/1.1.25/collision-lab_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/collision-lab/1.1.25/collision-lab_en.html"
+      }
+    },
+    {
+      "slug": "color-vision",
+      "version": "1.3.9",
+      "chapter": "optics",
+      "titles": {
+        "vi": "Thị giác màu",
+        "en": "Color Vision"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/color-vision/1.3.9/color-vision_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/color-vision/1.3.9/color-vision_en.html"
+      }
+    },
+    {
+      "slug": "coulombs-law",
+      "version": "1.0.34",
+      "chapter": "electromagnetism",
+      "titles": {
+        "vi": "Định luật Coulomb",
+        "en": "Coulomb's Law"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/coulombs-law/1.0.34/coulombs-law_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/coulombs-law/1.0.34/coulombs-law_en.html"
+      }
+    },
+    {
+      "slug": "curve-fitting",
+      "version": "1.0.22",
+      "chapter": "mechanics",
+      "titles": {
+        "vi": "Vẽ đường cong thực nghiệm",
+        "en": "Curve Fitting"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/curve-fitting/1.0.22/curve-fitting_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/curve-fitting/1.0.22/curve-fitting_en.html"
+      }
+    },
+    {
+      "slug": "density",
+      "version": "1.2.12",
+      "chapter": "mechanics",
+      "titles": {
+        "vi": "Mật độ",
+        "en": "Density"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/density/1.2.12/density_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/density/1.2.12/density_en.html"
+      }
+    },
+    {
+      "slug": "diffusion",
+      "version": "1.1.9",
+      "chapter": "thermodynamics",
+      "titles": {
+        "vi": "Sự khuếch tán",
+        "en": "Diffusion"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/diffusion/1.1.9/diffusion_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/diffusion/1.1.9/diffusion_en.html"
+      }
+    },
+    {
+      "slug": "double-wells-and-covalent-bonds",
+      "version": "1.0.0",
+      "chapter": "quantum",
+      "titles": {
+        "vi": "Giếng kép và liên kết cộng hoá trị",
+        "en": "Double Wells and Covalent Bonds"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/double-wells-and-covalent-bonds/1.0.0/double-wells-and-covalent-bonds_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/double-wells-and-covalent-bonds/1.0.0/double-wells-and-covalent-bonds_en.html"
+      }
+    },
+    {
+      "slug": "energy-forms-and-changes",
+      "version": "1.4.26",
+      "chapter": "thermodynamics",
+      "titles": {
+        "vi": "Năng lượng: các dạng và sự chuyển hoá",
+        "en": "Energy Forms and Changes"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/energy-forms-and-changes/1.4.26/energy-forms-and-changes_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/energy-forms-and-changes/1.4.26/energy-forms-and-changes_en.html"
+      }
+    },
+    {
+      "slug": "energy-skate-park",
+      "version": "1.6.2",
+      "chapter": "mechanics",
+      "titles": {
+        "vi": "Công viên ván trượt",
+        "en": "Energy Skate Park"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/energy-skate-park/1.6.2/energy-skate-park_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/energy-skate-park/1.6.2/energy-skate-park_en.html"
+      }
+    },
+    {
+      "slug": "energy-skate-park-basics",
+      "version": "1.6.2",
+      "chapter": "mechanics",
+      "titles": {
+        "vi": "Công viên ván trượt: Phần cơ bản",
+        "en": "Energy Skate Park: Basics"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/energy-skate-park-basics/1.6.2/energy-skate-park-basics_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/energy-skate-park-basics/1.6.2/energy-skate-park-basics_en.html"
+      }
+    },
+    {
+      "slug": "faradays-electromagnetic-lab",
+      "version": "1.0.9",
+      "chapter": "electromagnetism",
+      "titles": {
+        "vi": "Phòng thí nghiệm điện từ Faraday",
+        "en": "Faraday's Electromagnetic Lab"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/faradays-electromagnetic-lab/1.0.9/faradays-electromagnetic-lab_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/faradays-electromagnetic-lab/1.0.9/faradays-electromagnetic-lab_en.html"
+      }
+    },
+    {
+      "slug": "faradays-law",
+      "version": "1.4.27",
+      "chapter": "electromagnetism",
+      "titles": {
+        "vi": "Định luật Faraday",
+        "en": "Faraday's Law"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/faradays-law/1.4.27/faradays-law_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/faradays-law/1.4.27/faradays-law_en.html"
+      }
+    },
+    {
+      "slug": "forces-and-motion-basics",
+      "version": "2.6.7",
+      "chapter": "mechanics",
+      "titles": {
+        "vi": "Lực và chuyển động: Phần cơ bản",
+        "en": "Forces and Motion: Basics"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/forces-and-motion-basics/2.6.7/forces-and-motion-basics_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/forces-and-motion-basics/2.6.7/forces-and-motion-basics_en.html"
+      }
+    },
+    {
+      "slug": "fourier-making-waves",
+      "version": "1.1.7",
+      "chapter": "waves",
+      "titles": {
+        "vi": "Fourier: Tổng hợp sóng",
+        "en": "Fourier: Making Waves"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/fourier-making-waves/1.1.7/fourier-making-waves_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/fourier-making-waves/1.1.7/fourier-making-waves_en.html"
+      }
+    },
+    {
+      "slug": "friction",
+      "version": "1.6.25",
+      "chapter": "mechanics",
+      "titles": {
+        "vi": "Ma sát",
+        "en": "Friction"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/friction/1.6.25/friction_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/friction/1.6.25/friction_en.html"
+      }
+    },
+    {
+      "slug": "gas-properties",
+      "version": "1.1.12",
+      "chapter": "thermodynamics",
+      "titles": {
+        "vi": "Tính chất của chất khí",
+        "en": "Gas Properties"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/gas-properties/1.1.12/gas-properties_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/gas-properties/1.1.12/gas-properties_en.html"
+      }
+    },
+    {
+      "slug": "gases-intro",
+      "version": "1.1.9",
+      "chapter": "thermodynamics",
+      "titles": {
+        "vi": "Chất khí: phần giới thiệu",
+        "en": "Gases Intro"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/gases-intro/1.1.9/gases-intro_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/gases-intro/1.1.9/gases-intro_en.html"
+      }
+    },
+    {
+      "slug": "generator",
+      "version": "1.0.9",
+      "chapter": "electromagnetism",
+      "titles": {
+        "vi": "Máy phát điện",
+        "en": "Generator"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/generator/1.0.9/generator_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/generator/1.0.9/generator_en.html"
+      }
+    },
+    {
+      "slug": "geometric-optics",
+      "version": "1.3.18",
+      "chapter": "optics",
+      "titles": {
+        "vi": "Quang hình",
+        "en": "Geometric Optics"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/geometric-optics/1.3.18/geometric-optics_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/geometric-optics/1.3.18/geometric-optics_en.html"
+      }
+    },
+    {
+      "slug": "geometric-optics-basics",
+      "version": "1.3.18",
+      "chapter": "optics",
+      "titles": {
+        "vi": "Quang hình: Phần cơ bản",
+        "en": "Geometric Optics: Basics"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/geometric-optics-basics/1.3.18/geometric-optics-basics_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/geometric-optics-basics/1.3.18/geometric-optics-basics_en.html"
+      }
+    },
+    {
+      "slug": "gravity-and-orbits",
+      "version": "1.6.30",
+      "chapter": "mechanics",
+      "titles": {
+        "vi": "Lực hấp dẫn và quỹ đạo",
+        "en": "Gravity and Orbits"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/gravity-and-orbits/1.6.30/gravity-and-orbits_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/gravity-and-orbits/1.6.30/gravity-and-orbits_en.html"
+      }
+    },
+    {
+      "slug": "gravity-force-lab",
+      "version": "2.2.27",
+      "chapter": "mechanics",
+      "titles": {
+        "vi": "Lực hấp dẫn",
+        "en": "Gravity Force Lab"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/gravity-force-lab/2.2.27/gravity-force-lab_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/gravity-force-lab/2.2.27/gravity-force-lab_en.html"
+      }
+    },
+    {
+      "slug": "gravity-force-lab-basics",
+      "version": "1.1.29",
+      "chapter": "mechanics",
+      "titles": {
+        "vi": "Lực hấp dẫn: Phần cơ bản",
+        "en": "Gravity Force Lab: Basics"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/gravity-force-lab-basics/1.1.29/gravity-force-lab-basics_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/gravity-force-lab-basics/1.1.29/gravity-force-lab-basics_en.html"
+      }
+    },
+    {
+      "slug": "greenhouse-effect",
+      "version": "1.3.15",
+      "chapter": "thermodynamics",
+      "titles": {
+        "vi": "Hiệu ứng Nhà kính",
+        "en": "Greenhouse Effect"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/greenhouse-effect/1.3.15/greenhouse-effect_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/greenhouse-effect/1.3.15/greenhouse-effect_en.html"
+      }
+    },
+    {
+      "slug": "hookes-law",
+      "version": "1.2.6",
+      "chapter": "waves",
+      "titles": {
+        "vi": "Định luật Hooke",
+        "en": "Hooke's Law"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/hookes-law/1.2.6/hookes-law_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/hookes-law/1.2.6/hookes-law_en.html"
+      }
+    },
+    {
+      "slug": "john-travoltage",
+      "version": "1.6.28",
+      "chapter": "electromagnetism",
+      "titles": {
+        "vi": "John Travoltage",
+        "en": "John Travoltage"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/john-travoltage/1.6.28/john-travoltage_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/john-travoltage/1.6.28/john-travoltage_en.html"
+      }
+    },
+    {
+      "slug": "keplers-laws",
+      "version": "1.2.14",
+      "chapter": "mechanics",
+      "titles": {
+        "vi": "Định luật Kepler",
+        "en": "Kepler's Laws"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/keplers-laws/1.2.14/keplers-laws_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/keplers-laws/1.2.14/keplers-laws_en.html"
+      }
+    },
+    {
+      "slug": "magnet-and-compass",
+      "version": "1.0.9",
+      "chapter": "electromagnetism",
+      "titles": {
+        "vi": "Nam châm và la bàn",
+        "en": "Magnet and Compass"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/magnet-and-compass/1.0.9/magnet-and-compass_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/magnet-and-compass/1.0.9/magnet-and-compass_en.html"
+      }
+    },
+    {
+      "slug": "magnets-and-electromagnets",
+      "version": "1.0.9",
+      "chapter": "electromagnetism",
+      "titles": {
+        "vi": "Nam châm và nam châm điện",
+        "en": "Magnets and Electromagnets"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/magnets-and-electromagnets/1.0.9/magnets-and-electromagnets_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/magnets-and-electromagnets/1.0.9/magnets-and-electromagnets_en.html"
+      }
+    },
+    {
+      "slug": "masses-and-springs",
+      "version": "1.0.31",
+      "chapter": "waves",
+      "titles": {
+        "vi": "Con lắc lò xo",
+        "en": "Masses and Springs"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/masses-and-springs/1.0.31/masses-and-springs_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/masses-and-springs/1.0.31/masses-and-springs_en.html"
+      }
+    },
+    {
+      "slug": "masses-and-springs-basics",
+      "version": "1.0.30",
+      "chapter": "waves",
+      "titles": {
+        "vi": "Con lắc lò xo: Phần cơ bản",
+        "en": "Masses and Springs: Basics"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/masses-and-springs-basics/1.0.30/masses-and-springs-basics_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/masses-and-springs-basics/1.0.30/masses-and-springs-basics_en.html"
+      }
+    },
+    {
+      "slug": "models-of-the-hydrogen-atom",
+      "version": "1.0.11",
+      "chapter": "quantum",
+      "titles": {
+        "vi": "Mô hình nguyên tử Hydrogen",
+        "en": "Models of the Hydrogen Atom"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/models-of-the-hydrogen-atom/1.0.11/models-of-the-hydrogen-atom_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/models-of-the-hydrogen-atom/1.0.11/models-of-the-hydrogen-atom_en.html"
+      }
+    },
+    {
+      "slug": "molecules-and-light",
+      "version": "1.5.35",
+      "chapter": "optics",
+      "titles": {
+        "vi": "Phân tử và ánh sáng",
+        "en": "Molecules and Light"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/molecules-and-light/1.5.35/molecules-and-light_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/molecules-and-light/1.5.35/molecules-and-light_en.html"
+      }
+    },
+    {
+      "slug": "my-solar-system",
+      "version": "1.3.18",
+      "chapter": "mechanics",
+      "titles": {
+        "vi": "Thái dương hệ",
+        "en": "My Solar System"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/my-solar-system/1.3.18/my-solar-system_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/my-solar-system/1.3.18/my-solar-system_en.html"
+      }
+    },
+    {
+      "slug": "ohms-law",
+      "version": "1.4.33",
+      "chapter": "electromagnetism",
+      "titles": {
+        "vi": "Định luật Ohm",
+        "en": "Ohm's Law"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/ohms-law/1.4.33/ohms-law_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/ohms-law/1.4.33/ohms-law_en.html"
+      }
+    },
+    {
+      "slug": "particle-in-a-box",
+      "version": "1.0.0",
+      "chapter": "quantum",
+      "titles": {
+        "vi": "Hạt trong hộp",
+        "en": "Particle in a Box"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/particle-in-a-box/1.0.0/particle-in-a-box_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/particle-in-a-box/1.0.0/particle-in-a-box_en.html"
+      }
+    },
+    {
+      "slug": "pendulum-lab",
+      "version": "1.0.37",
+      "chapter": "waves",
+      "titles": {
+        "vi": "Con lắc",
+        "en": "Pendulum Lab"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/pendulum-lab/1.0.37/pendulum-lab_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/pendulum-lab/1.0.37/pendulum-lab_en.html"
+      }
+    },
+    {
+      "slug": "plinko-probability",
+      "version": "1.1.38",
+      "chapter": "thermodynamics",
+      "titles": {
+        "vi": "Xác suất Plinko",
+        "en": "Plinko Probability"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/plinko-probability/1.1.38/plinko-probability_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/plinko-probability/1.1.38/plinko-probability_en.html"
+      }
+    },
+    {
+      "slug": "projectile-data-lab",
+      "version": "1.0.14",
+      "chapter": "mechanics",
+      "titles": {
+        "vi": "Phòng thí nghiệm đạn tử",
+        "en": "Projectile Data Lab"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/projectile-data-lab/1.0.14/projectile-data-lab_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/projectile-data-lab/1.0.14/projectile-data-lab_en.html"
+      }
+    },
+    {
+      "slug": "projectile-motion",
+      "version": "1.0.36",
+      "chapter": "mechanics",
+      "titles": {
+        "vi": "Chuyển động của đạn tử",
+        "en": "Projectile Motion"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/projectile-motion/1.0.36/projectile-motion_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/projectile-motion/1.0.36/projectile-motion_en.html"
+      }
+    },
+    {
+      "slug": "projectile-sampling-distributions",
+      "version": "1.0.15",
+      "chapter": "mechanics",
+      "titles": {
+        "vi": "Phân bố mẫu của đạn tử",
+        "en": "Projectile Sampling Distributions"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/projectile-sampling-distributions/1.0.15/projectile-sampling-distributions_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/projectile-sampling-distributions/1.0.15/projectile-sampling-distributions_en.html"
+      }
+    },
+    {
+      "slug": "quantum-bound-states",
+      "version": "1.0.0",
+      "chapter": "quantum",
+      "titles": {
+        "vi": "Trạng thái liên kết lượng tử",
+        "en": "Quantum Bound States"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/quantum-bound-states/1.0.0/quantum-bound-states_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/quantum-bound-states/1.0.0/quantum-bound-states_en.html"
+      }
+    },
+    {
+      "slug": "quantum-coin-toss",
+      "version": "1.0.6",
+      "chapter": "quantum",
+      "titles": {
+        "vi": "Xác suất lượng tử",
+        "en": "Quantum Coin Toss"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/quantum-coin-toss/1.0.6/quantum-coin-toss_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/quantum-coin-toss/1.0.6/quantum-coin-toss_en.html"
+      }
+    },
+    {
+      "slug": "quantum-measurement",
+      "version": "1.0.7",
+      "chapter": "quantum",
+      "titles": {
+        "vi": "Thí nghiệm lượng tử",
+        "en": "Quantum Measurement"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/quantum-measurement/1.0.7/quantum-measurement_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/quantum-measurement/1.0.7/quantum-measurement_en.html"
+      }
+    },
+    {
+      "slug": "quantum-wave-interference",
+      "version": "1.0.2",
+      "chapter": "quantum",
+      "titles": {
+        "vi": "Giao thoa sóng lượng tử",
+        "en": "Quantum Wave Interference"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/quantum-wave-interference/1.0.2/quantum-wave-interference_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/quantum-wave-interference/1.0.2/quantum-wave-interference_en.html"
+      }
+    },
+    {
+      "slug": "resistance-in-a-wire",
+      "version": "1.7.2",
+      "chapter": "electromagnetism",
+      "titles": {
+        "vi": "Điện trở",
+        "en": "Resistance in a Wire"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/resistance-in-a-wire/1.7.2/resistance-in-a-wire_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/resistance-in-a-wire/1.7.2/resistance-in-a-wire_en.html"
+      }
+    },
+    {
+      "slug": "rutherford-scattering",
+      "version": "1.2.2",
+      "chapter": "quantum",
+      "titles": {
+        "vi": "Tán xạ Rutherford",
+        "en": "Rutherford Scattering"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/rutherford-scattering/1.2.2/rutherford-scattering_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/rutherford-scattering/1.2.2/rutherford-scattering_en.html"
+      }
+    },
+    {
+      "slug": "states-of-matter",
+      "version": "1.2.25",
+      "chapter": "thermodynamics",
+      "titles": {
+        "vi": "Trạng thái của vật chất",
+        "en": "States of Matter"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/states-of-matter/1.2.25/states-of-matter_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/states-of-matter/1.2.25/states-of-matter_en.html"
+      }
+    },
+    {
+      "slug": "states-of-matter-basics",
+      "version": "1.2.25",
+      "chapter": "thermodynamics",
+      "titles": {
+        "vi": "Trạng thái của vật chất: Phần cơ bản",
+        "en": "States of Matter: Basics"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/states-of-matter-basics/1.2.25/states-of-matter-basics_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/states-of-matter-basics/1.2.25/states-of-matter-basics_en.html"
+      }
+    },
+    {
+      "slug": "under-pressure",
+      "version": "1.1.38",
+      "chapter": "mechanics",
+      "titles": {
+        "vi": "Áp suất",
+        "en": "Under Pressure"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/under-pressure/1.1.38/under-pressure_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/under-pressure/1.1.38/under-pressure_en.html"
+      }
+    },
+    {
+      "slug": "vector-addition",
+      "version": "1.2.6",
+      "chapter": "mechanics",
+      "titles": {
+        "vi": "Cộng vector",
+        "en": "Vector Addition"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/vector-addition/1.2.6/vector-addition_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/vector-addition/1.2.6/vector-addition_en.html"
+      }
+    },
+    {
+      "slug": "wave-interference",
+      "version": "2.1.2",
+      "chapter": "waves",
+      "titles": {
+        "vi": "Giao thoa sóng",
+        "en": "Wave Interference"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/wave-interference/2.1.2/wave-interference_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/wave-interference/2.1.2/wave-interference_en.html"
+      }
+    },
+    {
+      "slug": "wave-on-a-string",
+      "version": "1.2.6",
+      "chapter": "waves",
+      "titles": {
+        "vi": "Sóng trên một sợi dây",
+        "en": "Wave on a String"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/wave-on-a-string/1.2.6/wave-on-a-string_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/wave-on-a-string/1.2.6/wave-on-a-string_en.html"
+      }
+    },
+    {
+      "slug": "waves-intro",
+      "version": "2.1.2",
+      "chapter": "waves",
+      "titles": {
+        "vi": "Sóng",
+        "en": "Waves Intro"
+      },
+      "downloads": {
+        "vi": "https://phet.colorado.edu/sims/html/waves-intro/2.1.2/waves-intro_vi.html",
+        "en": "https://phet.colorado.edu/sims/html/waves-intro/2.1.2/waves-intro_en.html"
+      }
+    }
+  ]
+}

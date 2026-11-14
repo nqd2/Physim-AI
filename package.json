@@ -1,0 +1,23 @@
+{
+  "name": "physim-ai",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "pnpm@12.6.0",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "dev": "pnpm --parallel --filter @physim/server --filter @physim/mobile dev",
+    "check": "pnpm -r check",
+    "test": "node --test \"packages/shared/src/*.test.mjs\" \"apps/server/test/*.test.ts\" \"apps/mobile/tests/*.test.mjs\" \"scripts/*.test.mjs\"",
+    "build": "pnpm --filter @physim/server build && pnpm --filter @physim/mobile build",
+    "phet:sync": "node scripts/phet-pipeline.mjs",
+    "test:browser": "playwright test",
+    "phet:smoke": "node scripts/phet-smoke.mjs"
+  },
+  "devDependencies": {
+    "@babel/parser": "^7.29.0",
+    "@playwright/test": "^1.59.0",
+    "typescript": "~5.9.3"
+  }
+}

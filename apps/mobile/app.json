@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Physim-AI",
+    "slug": "physim-ai",
+    "scheme": "physim-ai",
+    "plugins": ["expo-router", ["expo-image-picker", {
+      "photosPermission": "Physim-AI dùng thư viện ảnh để bạn chọn ảnh đề hoặc bài nháp.",
+      "cameraPermission": "Physim-AI dùng camera khi bạn chụp đề hoặc bài nháp.",
+      "microphonePermission": false
+    }]],
+    "ios": { "bundleIdentifier": "io.physim.pilot", "supportsTablet": true },
+    "android": { "package": "io.physim.pilot" },
+    "web": { "bundler": "metro", "output": "spa" },
+    "orientation": "default"
+  }
+}

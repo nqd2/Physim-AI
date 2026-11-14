@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.expo/
+.env
+.env.*
+!.env.example
+coverage/
+test-results/
+playwright-report/
+apps/server/storage/*
+!apps/server/storage/.gitkeep
+.taste-skill/
+.impeccable/
+/apps/mobile/android/
+/apps/mobile/ios/
