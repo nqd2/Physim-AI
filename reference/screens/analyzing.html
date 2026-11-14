@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<title>Analyzing</title>
+<script src="../assets/85c4831871e1b2b2.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<style>/* hebrew */
+@font-face {
+  font-family: 'Fredoka';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/fredoka/v17/X7n64b87HvSqjb_WIi2yDCRwoQ_k7367_DWs89XyHw.woff2) format('woff2');
+  unicode-range: U+0307-0308, U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Fredoka';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/fredoka/v17/X7n64b87HvSqjb_WIi2yDCRwoQ_k7367_DWg89XyHw.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Fredoka';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../assets/99d6c78e043710d4.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Fredoka';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/fredoka/v17/X7n64b87HvSqjb_WIi2yDCRwoQ_k7367_DWs89XyHw.woff2) format('woff2');
+  unicode-range: U+0307-0308, U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Fredoka';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/fredoka/v17/X7n64b87HvSqjb_WIi2yDCRwoQ_k7367_DWg89XyHw.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Fredoka';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../assets/99d6c78e043710d4.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Fredoka';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/fredoka/v17/X7n64b87HvSqjb_WIi2yDCRwoQ_k7367_DWs89XyHw.woff2) format('woff2');
+  unicode-range: U+0307-0308, U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Fredoka';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/fredoka/v17/X7n64b87HvSqjb_WIi2yDCRwoQ_k7367_DWg89XyHw.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Fredoka';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../assets/99d6c78e043710d4.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../assets/88985ca614d50fbe.woff2") format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../assets/63b14e3ef0966785.woff2") format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../assets/61e5958cf3c73142.woff2") format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../assets/2c8d792869818ecb.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../assets/ba344451eab25b21.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("../assets/88985ca614d50fbe.woff2") format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("../assets/63b14e3ef0966785.woff2") format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("../assets/61e5958cf3c73142.woff2") format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("../assets/2c8d792869818ecb.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("../assets/ba344451eab25b21.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+</style>
+<style>
+body{margin:0}
+.cd{background:#FFEAF5;border:3px solid #3B2849;border-radius:20px;box-shadow:inset 0 0 0 3px #fff,5px 5px 0 #3B2849;box-sizing:border-box;overflow:hidden}
+.hs{background-color:#FFC4E4;background-image:radial-gradient(#ffffffaa 1.3px,transparent 1.3px);background-size:7px 7px;border-bottom:3px solid #3B2849}
+.tag{font:600 11px 'Fredoka',sans-serif;letter-spacing:.06em;text-transform:uppercase;color:#3B2849;background:#FFD0EA;border:2.5px solid #3B2849;border-radius:99px;padding:3px 10px;white-space:nowrap}
+.tagd{background:#3B2849;color:#fff}
+.tile{background:#fff;border:3px solid #3B2849;border-radius:14px;box-shadow:3px 3px 0 #3B2849;padding:6px 8px;text-align:center;box-sizing:border-box}
+.lb{font:600 10px 'Fredoka',sans-serif;letter-spacing:.08em;text-transform:uppercase;color:#6F5A75;margin:0}
+.vl{font:700 19px 'Fredoka',sans-serif;color:#3B2849;margin:0}
+.bt{font:600 16px 'Fredoka',sans-serif;color:#3B2849;border:3px solid #3B2849;border-radius:14px;box-shadow:3px 3px 0 #3B2849;min-height:48px;padding:0 16px;display:inline-flex;align-items:center;justify-content:center;gap:8px;cursor:pointer;background:#FFB3DA;box-sizing:border-box}
+.ttl{font:700 28px 'Fredoka',sans-serif;color:#FFF0F8;-webkit-text-stroke:7px #3B2849;paint-order:stroke fill;margin:0;text-shadow:3px 3px 0 #3B2849}
+.p{margin:0;font:800 15px/1.4 'Nunito',sans-serif;color:#3B2849}
+.bar{height:14px;border:3px solid #3B2849;border-radius:99px;background:#fff;overflow:hidden;box-sizing:content-box}
+.t{width:48px;height:48px;display:grid;place-items:center;background:none;border:0;border-radius:50%;cursor:pointer;padding:0}
+.on{background:#FFB3DA}
+.seg{display:flex;gap:4px;background:#3B2849;border-radius:14px;padding:4px}
+.seg b{flex:1;text-align:center;font:600 14px 'Fredoka',sans-serif;color:#E9D6F5;padding:8px 0;border-radius:10px}
+.seg .a{background:#FFB3DA;color:#3B2849}
+.ck{width:22px;height:22px;border:3px solid #3B2849;border-radius:7px;background:#fff;flex:none;box-sizing:border-box;display:grid;place-items:center}
+.dg{width:36px;height:56px;background:#3B2849;border-radius:10px;color:#FFB3DA;font:700 34px 'Fredoka',sans-serif;display:grid;place-items:center;position:relative}
+.dg i{position:absolute;left:0;right:0;top:27px;height:2px;background:#24162E}
+</style>
+</helmet>
+<div style="width:390px;height:844px;box-sizing:border-box;position:relative;overflow:hidden;padding:44px 20px 0;background-color:#FFD2EC;background-image:radial-gradient(#ffffffbb 1.6px,transparent 1.6px),linear-gradient(165deg,#FFC9E8,#EBCDF8 55%,#CFC8F4);background-size:16px 16px,100% 100%;display:flex;flex-direction:column;gap:14px"><div style="position:absolute;left:-34px;top:16px;width:130px;height:30px;transform:rotate(-32deg);background:repeating-linear-gradient(90deg,#7EE5C8 0 10px,transparent 10px 20px)"></div><div style="position:absolute;right:-30px;top:10px;width:130px;height:30px;transform:rotate(34deg);background:repeating-linear-gradient(90deg,#FFE27A 0 10px,transparent 10px 20px)"></div><svg style="position:absolute;left:330px;top:560px" width="42" height="36" sc-camel-view-box="0 0 7 6" aria-hidden="true" shape-rendering="crispEdges"><path d="M1 0h1v1h-1zM2 0h1v1h-1zM4 0h1v1h-1zM5 0h1v1h-1zM0 1h1v1h-1zM1 1h1v1h-1zM2 1h1v1h-1zM3 1h1v1h-1zM4 1h1v1h-1zM5 1h1v1h-1zM6 1h1v1h-1zM0 2h1v1h-1zM1 2h1v1h-1zM2 2h1v1h-1zM3 2h1v1h-1zM4 2h1v1h-1zM5 2h1v1h-1zM6 2h1v1h-1zM1 3h1v1h-1zM2 3h1v1h-1zM3 3h1v1h-1zM4 3h1v1h-1zM5 3h1v1h-1zM2 4h1v1h-1zM3 4h1v1h-1zM4 4h1v1h-1zM3 5h1v1h-1z" fill="#fff" fill-opacity="0.6" stroke="#BFA9F0" stroke-width=".35"></path></svg><svg style="position:absolute;left:14px;top:640px" width="28" height="24" sc-camel-view-box="0 0 7 6" aria-hidden="true" shape-rendering="crispEdges"><path d="M1 0h1v1h-1zM2 0h1v1h-1zM4 0h1v1h-1zM5 0h1v1h-1zM0 1h1v1h-1zM1 1h1v1h-1zM2 1h1v1h-1zM3 1h1v1h-1zM4 1h1v1h-1zM5 1h1v1h-1zM6 1h1v1h-1zM0 2h1v1h-1zM1 2h1v1h-1zM2 2h1v1h-1zM3 2h1v1h-1zM4 2h1v1h-1zM5 2h1v1h-1zM6 2h1v1h-1zM1 3h1v1h-1zM2 3h1v1h-1zM3 3h1v1h-1zM4 3h1v1h-1zM5 3h1v1h-1zM2 4h1v1h-1zM3 4h1v1h-1zM4 4h1v1h-1zM3 5h1v1h-1z" fill="#fff" fill-opacity="0.5" stroke="#BFA9F0" stroke-width=".35"></path></svg><div style="display:flex;justify-content:space-between;align-items:center;position:relative"><h1 class="ttl">Analyzing</h1><span class="tag tagd">AI</span></div>
+<div class="cd"><div class="hs" style="padding:9px 14px"><span class="tag tagd">Found in your problem</span></div><div style="padding:14px;display:grid;grid-template-columns:1fr 1fr;gap:12px"><div class="tile" style="text-align:left;padding:8px 12px"><p class="lb">Launch speed</p><p class="vl" style="font-size:24px">20 m/s</p><p class="lb" style="text-transform:none;letter-spacing:0">given</p></div><div class="tile" style="text-align:left;padding:8px 12px"><p class="lb">Angle</p><p class="vl" style="font-size:24px">40°</p><p class="lb" style="text-transform:none;letter-spacing:0">above horizontal</p></div><div class="tile" style="text-align:left;padding:8px 12px"><p class="lb">Start height</p><p class="vl" style="font-size:24px">2 m</p><p class="lb" style="text-transform:none;letter-spacing:0">from the ledge</p></div><div class="tile" style="text-align:left;padding:8px 12px"><p class="lb">Gravity</p><p class="vl" style="font-size:24px">9.8 m/s²</p><p class="lb" style="text-transform:none;letter-spacing:0">assumed</p></div></div><div style="padding:0 14px 14px"><div class="tile" style="background:#3B2849;text-align:left;padding:8px 12px"><p class="lb" style="color:#E9D6F5">Goal</p><p class="vl" style="color:#fff;font-size:17px">Find the horizontal range</p></div></div></div>
+<div class="cd" style="padding:6px 14px"><div style="display:flex;align-items:center;gap:10px;padding:9px 0;border-top:2.5px dashed #E3B3D3"><span class="ck" style="background:#FF8EC7"><svg width="14" height="14" sc-camel-view-box="0 0 24 24" fill="none" stroke="#3B2849" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12l5 5 9-10"></path></svg></span><p class="p" style="flex:1">Read the photo</p></div><div style="display:flex;align-items:center;gap:10px;padding:9px 0;border-top:2.5px dashed #E3B3D3"><span class="ck" style="background:#FF8EC7"><svg width="14" height="14" sc-camel-view-box="0 0 24 24" fill="none" stroke="#3B2849" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12l5 5 9-10"></path></svg></span><p class="p" style="flex:1">Concept: projectile motion</p></div><div style="display:flex;align-items:center;gap:10px;padding:9px 0;border-top:2.5px dashed #E3B3D3"><span class="ck" style="background:#FF8EC7"><svg width="14" height="14" sc-camel-view-box="0 0 24 24" fill="none" stroke="#3B2849" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12l5 5 9-10"></path></svg></span><p class="p" style="flex:1">Picked a demo</p></div><div style="display:flex;align-items:center;gap:10px;padding:9px 0;border-top:2.5px dashed #E3B3D3"><span class="ck" style=""></span><p class="p" style="flex:1">Setting up parameters</p><span class="tag">75%</span></div></div><div style="position:absolute;left:24px;right:24px;bottom:20px;height:64px;background:#3B2849;border-radius:32px;box-shadow:0 0 0 3px #fff,4px 4px 0 3px #7D5C8F;display:flex;justify-content:space-around;align-items:center;padding:0 8px"><button class="t" aria-label="Home"><svg width="24" height="24" sc-camel-view-box="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 11l9-8 9 8v9a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z"></path></svg></button><button class="t on" aria-label="Snap"><svg width="24" height="24" sc-camel-view-box="0 0 24 24" fill="none" stroke="#3B2849" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 8h3l2-3h6l2 3h3v11H4z"></path><circle cx="12" cy="13" r="3.5"></circle></svg></button><button class="t" aria-label="Labs"><svg width="24" height="24" sc-camel-view-box="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 3h6M10 3v6l-5 9a2 2 0 0 0 2 3h10a2 2 0 0 0 2-3l-5-9V3"></path></svg></button><button class="t" aria-label="Review"><svg width="24" height="24" sc-camel-view-box="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2zM4 21h15"></path></svg></button><button class="t" aria-label="Me"><svg width="24" height="24" sc-camel-view-box="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="8" r="4"></circle><path d="M4 21c0-4 4-6 8-6s8 2 8 6"></path></svg></button></div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script="" data-props="{&quot;$preview&quot;:{&quot;width&quot;:390,&quot;height&quot;:844}}">
+class Component extends DCLogic {
+renderVals() { return {}; }
+}
+</script>
+
+
+</body></html>

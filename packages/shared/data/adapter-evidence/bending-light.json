@@ -1,0 +1,141 @@
+{
+  "slug": "bending-light",
+  "version": "1.2.7",
+  "sourceSha256": "bed8441aa2a56a0e1f021b457165a7ec3fe4329d80e72f33bad4547030378df5",
+  "checks": [
+    "registered schema properties/actions exactly match actual bindings",
+    "apply all sample values and read back actual PhET properties",
+    "observe reads actual transmitted ray; matches Snell cross-check",
+    "all three material enums and angle/wavelength boundaries read back correctly",
+    "actual total internal reflection produces no transmitted ray",
+    "physical mouse drag of laser emits angle lazyLink telemetry",
+    "unlink stops future angle notifications",
+    "reset restores initial model values",
+    "no runtime exceptions"
+  ],
+  "sourceEvidence": {
+    "exactPublicSourceAvailable": false,
+    "totalitySHA": "9f78bd049e8f5520ea4730530789cad771be8596",
+    "reason": "Pinned HTML exposes totalitySHA; public repository README says current monorepo is not public. Capabilities verified against exact release runtime."
+  },
+  "initial": {
+    "angleDeg": 45,
+    "upperMedium": "air",
+    "lowerMedium": "water",
+    "wavelengthNm": 650,
+    "laserOn": false,
+    "showNormal": true,
+    "showAngles": false,
+    "n1": 1.000293,
+    "n2": 1.333
+  },
+  "sample": {
+    "config": {
+      "angleDeg": 45,
+      "upperMedium": "air",
+      "lowerMedium": "glass",
+      "wavelengthNm": 650,
+      "laserOn": true,
+      "showNormal": true,
+      "showAngles": true
+    },
+    "state": {
+      "angleDeg": 45,
+      "upperMedium": "air",
+      "lowerMedium": "glass",
+      "wavelengthNm": 650,
+      "laserOn": true,
+      "showNormal": true,
+      "showAngles": true,
+      "n1": 1.000293,
+      "n2": 1.5
+    },
+    "observation": {
+      "angleDeg": 45,
+      "n1": 1.000293,
+      "n2": 1.5,
+      "wavelengthNm": 650,
+      "incidentPowerFraction": 1,
+      "reflectedPowerFraction": 0.0919096359770932,
+      "transmittedPowerFraction": 0.908090364022907,
+      "refractedAngleDeg": 28.13447946,
+      "totalInternalReflection": false,
+      "rayCount": 3
+    }
+  },
+  "laserNodes": [
+    {
+      "keys": [
+        "tandem",
+        "phetioID",
+        "phetioObjectInitialized",
+        "focusHighlightChangedEmitter",
+        "excludeLabelSiblingFromInput",
+        "childrenChangedEmitter",
+        "childInsertedEmitter",
+        "childRemovedEmitter",
+        "childrenReorderedEmitter",
+        "parentAddedEmitter",
+        "parentRemovedEmitter",
+        "transformEmitter",
+        "instanceRefreshEmitter",
+        "rendererSummaryRefreshEmitter",
+        "filterChangeEmitter",
+        "changedInstanceEmitter",
+        "rootedDisplayChangedEmitter",
+        "layoutOptionsChangedEmitter",
+        "opacityProperty",
+        "disabledOpacityProperty",
+        "clipAreaProperty",
+        "voicingVisibleProperty",
+        "boundsProperty",
+        "localBoundsProperty",
+        "childBoundsProperty",
+        "selfBoundsProperty",
+        "laserImageWidth",
+        "laser",
+        "modelViewTransform"
+      ],
+      "bounds": {
+        "x": 172.46861030876715,
+        "y": 178.6460683423402,
+        "minX": 123.41540895105865,
+        "minY": 129.59286698463168,
+        "maxX": 221.52181166647563,
+        "maxY": 227.69926970004872
+      }
+    }
+  ],
+  "drag": {
+    "before": 45,
+    "angle": 61.73877848,
+    "events": [
+      46.52717299,
+      48.03462635,
+      49.52069094,
+      50.98386609,
+      52.4228159,
+      53.83636427,
+      55.22350582,
+      56.58339576,
+      57.91533944,
+      59.21879735,
+      60.49336713,
+      61.73877848
+    ]
+  },
+  "errors": [],
+  "transportVerifiedAt": "2026-11-14T08:34:49.274Z",
+  "transportMeasurement": {
+    "angleDeg": 45,
+    "n1": 1.000293,
+    "n2": 1.5,
+    "wavelengthNm": 650,
+    "incidentPowerFraction": 1,
+    "reflectedPowerFraction": 0.0919096359770932,
+    "transmittedPowerFraction": 0.908090364022907,
+    "refractedAngleDeg": 28.13447946,
+    "totalInternalReflection": false,
+    "rayCount": 3
+  }
+}

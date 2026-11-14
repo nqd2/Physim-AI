@@ -1,0 +1,478 @@
+{
+  "slug": "wave-on-a-string",
+  "version": "1.2.6",
+  "sourceSha256": "0498d3b6f8ed2d1a4c850bb9d2f085938fc5d1bb5c0c928cdd0bea65e9d195fb",
+  "verifiedAt": "2026-11-14T08:32:52.610Z",
+  "runtime": {
+    "version": "1.2.6",
+    "screenCount": 1,
+    "modelConstructor": "e",
+    "buildInfo": {
+      "name": "wave-on-a-string",
+      "version": "1.2.6",
+      "date": "Fri Nov 13 2026 03:44:54 GMT-0700 (Mountain Standard Time)",
+      "totalitySHA": "a0ffc715c26e52d0e777d575853328c7c750e87d",
+      "babelSHA": "d3602bcd3e0713fc53fd096ec6ddf8437647f82f",
+      "dependencyDirectories": [
+        "assert",
+        "axon",
+        "babel",
+        "brand",
+        "chipper",
+        "dot",
+        "joist",
+        "kite",
+        "perennial-alias",
+        "phet-core",
+        "phet-io",
+        "phet-io-sim-specific",
+        "phet-io-wrappers",
+        "phetcommon",
+        "phetmarks",
+        "query-string-machine",
+        "scenery",
+        "scenery-phet",
+        "sherpa",
+        "studio",
+        "sun",
+        "tambo",
+        "tandem",
+        "twixt",
+        "utterance-queue",
+        "wave-on-a-string"
+      ]
+    },
+    "units": {
+      "frequency": "Hz",
+      "amplitude": "cm",
+      "pulseWidth": "s"
+    },
+    "schema": [
+      {
+        "id": "main",
+        "index": 0,
+        "name": "Sóng trên một sợi dây",
+        "properties": [
+          {
+            "key": "frequency",
+            "name": "Tần số",
+            "type": "number",
+            "unit": "Hz",
+            "min": 0,
+            "max": 3,
+            "defaultValue": 1.5,
+            "writable": true
+          },
+          {
+            "key": "amplitude",
+            "name": "Biên độ",
+            "type": "number",
+            "unit": "cm",
+            "min": 0,
+            "max": 1.3,
+            "defaultValue": 0.75,
+            "writable": true
+          },
+          {
+            "key": "tension",
+            "name": "Độ căng tương đối",
+            "type": "number",
+            "min": 0.2,
+            "max": 0.8,
+            "defaultValue": 0.8,
+            "writable": true
+          },
+          {
+            "key": "damping",
+            "name": "Độ tắt dần",
+            "type": "number",
+            "min": 0,
+            "max": 1,
+            "defaultValue": 0.2,
+            "writable": true
+          },
+          {
+            "key": "pulseWidth",
+            "name": "Độ rộng xung",
+            "type": "number",
+            "unit": "s",
+            "min": 0.2,
+            "max": 1,
+            "defaultValue": 0.5,
+            "writable": true
+          },
+          {
+            "key": "waveMode",
+            "name": "Chế độ nguồn",
+            "type": "string",
+            "values": [
+              "MANUAL",
+              "OSCILLATE",
+              "PULSE"
+            ],
+            "defaultValue": "MANUAL",
+            "writable": true
+          },
+          {
+            "key": "stringEndType",
+            "name": "Đầu dây",
+            "type": "string",
+            "values": [
+              "FIXED_END",
+              "LOOSE_END",
+              "NO_END"
+            ],
+            "defaultValue": "FIXED_END",
+            "writable": true
+          },
+          {
+            "key": "isPlaying",
+            "name": "Đang chạy",
+            "type": "boolean",
+            "defaultValue": true,
+            "writable": true
+          },
+          {
+            "key": "sourceDisplacement",
+            "name": "Li độ đầu dây",
+            "type": "number",
+            "unit": "cm",
+            "writable": false
+          },
+          {
+            "key": "midpointDisplacement",
+            "name": "Li độ giữa dây",
+            "type": "number",
+            "unit": "cm",
+            "writable": false
+          },
+          {
+            "key": "phase",
+            "name": "Pha nguồn",
+            "type": "number",
+            "unit": "rad",
+            "writable": false
+          }
+        ],
+        "actions": [
+          {
+            "id": "observe",
+            "name": "Đọc số liệu"
+          },
+          {
+            "id": "run",
+            "name": "Chạy thí nghiệm"
+          },
+          {
+            "id": "pulse",
+            "name": "Phát một xung"
+          }
+        ]
+      }
+    ]
+  },
+  "checks": [
+    "load pinned Vietnamese HTML",
+    "apply sample configuration and read back",
+    "run actual model17steps and observe source displacement/phase",
+    "launch actual pulse",
+    "invalid action args do not mutate",
+    "real slider pointer drag emits lazyLink telemetry",
+    "lazyLink unlink cleanup",
+    "reset restores defaults"
+  ],
+  "sample": {
+    "frequency": 2,
+    "amplitude": 1,
+    "tension": 0.6,
+    "damping": 0,
+    "pulseWidth": 0.4,
+    "waveMode": "OSCILLATE",
+    "stringEndType": "NO_END",
+    "isPlaying": false
+  },
+  "before": {
+    "frequency": 1.5,
+    "amplitude": 0.75,
+    "tension": 0.8,
+    "damping": 0.2,
+    "pulseWidth": 0.5,
+    "isPlaying": true,
+    "waveMode": "MANUAL",
+    "stringEndType": "FIXED_END",
+    "sourceDisplacement": 0,
+    "phase": 0,
+    "midpointDisplacement": 0,
+    "maximumDisplacement": 0
+  },
+  "after": {
+    "frequency": 2,
+    "amplitude": 1,
+    "tension": 0.6,
+    "damping": 0,
+    "pulseWidth": 0.4,
+    "isPlaying": false,
+    "waveMode": "OSCILLATE",
+    "stringEndType": "NO_END",
+    "sourceDisplacement": 0,
+    "phase": 0,
+    "midpointDisplacement": 0,
+    "maximumDisplacement": 0
+  },
+  "running": {
+    "frequency": 2,
+    "amplitude": 1,
+    "tension": 0.6,
+    "damping": 0,
+    "pulseWidth": 0.4,
+    "isPlaying": false,
+    "waveMode": "OSCILLATE",
+    "stringEndType": "NO_END",
+    "sourceDisplacement": -0.9048270524660194,
+    "phase": 4.2725660088821185,
+    "midpointDisplacement": 0,
+    "maximumDisplacement": 0.9980267284282718,
+    "steps": 17,
+    "advancedSeconds": 0.34
+  },
+  "pulse": {
+    "frequency": 2,
+    "amplitude": 1,
+    "tension": 0.6,
+    "damping": 0,
+    "pulseWidth": 0.4,
+    "isPlaying": false,
+    "waveMode": "PULSE",
+    "stringEndType": "NO_END",
+    "sourceDisplacement": 0,
+    "phase": 0,
+    "midpointDisplacement": 0,
+    "maximumDisplacement": 0.9,
+    "steps": 25,
+    "advancedSeconds": 0.5
+  },
+  "pointerDrag": {
+    "events": [
+      1.63,
+      1.75,
+      1.88,
+      2,
+      2.13,
+      2.26,
+      2.38,
+      2.51
+    ],
+    "frequency": 2.51
+  },
+  "listenerChecks": {
+    "linked": [
+      2.4
+    ],
+    "unlinked": [
+      2.4
+    ]
+  },
+  "reset": {
+    "frequency": 1.5,
+    "amplitude": 0.75,
+    "tension": 0.8,
+    "damping": 0.2,
+    "pulseWidth": 0.5,
+    "isPlaying": true,
+    "waveMode": "MANUAL",
+    "stringEndType": "FIXED_END",
+    "sourceDisplacement": 0,
+    "phase": 0,
+    "midpointDisplacement": 0,
+    "maximumDisplacement": 0
+  },
+  "sliders": [
+    {
+      "id": "display1-primary-347-361-448-455-450-1011-835-872-871-847",
+      "name": null,
+      "value": "1",
+      "min": "0",
+      "max": "1.3",
+      "outer": "<input data-focusable=\"true\" class=\"a11y-pdom-element\" data-unique-id=\"347-361-448-455-450-1011-835-872-871-847\" id=\"display1-primary-347-361-448-455-450-1011-835-872-871-847\" type=\"range\" min=\"0\" max=\"1.3\" step=\"any\" aria-valuenow=\"1\" aria-orientation=\"horizontal\" aria-valuetext=\"1.00 centimeters\" style=\"top: 0px; left: 0px; width: 1px; height: 1px;\">"
+    },
+    {
+      "id": "display1-primary-347-361-448-455-450-1011-755-792-791-767",
+      "name": null,
+      "value": "1.5",
+      "min": "0",
+      "max": "3",
+      "outer": "<input data-focusable=\"true\" class=\"a11y-pdom-element\" data-unique-id=\"347-361-448-455-450-1011-755-792-791-767\" id=\"display1-primary-347-361-448-455-450-1011-755-792-791-767\" type=\"range\" min=\"0\" max=\"3\" step=\"any\" aria-valuenow=\"1.5\" aria-orientation=\"horizontal\" aria-valuetext=\"1.50 hertz\" style=\"top: 0px; left: 0px; width: 1px; height: 1px;\">"
+    },
+    {
+      "id": "display1-primary-347-361-448-455-450-1011-795-832-831-807",
+      "name": null,
+      "value": "0.4",
+      "min": "0.2",
+      "max": "1",
+      "outer": "<input data-focusable=\"true\" class=\"a11y-pdom-element\" data-unique-id=\"347-361-448-455-450-1011-795-832-831-807\" id=\"display1-primary-347-361-448-455-450-1011-795-832-831-807\" type=\"range\" min=\"0.2\" max=\"1\" step=\"any\" aria-valuenow=\"0.4\" aria-orientation=\"horizontal\" aria-valuetext=\"0.40 seconds\" style=\"top: 0px; left: 0px; width: 1px; height: 1px;\" hidden=\"\">"
+    },
+    {
+      "id": "display1-primary-347-361-448-455-450-1011-715-752-751-727",
+      "name": null,
+      "value": "0",
+      "min": "0",
+      "max": "100",
+      "outer": "<input data-focusable=\"true\" class=\"a11y-pdom-element\" data-unique-id=\"347-361-448-455-450-1011-715-752-751-727\" id=\"display1-primary-347-361-448-455-450-1011-715-752-751-727\" type=\"range\" min=\"0\" max=\"100\" step=\"any\" aria-valuenow=\"0\" aria-orientation=\"horizontal\" aria-valuetext=\"0 percent\" style=\"top: 0px; left: 0px; width: 1px; height: 1px;\">"
+    },
+    {
+      "id": "display1-primary-347-361-448-455-450-1011-675-712-711-687",
+      "name": null,
+      "value": "60",
+      "min": "20",
+      "max": "80",
+      "outer": "<input data-focusable=\"true\" class=\"a11y-pdom-element\" data-unique-id=\"347-361-448-455-450-1011-675-712-711-687\" id=\"display1-primary-347-361-448-455-450-1011-675-712-711-687\" type=\"range\" min=\"20\" max=\"80\" step=\"any\" aria-valuenow=\"60\" aria-orientation=\"horizontal\" aria-valuetext=\"60 percent\" style=\"top: 0px; left: 0px; width: 1px; height: 1px;\">"
+    }
+  ],
+  "browserErrors": [],
+  "publicSource": {
+    "matched": false,
+    "note": "Published HTML records totality commit; repository main exposes no js/ tree and version tag1.2.6 is absent. Verified runtime bindings directly against pinned HTML."
+  },
+  "result": {
+    "schema": [
+      {
+        "id": "main",
+        "index": 0,
+        "name": "Sóng trên một sợi dây",
+        "properties": [
+          {
+            "key": "frequency",
+            "name": "Tần số",
+            "type": "number",
+            "unit": "Hz",
+            "min": 0,
+            "max": 3,
+            "defaultValue": 1.5,
+            "writable": true
+          },
+          {
+            "key": "amplitude",
+            "name": "Biên độ",
+            "type": "number",
+            "unit": "cm",
+            "min": 0,
+            "max": 1.3,
+            "defaultValue": 0.75,
+            "writable": true
+          },
+          {
+            "key": "tension",
+            "name": "Độ căng tương đối",
+            "type": "number",
+            "min": 0.2,
+            "max": 0.8,
+            "defaultValue": 0.8,
+            "writable": true
+          },
+          {
+            "key": "damping",
+            "name": "Độ tắt dần",
+            "type": "number",
+            "min": 0,
+            "max": 1,
+            "defaultValue": 0.2,
+            "writable": true
+          },
+          {
+            "key": "pulseWidth",
+            "name": "Độ rộng xung",
+            "type": "number",
+            "unit": "s",
+            "min": 0.2,
+            "max": 1,
+            "defaultValue": 0.5,
+            "writable": true
+          },
+          {
+            "key": "waveMode",
+            "name": "Chế độ nguồn",
+            "type": "string",
+            "values": [
+              "MANUAL",
+              "OSCILLATE",
+              "PULSE"
+            ],
+            "defaultValue": "MANUAL",
+            "writable": true
+          },
+          {
+            "key": "stringEndType",
+            "name": "Đầu dây",
+            "type": "string",
+            "values": [
+              "FIXED_END",
+              "LOOSE_END",
+              "NO_END"
+            ],
+            "defaultValue": "FIXED_END",
+            "writable": true
+          },
+          {
+            "key": "isPlaying",
+            "name": "Đang chạy",
+            "type": "boolean",
+            "defaultValue": true,
+            "writable": true
+          },
+          {
+            "key": "sourceDisplacement",
+            "name": "Li độ đầu dây",
+            "type": "number",
+            "unit": "cm",
+            "writable": false
+          },
+          {
+            "key": "midpointDisplacement",
+            "name": "Li độ giữa dây",
+            "type": "number",
+            "unit": "cm",
+            "writable": false
+          },
+          {
+            "key": "phase",
+            "name": "Pha nguồn",
+            "type": "number",
+            "unit": "rad",
+            "writable": false
+          }
+        ],
+        "actions": [
+          {
+            "id": "observe",
+            "name": "Đọc số liệu"
+          },
+          {
+            "id": "run",
+            "name": "Chạy thí nghiệm"
+          },
+          {
+            "id": "pulse",
+            "name": "Phát một xung"
+          }
+        ]
+      }
+    ]
+  },
+  "transportVerifiedAt": "2026-11-14T08:34:47.968Z",
+  "transportMeasurement": {
+    "frequency": 1.5,
+    "amplitude": 0.75,
+    "tension": 0.8,
+    "damping": 0,
+    "pulseWidth": 0.5,
+    "isPlaying": false,
+    "waveMode": "OSCILLATE",
+    "stringEndType": "FIXED_END",
+    "sourceDisplacement": -0.14053598593929031,
+    "phase": 3.3300882128051765,
+    "midpointDisplacement": -0.5467264705660577,
+    "maximumDisplacement": 0.75,
+    "steps": 50,
+    "advancedSeconds": 1
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "verifiedAt": "2026-11-14T09:11:37.040Z",
+  "method": "Direct SFNT cmap format4/12 and OS/2 weight inspection; Vietnamese134precomposedcharacters plus8combiningmarks",
+  "fonts": [
+    {
+      "file": "Fredoka_600SemiBold.ttf",
+      "static": true,
+      "weight": 600,
+      "vietnameseCodepointsChecked": 134,
+      "missing": [
+        {
+          "codepoint": "U+1EA0",
+          "character": "Ạ"
+        },
+        {
+          "codepoint": "U+1EA1",
+          "character": "ạ"
+        },
+        {
+          "codepoint": "U+1EA2",
+          "character": "Ả"
+        },
+        {
+          "codepoint": "U+1EA3",
+          "character": "ả"
+        },
+        {
+          "codepoint": "U+1EA4",
+          "character": "Ấ"
+        },
+        {
+          "codepoint": "U+1EA5",
+          "character": "ấ"
+        },
+        {
+          "codepoint": "U+1EA6",
+          "character": "Ầ"
+        },
+        {
+          "codepoint": "U+1EA7",
+          "character": "ầ"
+        },
+        {
+          "codepoint": "U+1EA8",
+          "character": "Ẩ"
+        },
+        {
+          "codepoint": "U+1EA9",
+          "character": "ẩ"
+        },
+        {
+          "codepoint": "U+1EAA",
+          "character": "Ẫ"
+        },
+        {
+          "codepoint": "U+1EAB",
+          "character": "ẫ"
+        },
+        {
+          "codepoint": "U+1EAC",
+          "character": "Ậ"
+        },
+        {
+          "codepoint": "U+1EAD",
+          "character": "ậ"
+        },
+        {
+          "codepoint": "U+1EAE",
+          "character": "Ắ"
+        },
+        {
+          "codepoint": "U+1EAF",
+          "character": "ắ"
+        },
+        {
+          "codepoint": "U+1EB0",
+          "character": "Ằ"
+        },
+        {
+          "codepoint": "U+1EB1",
+          "character": "ằ"
+        },
+        {
+          "codepoint": "U+1EB2",
+          "character": "Ẳ"
+        },
+        {
+          "codepoint": "U+1EB3",
+          "character": "ẳ"
+        },
+        {
+          "codepoint": "U+1EB4",
+          "character": "Ẵ"
+        },
+        {
+          "codepoint": "U+1EB5",
+          "character": "ẵ"
+        },
+        {
+          "codepoint": "U+1EB6",
+          "character": "Ặ"
+        },
+        {
+          "codepoint": "U+1EB7",
+          "character": "ặ"
+        },
+        {
+          "codepoint": "U+1EB8",
+          "character": "Ẹ"
+        },
+        {
+          "codepoint": "U+1EB9",
+          "character": "ẹ"
+        },
+        {
+          "codepoint": "U+1EBA",
+          "character": "Ẻ"
+        },
+        {
+          "codepoint": "U+1EBB",
+          "character": "ẻ"
+        },
+        {
+          "codepoint": "U+1EBC",
+          "character": "Ẽ"
+        },
+        {
+          "codepoint": "U+1EBD",
+          "character": "ẽ"
+        },
+        {
+          "codepoint": "U+1EBE",
+          "character": "Ế"
+        },
+        {
+          "codepoint": "U+1EBF",
+          "character": "ế"
+        },
+        {
+          "codepoint": "U+1EC0",
+          "character": "Ề"
+        },
+        {
+          "codepoint": "U+1EC1",
+          "character": "ề"
+        },
+        {
+          "codepoint": "U+1EC2",
+          "character": "Ể"
+        },
+        {
+          "codepoint": "U+1EC3",
+          "character": "ể"
+        },
+        {
+          "codepoint": "U+1EC4",
+          "character": "Ễ"
+        },
+        {
+          "codepoint": "U+1EC5",
+          "character": "ễ"
+        },
+        {
+          "codepoint": "U+1EC6",
+          "character": "Ệ"
+        },
+        {
+          "codepoint": "U+1EC7",
+          "character": "ệ"
+        },
+        {
+          "codepoint": "U+1EC8",
+          "character": "Ỉ"
+        },
+        {
+          "codepoint": "U+1EC9",
+          "character": "ỉ"
+        },
+        {
+          "codepoint": "U+1ECA",
+          "character": "Ị"
+        },
+        {
+          "codepoint": "U+1ECB",
+          "character": "ị"
+        },
+        {
+          "codepoint": "U+1ECC",
+          "character": "Ọ"
+        },
+        {
+          "codepoint": "U+1ECD",
+          "character": "ọ"
+        },
+        {
+          "codepoint": "U+1ECE",
+          "character": "Ỏ"
+        },
+        {
+          "codepoint": "U+1ECF",
+          "character": "ỏ"
+        },
+        {
+          "codepoint": "U+1ED0",
+          "character": "Ố"
+        },
+        {
+          "codepoint": "U+1ED1",
+          "character": "ố"
+        },
+        {
+          "codepoint": "U+1ED2",
+          "character": "Ồ"
+        },
+        {
+          "codepoint": "U+1ED3",
+          "character": "ồ"
+        },
+        {
+          "codepoint": "U+1ED4",
+          "character": "Ổ"
+        },
+        {
+          "codepoint": "U+1ED5",
+          "character": "ổ"
+        },
+        {
+          "codepoint": "U+1ED6",
+          "character": "Ỗ"
+        },
+        {
+          "codepoint": "U+1ED7",
+          "character": "ỗ"
+        },
+        {
+          "codepoint": "U+1ED8",
+          "character": "Ộ"
+        },
+        {
+          "codepoint": "U+1ED9",
+          "character": "ộ"
+        },
+        {
+          "codepoint": "U+1EDA",
+          "character": "Ớ"
+        },
+        {
+          "codepoint": "U+1EDB",
+          "character": "ớ"
+        },
+        {
+          "codepoint": "U+1EDC",
+          "character": "Ờ"
+        },
+        {
+          "codepoint": "U+1EDD",
+          "character": "ờ"
+        },
+        {
+          "codepoint": "U+1EDE",
+          "character": "Ở"
+        },
+        {
+          "codepoint": "U+1EDF",
+          "character": "ở"
+        },
+        {
+          "codepoint": "U+1EE0",
+          "character": "Ỡ"
+        },
+        {
+          "codepoint": "U+1EE1",
+          "character": "ỡ"
+        },
+        {
+          "codepoint": "U+1EE2",
+          "character": "Ợ"
+        },
+        {
+          "codepoint": "U+1EE3",
+          "character": "ợ"
+        },
+        {
+          "codepoint": "U+1EE4",
+          "character": "Ụ"
+        },
+        {
+          "codepoint": "U+1EE5",
+          "character": "ụ"
+        },
+        {
+          "codepoint": "U+1EE6",
+          "character": "Ủ"
+        },
+        {
+          "codepoint": "U+1EE7",
+          "character": "ủ"
+        },
+        {
+          "codepoint": "U+1EE8",
+          "character": "Ứ"
+        },
+        {
+          "codepoint": "U+1EE9",
+          "character": "ứ"
+        },
+        {
+          "codepoint": "U+1EEA",
+          "character": "Ừ"
+        },
+        {
+          "codepoint": "U+1EEB",
+          "character": "ừ"
+        },
+        {
+          "codepoint": "U+1EEC",
+          "character": "Ử"
+        },
+        {
+          "codepoint": "U+1EED",
+          "character": "ử"
+        },
+        {
+          "codepoint": "U+1EEE",
+          "character": "Ữ"
+        },
+        {
+          "codepoint": "U+1EEF",
+          "character": "ữ"
+        },
+        {
+          "codepoint": "U+1EF0",
+          "character": "Ự"
+        },
+        {
+          "codepoint": "U+1EF1",
+          "character": "ự"
+        },
+        {
+          "codepoint": "U+1EF2",
+          "character": "Ỳ"
+        },
+        {
+          "codepoint": "U+1EF3",
+          "character": "ỳ"
+        },
+        {
+          "codepoint": "U+1EF4",
+          "character": "Ỵ"
+        },
+        {
+          "codepoint": "U+1EF5",
+          "character": "ỵ"
+        },
+        {
+          "codepoint": "U+1EF6",
+          "character": "Ỷ"
+        },
+        {
+          "codepoint": "U+1EF7",
+          "character": "ỷ"
+        },
+        {
+          "codepoint": "U+1EF8",
+          "character": "Ỹ"
+        },
+        {
+          "codepoint": "U+1EF9",
+          "character": "ỹ"
+        },
+        {
+          "codepoint": "U+102",
+          "character": "Ă"
+        },
+        {
+          "codepoint": "U+103",
+          "character": "ă"
+        },
+        {
+          "codepoint": "U+1A0",
+          "character": "Ơ"
+        },
+        {
+          "codepoint": "U+1A1",
+          "character": "ơ"
+        },
+        {
+          "codepoint": "U+1AF",
+          "character": "Ư"
+        },
+        {
+          "codepoint": "U+1B0",
+          "character": "ư"
+        },
+        {
+          "codepoint": "U+110",
+          "character": "Đ"
+        },
+        {
+          "codepoint": "U+111",
+          "character": "đ"
+        },
+        {
+          "codepoint": "U+128",
+          "character": "Ĩ"
+        },
+        {
+          "codepoint": "U+129",
+          "character": "ĩ"
+        },
+        {
+          "codepoint": "U+168",
+          "character": "Ũ"
+        },
+        {
+          "codepoint": "U+169",
+          "character": "ũ"
+        }
+      ],
+      "missingCombiningMarks": [
+        "U+309",
+        "U+31B",
+        "U+323"
+      ]
+    },
+    {
+      "file": "Nunito_400Regular.ttf",
+      "static": true,
+      "weight": 400,
+      "vietnameseCodepointsChecked": 134,
+      "missing": [],
+      "missingCombiningMarks": []
+    },
+    {
+      "file": "Nunito_700Bold.ttf",
+      "static": true,
+      "weight": 700,
+      "vietnameseCodepointsChecked": 134,
+      "missing": [],
+      "missingCombiningMarks": []
+    },
+    {
+      "file": "Nunito_800ExtraBold.ttf",
+      "static": true,
+      "weight": 800,
+      "vietnameseCodepointsChecked": 134,
+      "missing": [],
+      "missingCombiningMarks": []
+    }
+  ]
+}

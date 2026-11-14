@@ -1,0 +1,12 @@
+packages:
+  - apps/*
+  - packages/*
+
+nodeLinker: hoisted
+storeDir: .pnpm-store
+cacheDir: .pnpm-cache
+allowBuilds:
+  esbuild: true
+  sharp: true
+minimumReleaseAgeExclude:
+  - playwright-core@1.65.1

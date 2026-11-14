@@ -1,0 +1,155 @@
+{
+  "slug": "projectile-motion",
+  "version": "1.0.36",
+  "sourceSha256": "770dc2ebaa7d5f200fafe9785c5263fafc63435fa48963e7cec6f3583ea6ed8a",
+  "source": "apps/server/storage/phet-sims/originals/projectile-motion/1.0.36/projectile-motion_vi.html",
+  "verifiedAt": "2026-11-14T08:25:34.452Z",
+  "browser": "Chrome",
+  "checks": [
+    "version pinned HTML boots",
+    "apply sample and read back",
+    "lazyLink observes external updates",
+    "pointer drag of real PhET slider emits telemetry",
+    "unsubscribe removes listener",
+    "fire returns actual trajectory",
+    "observe reads same model data",
+    "reset restores defaults"
+  ],
+  "pointerDrag": {
+    "events": [
+      16,
+      17,
+      18,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "value": 24
+  },
+  "result": {
+    "schema": [
+      {
+        "id": "intro",
+        "index": 0,
+        "name": "Giới thiệu",
+        "properties": [
+          {
+            "key": "speed",
+            "name": "Tốc độ ban đầu",
+            "type": "number",
+            "min": 0,
+            "max": 30,
+            "defaultValue": 15,
+            "unit": "m/s",
+            "writable": true
+          },
+          {
+            "key": "angle",
+            "name": "Góc bắn",
+            "type": "number",
+            "min": -90,
+            "max": 90,
+            "defaultValue": 0,
+            "unit": "°",
+            "writable": true
+          },
+          {
+            "key": "height",
+            "name": "Độ cao ban đầu",
+            "type": "number",
+            "min": 0,
+            "max": 15,
+            "defaultValue": 10,
+            "unit": "m",
+            "writable": true
+          },
+          {
+            "key": "airResistance",
+            "name": "Lực cản không khí",
+            "type": "boolean",
+            "defaultValue": false,
+            "writable": true
+          },
+          {
+            "key": "gravity",
+            "name": "Gia tốc trọng trường",
+            "type": "number",
+            "defaultValue": 9.81,
+            "unit": "m/s²",
+            "writable": false
+          },
+          {
+            "key": "movingProjectiles",
+            "name": "Số vật đang bay",
+            "type": "number",
+            "defaultValue": 0,
+            "writable": false
+          }
+        ],
+        "actions": [
+          {
+            "id": "fire",
+            "name": "Bắn và đo tầm xa"
+          },
+          {
+            "id": "observe",
+            "name": "Đọc quỹ đạo hiện tại"
+          }
+        ]
+      }
+    ],
+    "initial": {
+      "speed": 24,
+      "angle": 0,
+      "height": 10,
+      "airResistance": false,
+      "gravity": 9.81,
+      "movingProjectiles": 0
+    },
+    "applied": {
+      "speed": 20,
+      "angle": 40,
+      "height": 2,
+      "airResistance": false,
+      "gravity": 9.81,
+      "movingProjectiles": 0
+    },
+    "events": [
+      20,
+      21,
+      20
+    ],
+    "fire": {
+      "range": 42.41194395660246,
+      "flightTime": 2.768243039785044,
+      "peakHeight": 10.423027851850025,
+      "landed": true,
+      "samples": 113
+    },
+    "observe": {
+      "range": 42.41194395660246,
+      "flightTime": 2.768243039785044,
+      "peakHeight": 10.423027851850025,
+      "landed": true,
+      "samples": 113
+    },
+    "reset": {
+      "speed": 15,
+      "angle": 0,
+      "height": 10,
+      "airResistance": false,
+      "gravity": 9.81,
+      "movingProjectiles": 0
+    }
+  },
+  "transportVerifiedAt": "2026-11-14T08:34:44.861Z",
+  "transportMeasurement": {
+    "range": 42.41194395660246,
+    "flightTime": 2.768243039785044,
+    "peakHeight": 10.423027851850025,
+    "landed": true,
+    "samples": 113
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "Study Buddy",
+    "slug": "physim-ai",
+    "scheme": "physim",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "platforms": [
+      "android",
+      "ios",
+      "web"
+    ],
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "name": "Study Buddy"
+    },
+    "android": {
+      "package": "vn.physim.pilot"
+    },
+    "ios": {
+      "bundleIdentifier": "vn.physim.pilot",
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSAppTransportSecurity": {
+          "NSAllowsLocalNetworking": true
+        }
+      }
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Chọn ảnh đề bài hoặc bài làm để học cùng Physim.",
+          "cameraPermission": "Chụp đề bài hoặc bài làm để học cùng Physim.",
+          "microphonePermission": false
+        }
+      ],
+      "./plugins/withNetworkPolicy.cjs"
+    ],
+    "experiments": {
+      "typedRoutes": false
+    }
+  }
+}

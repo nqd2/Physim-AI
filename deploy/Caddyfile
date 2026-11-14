@@ -1,0 +1,4 @@
+{$PHYSIM_DOMAIN} {
+	encode zstd gzip
+	reverse_proxy physim:4000
+}

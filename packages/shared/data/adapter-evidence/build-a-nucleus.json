@@ -1,0 +1,160 @@
+{
+  "slug": "build-a-nucleus",
+  "version": "1.1.12",
+  "sourceSha256": "32f2d152fecb2373c9207272d200eede7cba82e2d73bb39da0e14c8e4025b321",
+  "testedAt": "2026-11-14T08:35:21.551Z",
+  "checks": [
+    "registered schema properties/actions match bindings on both screens",
+    "configuration creates real visible particles",
+    "reads count/mass/stability from PhET model",
+    "observe action",
+    "add-neutron experiment",
+    "lazyLink telemetry",
+    "unlink telemetry cleanup",
+    "fraction rejection without mutation",
+    "model and view reset",
+    "chart screen binding",
+    "native pointer drag telemetry"
+  ],
+  "results": {
+    "schemaParity": [
+      {
+        "screenId": "decay",
+        "properties": [
+          "isStable",
+          "massNumber",
+          "neutrons",
+          "nuclideExists",
+          "protons"
+        ],
+        "bindings": [
+          "isStable",
+          "massNumber",
+          "neutrons",
+          "nuclideExists",
+          "protons"
+        ],
+        "actions": [
+          "add-neutron",
+          "observe"
+        ],
+        "actionBindings": [
+          "add-neutron",
+          "observe"
+        ]
+      },
+      {
+        "screenId": "chart",
+        "properties": [
+          "isStable",
+          "massNumber",
+          "neutrons",
+          "nuclideExists",
+          "protons"
+        ],
+        "bindings": [
+          "isStable",
+          "massNumber",
+          "neutrons",
+          "nuclideExists",
+          "protons"
+        ],
+        "actions": [
+          "add-neutron",
+          "observe"
+        ],
+        "actionBindings": [
+          "add-neutron",
+          "observe"
+        ]
+      }
+    ],
+    "carbon14": {
+      "protons": 6,
+      "neutrons": 8,
+      "massNumber": 14,
+      "isStable": false,
+      "nuclideExists": true
+    },
+    "actualParticleCounts": {
+      "protons": 6,
+      "neutrons": 8,
+      "all": 14
+    },
+    "carbon12": {
+      "protons": 6,
+      "neutrons": 6,
+      "massNumber": 12,
+      "isStable": true,
+      "nuclideExists": true
+    },
+    "carbon13": {
+      "protons": 6,
+      "neutrons": 7,
+      "massNumber": 13,
+      "isStable": true,
+      "nuclideExists": true
+    },
+    "linkedEvents": 27,
+    "eventsAfterUnlink": 27,
+    "rejectsFraction": true,
+    "afterInvalid": {
+      "protons": 6,
+      "neutrons": 8,
+      "massNumber": 14,
+      "isStable": false,
+      "nuclideExists": true
+    },
+    "reset": {
+      "protons": 0,
+      "neutrons": 0,
+      "massNumber": 0,
+      "isStable": false,
+      "nuclideExists": false
+    },
+    "helium4": {
+      "protons": 2,
+      "neutrons": 2,
+      "massNumber": 4,
+      "isStable": true,
+      "nuclideExists": true
+    },
+    "chartReset": {
+      "protons": 0,
+      "neutrons": 0,
+      "massNumber": 0,
+      "isStable": false,
+      "nuclideExists": false
+    },
+    "version": "1.1.12",
+    "screenCount": 2,
+    "nativeDrag": {
+      "neutrons": 7,
+      "events": 1
+    }
+  },
+  "sourceEvidence": {
+    "matchingPublicSourceAvailable": false,
+    "reason": "Public main contains README/docs only; no 1.1.12 tag. Exact released HTML runtime inspected.",
+    "buildTotalitySha": "ecc3766f69863a7681e1191ba62cb1d721b91fef",
+    "modelMethods": [
+      "populateAtom",
+      "reset"
+    ],
+    "properties": [
+      "particleAtom.protonCountProperty",
+      "particleAtom.neutronCountProperty",
+      "particleAtom.massNumberProperty",
+      "isStableProperty",
+      "nuclideExistsProperty"
+    ]
+  },
+  "transportVerifiedAt": "2026-11-14T08:34:50.649Z",
+  "transportMeasurement": {
+    "protons": 6,
+    "neutrons": 6,
+    "massNumber": 12,
+    "isStable": true,
+    "nuclideExists": true
+  }
+}

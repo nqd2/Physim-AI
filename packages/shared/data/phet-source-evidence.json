@@ -1,0 +1,369 @@
+{
+  "schemaVersion": 1,
+  "scope": "Matching public source AST evidence; never authorizes bridge writes or actions.",
+  "simulations": {
+    "ohms-law": {
+      "slug": "ohms-law",
+      "version": "1.4.33",
+      "sourceSha256": "d12fbe53ff2a17cba470e6c61d839a382d992fe58b55357578623b837b36ae4c",
+      "buildInfo": {
+        "name": "ohms-law",
+        "version": "1.4.33",
+        "date": "Wed Oct 28 2026 19:02:54 GMT-0600 (Mountain Daylight Time)",
+        "totalitySHA": "41719f7dbb0265b2019333326c2d5d4987a4bdeb",
+        "babelSHA": "41719f7dbb0265b2019333326c2d5d4987a4bdeb",
+        "dependencyDirectories": [
+          "assert",
+          "axon",
+          "babel",
+          "brand",
+          "chipper",
+          "dot",
+          "joist",
+          "kite",
+          "ohms-law",
+          "phet-core",
+          "phet-io",
+          "phet-io-wrappers",
+          "phetcommon",
+          "phetmarks",
+          "query-string-machine",
+          "scenery",
+          "scenery-phet",
+          "sherpa",
+          "sun",
+          "tambo",
+          "tandem",
+          "vibe"
+        ]
+      },
+      "probes": [
+        {
+          "url": "https://raw.githubusercontent.com/phetsims/totality/41719f7dbb0265b2019333326c2d5d4987a4bdeb/ohms-law/package.json",
+          "status": 404
+        },
+        {
+          "url": "https://raw.githubusercontent.com/phetsims/ohms-law/1.4.33/package.json",
+          "status": 404
+        },
+        {
+          "url": "https://raw.githubusercontent.com/phetsims/ohms-law/v1.4.33/package.json",
+          "status": 404
+        }
+      ],
+      "grantsRuntimePermissions": false,
+      "status": "unavailable",
+      "reason": "No exact public commit or resolvable matching version tag was available. Current PhET builds identify the non-public totality monorepo. Older main branches are not substituted.",
+      "sourceNoticeUrl": "https://github.com/phetsims/ohms-law",
+      "files": [],
+      "properties": [],
+      "screens": [],
+      "actions": []
+    },
+    "projectile-motion": {
+      "slug": "projectile-motion",
+      "version": "1.0.36",
+      "sourceSha256": "770dc2ebaa7d5f200fafe9785c5263fafc63435fa48963e7cec6f3583ea6ed8a",
+      "buildInfo": {
+        "name": "projectile-motion",
+        "version": "1.0.36",
+        "date": "Wed Oct 28 2026 19:13:34 GMT-0600 (Mountain Daylight Time)",
+        "totalitySHA": "34068a22d1d8068cf19a747a80d3e052346aea75",
+        "babelSHA": "6199de240f600ae88109acef00e408d81c31d510",
+        "dependencyDirectories": [
+          "assert",
+          "axon",
+          "babel",
+          "brand",
+          "chipper",
+          "dot",
+          "joist",
+          "kite",
+          "phet-core",
+          "phetcommon",
+          "phetmarks",
+          "projectile-motion",
+          "query-string-machine",
+          "scenery",
+          "scenery-phet",
+          "sherpa",
+          "sun",
+          "tandem"
+        ]
+      },
+      "probes": [
+        {
+          "url": "https://raw.githubusercontent.com/phetsims/totality/34068a22d1d8068cf19a747a80d3e052346aea75/projectile-motion/package.json",
+          "status": 404
+        },
+        {
+          "url": "https://raw.githubusercontent.com/phetsims/projectile-motion/1.0.36/package.json",
+          "status": 404
+        },
+        {
+          "url": "https://raw.githubusercontent.com/phetsims/projectile-motion/v1.0.36/package.json",
+          "status": 404
+        }
+      ],
+      "grantsRuntimePermissions": false,
+      "status": "unavailable",
+      "reason": "No exact public commit or resolvable matching version tag was available. Current PhET builds identify the non-public totality monorepo. Older main branches are not substituted.",
+      "sourceNoticeUrl": "https://github.com/phetsims/projectile-motion",
+      "files": [],
+      "properties": [],
+      "screens": [],
+      "actions": []
+    },
+    "gas-properties": {
+      "slug": "gas-properties",
+      "version": "1.1.12",
+      "sourceSha256": "467cbce2ecc6b64e57a91e41436ac4c5eb16858ccae5018ca09f8b2edcecf584",
+      "buildInfo": {
+        "name": "gas-properties",
+        "version": "1.1.12",
+        "date": "Wed Oct 28 2026 17:24:03 GMT-0600 (Mountain Daylight Time)",
+        "totalitySHA": "fa80ed8cb1f22f41d19055b54d85b2a03ad6527b",
+        "babelSHA": "6199de240f600ae88109acef00e408d81c31d510",
+        "dependencyDirectories": [
+          "assert",
+          "axon",
+          "babel",
+          "bamboo",
+          "brand",
+          "chipper",
+          "dot",
+          "gas-properties",
+          "joist",
+          "kite",
+          "perennial-alias",
+          "phet-core",
+          "phet-io",
+          "phet-io-sim-specific",
+          "phet-io-wrappers",
+          "phetcommon",
+          "phetmarks",
+          "query-string-machine",
+          "scenery",
+          "scenery-phet",
+          "sherpa",
+          "studio",
+          "sun",
+          "tambo",
+          "tandem",
+          "twixt",
+          "utterance-queue"
+        ]
+      },
+      "probes": [
+        {
+          "url": "https://raw.githubusercontent.com/phetsims/totality/fa80ed8cb1f22f41d19055b54d85b2a03ad6527b/gas-properties/package.json",
+          "status": 404
+        },
+        {
+          "url": "https://raw.githubusercontent.com/phetsims/gas-properties/1.1.12/package.json",
+          "status": 404
+        },
+        {
+          "url": "https://raw.githubusercontent.com/phetsims/gas-properties/v1.1.12/package.json",
+          "status": 404
+        }
+      ],
+      "grantsRuntimePermissions": false,
+      "status": "unavailable",
+      "reason": "No exact public commit or resolvable matching version tag was available. Current PhET builds identify the non-public totality monorepo. Older main branches are not substituted.",
+      "sourceNoticeUrl": "https://github.com/phetsims/gas-properties",
+      "files": [],
+      "properties": [],
+      "screens": [],
+      "actions": []
+    },
+    "wave-on-a-string": {
+      "slug": "wave-on-a-string",
+      "version": "1.2.6",
+      "sourceSha256": "0498d3b6f8ed2d1a4c850bb9d2f085938fc5d1bb5c0c928cdd0bea65e9d195fb",
+      "buildInfo": {
+        "name": "wave-on-a-string",
+        "version": "1.2.6",
+        "date": "Fri Nov 13 2026 03:44:54 GMT-0700 (Mountain Standard Time)",
+        "totalitySHA": "a0ffc715c26e52d0e777d575853328c7c750e87d",
+        "babelSHA": "d3602bcd3e0713fc53fd096ec6ddf8437647f82f",
+        "dependencyDirectories": [
+          "assert",
+          "axon",
+          "babel",
+          "brand",
+          "chipper",
+          "dot",
+          "joist",
+          "kite",
+          "perennial-alias",
+          "phet-core",
+          "phet-io",
+          "phet-io-sim-specific",
+          "phet-io-wrappers",
+          "phetcommon",
+          "phetmarks",
+          "query-string-machine",
+          "scenery",
+          "scenery-phet",
+          "sherpa",
+          "studio",
+          "sun",
+          "tambo",
+          "tandem",
+          "twixt",
+          "utterance-queue",
+          "wave-on-a-string"
+        ]
+      },
+      "probes": [
+        {
+          "url": "https://raw.githubusercontent.com/phetsims/totality/a0ffc715c26e52d0e777d575853328c7c750e87d/wave-on-a-string/package.json",
+          "status": 404
+        },
+        {
+          "url": "https://raw.githubusercontent.com/phetsims/wave-on-a-string/1.2.6/package.json",
+          "status": 404
+        },
+        {
+          "url": "https://raw.githubusercontent.com/phetsims/wave-on-a-string/v1.2.6/package.json",
+          "status": 404
+        }
+      ],
+      "grantsRuntimePermissions": false,
+      "status": "unavailable",
+      "reason": "No exact public commit or resolvable matching version tag was available. Current PhET builds identify the non-public totality monorepo. Older main branches are not substituted.",
+      "sourceNoticeUrl": "https://github.com/phetsims/wave-on-a-string",
+      "files": [],
+      "properties": [],
+      "screens": [],
+      "actions": []
+    },
+    "bending-light": {
+      "slug": "bending-light",
+      "version": "1.2.7",
+      "sourceSha256": "bed8441aa2a56a0e1f021b457165a7ec3fe4329d80e72f33bad4547030378df5",
+      "buildInfo": {
+        "name": "bending-light",
+        "version": "1.2.7",
+        "date": "Wed Oct 28 2026 15:54:54 GMT-0600 (Mountain Daylight Time)",
+        "totalitySHA": "9f78bd049e8f5520ea4730530789cad771be8596",
+        "babelSHA": "6199de240f600ae88109acef00e408d81c31d510",
+        "dependencyDirectories": [
+          "assert",
+          "axon",
+          "babel",
+          "bending-light",
+          "brand",
+          "chipper",
+          "dot",
+          "joist",
+          "kite",
+          "perennial-alias",
+          "phet-core",
+          "phet-io",
+          "phet-io-sim-specific",
+          "phet-io-wrappers",
+          "phetcommon",
+          "phetmarks",
+          "query-string-machine",
+          "scenery",
+          "scenery-phet",
+          "sherpa",
+          "studio",
+          "sun",
+          "tambo",
+          "tandem",
+          "twixt",
+          "utterance-queue"
+        ]
+      },
+      "probes": [
+        {
+          "url": "https://raw.githubusercontent.com/phetsims/totality/9f78bd049e8f5520ea4730530789cad771be8596/bending-light/package.json",
+          "status": 404
+        },
+        {
+          "url": "https://raw.githubusercontent.com/phetsims/bending-light/1.2.7/package.json",
+          "status": 404
+        },
+        {
+          "url": "https://raw.githubusercontent.com/phetsims/bending-light/v1.2.7/package.json",
+          "status": 404
+        }
+      ],
+      "grantsRuntimePermissions": false,
+      "status": "unavailable",
+      "reason": "No exact public commit or resolvable matching version tag was available. Current PhET builds identify the non-public totality monorepo. Older main branches are not substituted.",
+      "sourceNoticeUrl": "https://github.com/phetsims/bending-light",
+      "files": [],
+      "properties": [],
+      "screens": [],
+      "actions": []
+    },
+    "build-a-nucleus": {
+      "slug": "build-a-nucleus",
+      "version": "1.1.12",
+      "sourceSha256": "32f2d152fecb2373c9207272d200eede7cba82e2d73bb39da0e14c8e4025b321",
+      "buildInfo": {
+        "name": "build-a-nucleus",
+        "version": "1.1.12",
+        "date": "Wed Oct 28 2026 16:02:19 GMT-0600 (Mountain Daylight Time)",
+        "totalitySHA": "ecc3766f69863a7681e1191ba62cb1d721b91fef",
+        "babelSHA": "6199de240f600ae88109acef00e408d81c31d510",
+        "dependencyDirectories": [
+          "assert",
+          "axon",
+          "babel",
+          "bamboo",
+          "brand",
+          "build-a-nucleus",
+          "chipper",
+          "dot",
+          "joist",
+          "kite",
+          "perennial-alias",
+          "phet-core",
+          "phet-io",
+          "phet-io-sim-specific",
+          "phet-io-wrappers",
+          "phetcommon",
+          "phetmarks",
+          "query-string-machine",
+          "scenery",
+          "scenery-phet",
+          "sherpa",
+          "shred",
+          "studio",
+          "sun",
+          "tambo",
+          "tandem",
+          "twixt",
+          "utterance-queue"
+        ]
+      },
+      "probes": [
+        {
+          "url": "https://raw.githubusercontent.com/phetsims/totality/ecc3766f69863a7681e1191ba62cb1d721b91fef/build-a-nucleus/package.json",
+          "status": 404
+        },
+        {
+          "url": "https://raw.githubusercontent.com/phetsims/build-a-nucleus/1.1.12/package.json",
+          "status": 404
+        },
+        {
+          "url": "https://raw.githubusercontent.com/phetsims/build-a-nucleus/v1.1.12/package.json",
+          "status": 404
+        }
+      ],
+      "grantsRuntimePermissions": false,
+      "status": "unavailable",
+      "reason": "No exact public commit or resolvable matching version tag was available. Current PhET builds identify the non-public totality monorepo. Older main branches are not substituted.",
+      "sourceNoticeUrl": "https://github.com/phetsims/build-a-nucleus",
+      "files": [],
+      "properties": [],
+      "screens": [],
+      "actions": []
+    }
+  }
+}

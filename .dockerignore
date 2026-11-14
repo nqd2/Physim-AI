@@ -1,0 +1,42 @@
+# Allow only the new monorepo build inputs. In particular, the root .env,
+# legacy data/photos, web/android prototypes, toolchains and QA stay outside.
+**
+!package.json
+!pnpm-lock.yaml
+!pnpm-workspace.yaml
+!.npmrc
+!tsconfig.base.json
+!apps/
+!apps/mobile/
+!apps/mobile/**
+!apps/server/
+!apps/server/**
+!packages/
+!packages/shared/
+!packages/shared/**
+!scripts/
+!scripts/**
+
+# Exclude generated files and secrets even inside the allowed source trees.
+**/node_modules
+**/dist
+**/.expo
+**/.env
+**/.env.*
+**/.git
+**/.cache
+**/.npm-cache
+**/.pnpm-store
+**/.pnpm-cache
+**/.pnpm-state
+**/coverage
+**/*.log
+**/*.pem
+**/*.key
+**/*.jks
+**/*.keystore
+**/*.apk
+**/*.aab
+apps/mobile/android
+apps/mobile/ios
+apps/server/storage

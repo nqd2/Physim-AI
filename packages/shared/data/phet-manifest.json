@@ -1,0 +1,3426 @@
+{
+  "schemaVersion": 1,
+  "generation": "5dd63234f47de7c765be",
+  "chapters": [
+    {
+      "id": "mechanics",
+      "title": "Cơ học"
+    },
+    {
+      "id": "thermal",
+      "title": "Nhiệt & Chất khí"
+    },
+    {
+      "id": "electricity",
+      "title": "Điện & Từ"
+    },
+    {
+      "id": "waves",
+      "title": "Dao động & Sóng"
+    },
+    {
+      "id": "optics",
+      "title": "Quang học"
+    },
+    {
+      "id": "nuclear",
+      "title": "Nguyên tử & Hạt nhân"
+    }
+  ],
+  "simulations": [
+    {
+      "slug": "alpha-decay",
+      "title": "Phân rã Alpha",
+      "titleEn": "Alpha Decay",
+      "version": "1.0.2",
+      "subjects": [
+        4,
+        9,
+        13,
+        20
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Nhãn chủ đề PhET 9.",
+      "chapterOverride": false,
+      "metadataId": 1277,
+      "metadataUpdatedAt": "2026-10-31T05:45:24.952Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/alpha-decay",
+      "releaseDate": "2026-11-02T14:55:45.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "alpha-decay",
+        "version": "1.0.2",
+        "locale": "vi",
+        "buildTimestamp": "2026-11-02 14:55:45 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/alpha-decay/1.0.2/alpha-decay_vi.html",
+      "sha256": "44c03836a68f7bce311d237b1e9633508758ec6f26d35425988abe227ef9621c",
+      "originalPath": "originals/alpha-decay/1.0.2/alpha-decay_vi.html",
+      "bytes": 2930584,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/alpha-decay/1.0.2/vi.html",
+      "renderedSha256": "b022a33f8da9f004ab0d0bcb5b658567fa44da173d715fb8ccf004255999689e",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "atomic-interactions",
+      "title": "Tương tác nguyên tử",
+      "titleEn": "Atomic Interactions",
+      "version": "1.2.23",
+      "subjects": [
+        4,
+        8,
+        13,
+        19
+      ],
+      "chapter": "thermal",
+      "chapterReason": "Nhãn chủ đề PhET 8.",
+      "chapterOverride": false,
+      "metadataId": 189,
+      "metadataUpdatedAt": "2026-10-28T21:44:56.298Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/atomic-interactions",
+      "releaseDate": "2026-10-28T21:43:55.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "atomic-interactions",
+        "version": "1.2.23",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 21:43:55 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/atomic-interactions/1.2.23/atomic-interactions_vi.html",
+      "sha256": "8a12430853de2152e83dd9d1bd66241bc6c6e178db8ae755d1535335f2c75208",
+      "originalPath": "originals/atomic-interactions/1.2.23/atomic-interactions_vi.html",
+      "bytes": 1625275,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/atomic-interactions/1.2.23/vi.html",
+      "renderedSha256": "06becf1b3f58aec0f5e52c7f4f644fd7ab80404e674c22fd9cbb0ad9a0545174",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "balancing-act",
+      "title": "Cân bằng",
+      "titleEn": "Balancing Act",
+      "version": "1.3.9",
+      "subjects": [
+        4,
+        5,
+        15,
+        31
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 153,
+      "metadataUpdatedAt": "2026-10-28T21:47:08.375Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/balancing-act",
+      "releaseDate": "2026-10-28T21:45:52.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "balancing-act",
+        "version": "1.3.9",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 21:45:52 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/balancing-act/1.3.9/balancing-act_vi.html",
+      "sha256": "42e309e083442cdf4af4fe3c7c77f00dfebe30e87c62c016d2b52ec93f3663e3",
+      "originalPath": "originals/balancing-act/1.3.9/balancing-act_vi.html",
+      "bytes": 3151988,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/balancing-act/1.3.9/vi.html",
+      "renderedSha256": "89aac4685f653ab66a1d37142c3f0bf53bca9880023256eae1619191d50f03f1",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "balloons-and-static-electricity",
+      "title": "Bong bóng và tĩnh điện",
+      "titleEn": "Balloons and Static Electricity",
+      "version": "1.5.28",
+      "subjects": [
+        4,
+        11,
+        13,
+        14,
+        19
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 155,
+      "metadataUpdatedAt": "2026-10-28T21:51:15.980Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/balloons-and-static-electricity",
+      "releaseDate": "2026-11-12T14:34:57.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "balloons-and-static-electricity",
+        "version": "1.5.28",
+        "locale": "vi",
+        "buildTimestamp": "2026-11-12 14:34:57 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/balloons-and-static-electricity/1.5.28/balloons-and-static-electricity_vi.html",
+      "sha256": "204b74060d7619e497660c8870ee92b07cddc3b079da382377c84151d866595e",
+      "originalPath": "originals/balloons-and-static-electricity/1.5.28/balloons-and-static-electricity_vi.html",
+      "bytes": 3540031,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/balloons-and-static-electricity/1.5.28/vi.html",
+      "renderedSha256": "9547ca769568804162fb6fe31212d62d7a9e7ef88ea2d4156dc0f6379f6bdfc1",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "band-structure",
+      "title": "Cấu trúc vùng năng lượng",
+      "titleEn": "Band Structure",
+      "version": "1.0.0",
+      "subjects": [
+        4,
+        9,
+        13,
+        20
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Nhãn chủ đề PhET 9.",
+      "chapterOverride": false,
+      "metadataId": 1280,
+      "metadataUpdatedAt": "2026-11-04T21:37:50.307Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/band-structure",
+      "releaseDate": "2026-11-12T23:11:12.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "band-structure",
+        "version": "1.0.0",
+        "locale": "vi",
+        "buildTimestamp": "2026-11-12 23:11:12 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/band-structure/1.0.0/band-structure_vi.html",
+      "sha256": "457f57641bca2eb7fb0e18c961ffe07c4c10d075aaefec961a3b04f3aa316a0d",
+      "originalPath": "originals/band-structure/1.0.0/band-structure_vi.html",
+      "bytes": 2938106,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/band-structure/1.0.0/vi.html",
+      "renderedSha256": "f7b6de41a342f1a0e62727905f2738072a66eea1c40fcd05c4fb56959cdac395",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "bending-light",
+      "title": "Khúc xạ ánh sáng",
+      "titleEn": "Bending Light",
+      "version": "1.2.7",
+      "subjects": [
+        4,
+        10
+      ],
+      "chapter": "optics",
+      "chapterReason": "Nhãn chủ đề PhET 10.",
+      "chapterOverride": false,
+      "metadataId": 180,
+      "metadataUpdatedAt": "2026-10-28T21:56:07.928Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/bending-light",
+      "releaseDate": "2026-10-28T21:54:49.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "bending-light",
+        "version": "1.2.7",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 21:54:49 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/bending-light/1.2.7/bending-light_vi.html",
+      "sha256": "bed8441aa2a56a0e1f021b457165a7ec3fe4329d80e72f33bad4547030378df5",
+      "originalPath": "originals/bending-light/1.2.7/bending-light_vi.html",
+      "bytes": 3405834,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/bending-light/1.2.7/vi.html",
+      "renderedSha256": "2a66a0593e5c81a8a3d283a39c5d4234eb916440507fe8f263401d38c2cae769",
+      "adapterVerified": true,
+      "capabilities": [
+        "APPLY_CONFIG",
+        "RUN_EXPERIMENT",
+        "RESET_SIM",
+        "GET_STATE",
+        "PROPERTY_CHANGED"
+      ]
+    },
+    {
+      "slug": "beta-decay",
+      "title": "Phân rã Beta",
+      "titleEn": "Beta Decay",
+      "version": "1.0.2",
+      "subjects": [
+        4,
+        9,
+        13,
+        20
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Nhãn chủ đề PhET 9.",
+      "chapterOverride": false,
+      "metadataId": 1278,
+      "metadataUpdatedAt": "2026-10-28T21:58:50.490Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/beta-decay",
+      "releaseDate": "2026-11-11T22:49:17.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "beta-decay",
+        "version": "1.0.2",
+        "locale": "vi",
+        "buildTimestamp": "2026-11-11 22:49:17 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/beta-decay/1.0.2/beta-decay_vi.html",
+      "sha256": "6b94834f9f6d56ae2608dccbcda5d34e519db2e81bd0e1ef31d27de363c65f92",
+      "originalPath": "originals/beta-decay/1.0.2/beta-decay_vi.html",
+      "bytes": 2905814,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/beta-decay/1.0.2/vi.html",
+      "renderedSha256": "5050ad7c55d1500a7c7767e9c60628d66ca3be3db7364b9e9d08f9eda503489e",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "blackbody-spectrum",
+      "title": "Quang phổ của thể đen",
+      "titleEn": "Blackbody Spectrum",
+      "version": "1.0.28",
+      "subjects": [
+        4,
+        9,
+        10,
+        13,
+        14,
+        20
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Mục đa chủ đề quang/lượng tử, bức xạ vật đen.",
+      "chapterOverride": true,
+      "metadataId": 227,
+      "metadataUpdatedAt": "2026-10-28T21:59:41.667Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/blackbody-spectrum",
+      "releaseDate": "2026-10-28T21:58:56.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "blackbody-spectrum",
+        "version": "1.0.28",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 21:58:56 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/blackbody-spectrum/1.0.28/blackbody-spectrum_vi.html",
+      "sha256": "8d686746b48e1a127369b3e9e5a5a2df1d65aa2fd08b269c8a698af02d41d78c",
+      "originalPath": "originals/blackbody-spectrum/1.0.28/blackbody-spectrum_vi.html",
+      "bytes": 1530035,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/blackbody-spectrum/1.0.28/vi.html",
+      "renderedSha256": "fcef37c41b87b9b2cf0db27c569f14db6eb6ccabeb181c4c68b70527c485ba8e",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "bound-state-superposition",
+      "title": "Sự chồng chập các trạng thái liên kết",
+      "titleEn": "Bound State Superposition",
+      "version": "1.0.0",
+      "subjects": [
+        4,
+        9,
+        13,
+        20
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Nhãn chủ đề PhET 9.",
+      "chapterOverride": false,
+      "metadataId": 1281,
+      "metadataUpdatedAt": "2026-11-04T21:50:39.703Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/bound-state-superposition",
+      "releaseDate": "2026-11-13T19:02:32.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "bound-state-superposition",
+        "version": "1.0.0",
+        "locale": "vi",
+        "buildTimestamp": "2026-11-13 19:02:32 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/bound-state-superposition/1.0.0/bound-state-superposition_vi.html",
+      "sha256": "9e898bfc2323554769ddf3808ca8f921f529eaf33bc7c3f03689da6c0b02380a",
+      "originalPath": "originals/bound-state-superposition/1.0.0/bound-state-superposition_vi.html",
+      "bytes": 2991755,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/bound-state-superposition/1.0.0/vi.html",
+      "renderedSha256": "c2c7aba1ca38b5ba95304deed7d066f1f57e10f7e56144d168d907b9d3988b3c",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "build-a-nucleus",
+      "title": "Tạo dựng hạt nhân",
+      "titleEn": "Build a Nucleus",
+      "version": "1.1.12",
+      "subjects": [
+        4,
+        13
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Mô phỏng hạt nhân chưa có nhãn con Vật lý.",
+      "chapterOverride": true,
+      "metadataId": 253,
+      "metadataUpdatedAt": "2026-10-28T22:03:16.026Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/build-a-nucleus",
+      "releaseDate": "2026-10-28T22:02:15.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "build-a-nucleus",
+        "version": "1.1.12",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 22:02:15 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/build-a-nucleus/1.1.12/build-a-nucleus_vi.html",
+      "sha256": "32f2d152fecb2373c9207272d200eede7cba82e2d73bb39da0e14c8e4025b321",
+      "originalPath": "originals/build-a-nucleus/1.1.12/build-a-nucleus_vi.html",
+      "bytes": 2917567,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/build-a-nucleus/1.1.12/vi.html",
+      "renderedSha256": "3a4d072eaaf19ef457b622df82373c9a1658eade9f7805396cca566cf0defbe9",
+      "adapterVerified": true,
+      "capabilities": [
+        "APPLY_CONFIG",
+        "RUN_EXPERIMENT",
+        "SWITCH_SCREEN",
+        "RESET_SIM",
+        "GET_STATE",
+        "PROPERTY_CHANGED"
+      ]
+    },
+    {
+      "slug": "build-an-atom",
+      "title": "Tạo dựng nguyên tử",
+      "titleEn": "Build an Atom",
+      "version": "1.9.5",
+      "subjects": [
+        4,
+        13,
+        19
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Mô phỏng nguyên tử chưa có nhãn con Vật lý.",
+      "chapterOverride": true,
+      "metadataId": 157,
+      "metadataUpdatedAt": "2026-10-28T22:06:43.220Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/build-an-atom",
+      "releaseDate": "2026-11-01T20:37:48.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "build-an-atom",
+        "version": "1.9.5",
+        "locale": "vi",
+        "buildTimestamp": "2026-11-01 20:37:48 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/build-an-atom/1.9.5/build-an-atom_vi.html",
+      "sha256": "83b3926b41266eab0455d8a8da8e0f28f45e0cc7b434759639a3e052bbf866ed",
+      "originalPath": "originals/build-an-atom/1.9.5/build-an-atom_vi.html",
+      "bytes": 2998251,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/build-an-atom/1.9.5/vi.html",
+      "renderedSha256": "5d51f4cf80b181612cd5208fcbbc6ada484a7b2ba9c9a8e583e66dc8555d0e9b",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "buoyancy",
+      "title": "Sự nổi",
+      "titleEn": "Buoyancy",
+      "version": "1.2.14",
+      "subjects": [
+        4,
+        5
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 269,
+      "metadataUpdatedAt": "2026-10-28T22:11:17.924Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/buoyancy",
+      "releaseDate": "2026-10-28T22:07:42.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "buoyancy",
+        "version": "1.2.14",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 22:07:42 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/buoyancy/1.2.14/buoyancy_vi.html",
+      "sha256": "8792db50e516a8ce46d39bde029665770afe7bffd1c13198eb34dc8752e0ac7d",
+      "originalPath": "originals/buoyancy/1.2.14/buoyancy_vi.html",
+      "bytes": 5604556,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/buoyancy/1.2.14/vi.html",
+      "renderedSha256": "942cea3f64186e45119154d3adb725e8b24e0975add7e289af50bcc9d839955b",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "buoyancy-basics",
+      "title": "Sự nổi: phần cơ bản",
+      "titleEn": "Buoyancy: Basics",
+      "version": "1.2.13",
+      "subjects": [
+        4,
+        5
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 270,
+      "metadataUpdatedAt": "2026-10-28T22:15:41.642Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/buoyancy-basics",
+      "releaseDate": "2026-10-28T22:12:22.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "buoyancy-basics",
+        "version": "1.2.13",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 22:12:22 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/buoyancy-basics/1.2.13/buoyancy-basics_vi.html",
+      "sha256": "dfbf2c14ff13a58e58b2b804fb1fa686f10b5ecba1d39503b808445e4c6ca31a",
+      "originalPath": "originals/buoyancy-basics/1.2.13/buoyancy-basics_vi.html",
+      "bytes": 4938903,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/buoyancy-basics/1.2.13/vi.html",
+      "renderedSha256": "f32e9fea56e6396b2577c05cb3d524d6e7aeb36a9f2e3723eb4b408bd7e49110",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "calculus-grapher",
+      "title": "Máy vẽ đồ thị vi tích phân",
+      "titleEn": "Calculus Grapher",
+      "version": "1.1.3",
+      "subjects": [
+        4,
+        5,
+        15,
+        30
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 259,
+      "metadataUpdatedAt": "2026-10-28T22:18:40.628Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/calculus-grapher",
+      "releaseDate": "2026-11-01T19:04:54.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "calculus-grapher",
+        "version": "1.1.3",
+        "locale": "vi",
+        "buildTimestamp": "2026-11-01 19:04:54 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/calculus-grapher/1.1.3/calculus-grapher_vi.html",
+      "sha256": "49f23b0a198d78237cba0ee7bb2e7a9f9b633b253aeda18f13beb096763c2f92",
+      "originalPath": "originals/calculus-grapher/1.1.3/calculus-grapher_vi.html",
+      "bytes": 2773714,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/calculus-grapher/1.1.3/vi.html",
+      "renderedSha256": "5232a8bcd59d78341bd671954d4cc7d9973f1c2200213155af16f1904d86c837",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "capacitor-lab-basics",
+      "title": "Tụ điện: phần cơ bản",
+      "titleEn": "Capacitor Lab: Basics",
+      "version": "1.6.41",
+      "subjects": [
+        4,
+        11
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 207,
+      "metadataUpdatedAt": "2026-10-28T22:19:31.647Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/capacitor-lab-basics",
+      "releaseDate": "2026-10-28T22:18:35.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "capacitor-lab-basics",
+        "version": "1.6.41",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 22:18:35 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/capacitor-lab-basics/1.6.41/capacitor-lab-basics_vi.html",
+      "sha256": "a2786023e6d533be503f563eb1985d559ac1ba2967f7c4a9ae83624859720905",
+      "originalPath": "originals/capacitor-lab-basics/1.6.41/capacitor-lab-basics_vi.html",
+      "bytes": 1538609,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/capacitor-lab-basics/1.6.41/vi.html",
+      "renderedSha256": "6d93c05750bb3d4b3d27e60b646d285fffb3627deb85580a7d1193ab789fa10e",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "charges-and-fields",
+      "title": "Điện tích và điện trường",
+      "titleEn": "Charges and Fields",
+      "version": "1.0.69",
+      "subjects": [
+        4,
+        11
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 188,
+      "metadataUpdatedAt": "2026-10-28T22:23:04.412Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/charges-and-fields",
+      "releaseDate": "2026-10-28T22:22:30.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "charges-and-fields",
+        "version": "1.0.69",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 22:22:30 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/charges-and-fields/1.0.69/charges-and-fields_vi.html",
+      "sha256": "8de1f66cc529b23a2744649a06b6264efaf508c68725538aa9c7c4669376c856",
+      "originalPath": "originals/charges-and-fields/1.0.69/charges-and-fields_vi.html",
+      "bytes": 1224970,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/charges-and-fields/1.0.69/vi.html",
+      "renderedSha256": "42d4d8a70fa7879ed89a63e2007efdc63138edea1c088d31e6aaf4ba09cbd4fa",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "circuit-construction-kit-ac",
+      "title": "Bộ lắp ráp mạch điện: AC",
+      "titleEn": "Circuit Construction Kit: AC",
+      "version": "1.0.25",
+      "subjects": [
+        4,
+        11
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 248,
+      "metadataUpdatedAt": "2026-10-28T22:25:21.014Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/circuit-construction-kit-ac",
+      "releaseDate": "2026-10-28T22:24:06.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "circuit-construction-kit-ac",
+        "version": "1.0.25",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 22:24:06 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/1.0.25/circuit-construction-kit-ac_vi.html",
+      "sha256": "cfbf7f53ddb421413cb46c3a3e22ee02b4a8933137eff0fc4e05832cd1b818c0",
+      "originalPath": "originals/circuit-construction-kit-ac/1.0.25/circuit-construction-kit-ac_vi.html",
+      "bytes": 2396035,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/circuit-construction-kit-ac/1.0.25/vi.html",
+      "renderedSha256": "f1c4af1854ad869a6511abe00f00ced402bc1fafa16707b093d77b56d5f4c770",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "circuit-construction-kit-ac-virtual-lab",
+      "title": "Bộ lắp ráp mạch điện: AC - Phòng thí nghiệm ảo",
+      "titleEn": "Circuit Construction Kit: AC - Virtual Lab",
+      "version": "1.0.24",
+      "subjects": [
+        4,
+        11
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 249,
+      "metadataUpdatedAt": "2026-10-28T22:27:13.861Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/circuit-construction-kit-ac-virtual-lab",
+      "releaseDate": "2026-10-28T22:25:55.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "circuit-construction-kit-ac-virtual-lab",
+        "version": "1.0.24",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 22:25:55 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/circuit-construction-kit-ac-virtual-lab/1.0.24/circuit-construction-kit-ac-virtual-lab_vi.html",
+      "sha256": "18bd457fca957c0b8d6d8b841f07579782b03f027d522ffc5baed4f9925ee25e",
+      "originalPath": "originals/circuit-construction-kit-ac-virtual-lab/1.0.24/circuit-construction-kit-ac-virtual-lab_vi.html",
+      "bytes": 2335443,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/circuit-construction-kit-ac-virtual-lab/1.0.24/vi.html",
+      "renderedSha256": "77bcdd881419a1268a503335892a302df088dcbad3c3802b0a5d9a172987b956",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "circuit-construction-kit-dc",
+      "title": "Bộ lắp ráp mạch điện: DC",
+      "titleEn": "Circuit Construction Kit: DC",
+      "version": "1.5.4",
+      "subjects": [
+        4,
+        11
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 205,
+      "metadataUpdatedAt": "2026-10-28T22:30:27.026Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc",
+      "releaseDate": "2026-10-31T13:54:43.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "circuit-construction-kit-dc",
+        "version": "1.5.4",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-31 13:54:43 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/1.5.4/circuit-construction-kit-dc_vi.html",
+      "sha256": "16696f7fc5f1e84669285d1c566b58f20af0071816578fee5ee3fd2775f5da83",
+      "originalPath": "originals/circuit-construction-kit-dc/1.5.4/circuit-construction-kit-dc_vi.html",
+      "bytes": 3509436,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/circuit-construction-kit-dc/1.5.4/vi.html",
+      "renderedSha256": "62a7fd29fe7f6005ae446410fb1b1978ef6ad99d229f3c0cece134ce9375fe23",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "circuit-construction-kit-dc-virtual-lab",
+      "title": "Bộ lắp ráp mạch điện: DC - Phòng thí nghiệm ảo",
+      "titleEn": "Circuit Construction Kit: DC - Virtual Lab",
+      "version": "1.5.4",
+      "subjects": [
+        4,
+        11
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 206,
+      "metadataUpdatedAt": "2026-10-28T22:33:47.780Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc-virtual-lab",
+      "releaseDate": "2026-10-28T22:31:12.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "circuit-construction-kit-dc-virtual-lab",
+        "version": "1.5.4",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 22:31:12 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/circuit-construction-kit-dc-virtual-lab/1.5.4/circuit-construction-kit-dc-virtual-lab_vi.html",
+      "sha256": "e8d5d6eaf695829bcd9527f6fedd2800a17c37d26c01c39506c89af3371af2a5",
+      "originalPath": "originals/circuit-construction-kit-dc-virtual-lab/1.5.4/circuit-construction-kit-dc-virtual-lab_vi.html",
+      "bytes": 3498048,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/circuit-construction-kit-dc-virtual-lab/1.5.4/vi.html",
+      "renderedSha256": "62adc15a415c0594328b5287c1a81d3e6cdcda9581aed90528d8b5d130fa013c",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "collision-lab",
+      "title": "Va chạm",
+      "titleEn": "Collision Lab",
+      "version": "1.1.25",
+      "subjects": [
+        4,
+        5
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 237,
+      "metadataUpdatedAt": "2026-10-28T22:34:31.509Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/collision-lab",
+      "releaseDate": "2026-10-28T22:33:35.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "collision-lab",
+        "version": "1.1.25",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 22:33:35 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/collision-lab/1.1.25/collision-lab_vi.html",
+      "sha256": "8f278af03dff46efcac42076e6dc9609537eba1e2ae2ddc2e84cfd4db2b0789d",
+      "originalPath": "originals/collision-lab/1.1.25/collision-lab_vi.html",
+      "bytes": 1569342,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/collision-lab/1.1.25/vi.html",
+      "renderedSha256": "a553a6bfa45fc48398b7aa1e017cc37d5e0b4dd61f1554d67bf13051c121d7ef",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "color-vision",
+      "title": "Thị giác màu",
+      "titleEn": "Color Vision",
+      "version": "1.3.9",
+      "subjects": [
+        4,
+        10,
+        12
+      ],
+      "chapter": "optics",
+      "chapterReason": "Nhãn chủ đề PhET 10.",
+      "chapterOverride": false,
+      "metadataId": 158,
+      "metadataUpdatedAt": "2026-10-28T22:37:05.854Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/color-vision",
+      "releaseDate": "2026-10-28T22:35:39.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "color-vision",
+        "version": "1.3.9",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 22:35:39 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/color-vision/1.3.9/color-vision_vi.html",
+      "sha256": "1f17ce69d17e88c1023c32c4990cfb41b2a19fbc5093ac0e69d243cf20b0be20",
+      "originalPath": "originals/color-vision/1.3.9/color-vision_vi.html",
+      "bytes": 5772202,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/color-vision/1.3.9/vi.html",
+      "renderedSha256": "b12823920aa10524cf90effdad72ac6ba569b90228a5332fa5e0f049248731ba",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "coulombs-law",
+      "title": "Định luật Coulomb",
+      "titleEn": "Coulomb's Law",
+      "version": "1.0.34",
+      "subjects": [
+        4,
+        11,
+        13,
+        19
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 219,
+      "metadataUpdatedAt": "2026-10-28T22:40:43.059Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/coulombs-law",
+      "releaseDate": "2026-10-28T22:39:54.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "coulombs-law",
+        "version": "1.0.34",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 22:39:54 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/coulombs-law/1.0.34/coulombs-law_vi.html",
+      "sha256": "afdd9e8cbe76582c8cefa3d5524d6c91605a8e36d64fa8a363e0bb8bf877cb50",
+      "originalPath": "originals/coulombs-law/1.0.34/coulombs-law_vi.html",
+      "bytes": 2799370,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/coulombs-law/1.0.34/vi.html",
+      "renderedSha256": "d0e820225151c9229583fc0acf09502d23040f17cd72e802770bab7c5bdc296e",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "curve-fitting",
+      "title": "Vẽ đường cong thực nghiệm",
+      "titleEn": "Curve Fitting",
+      "version": "1.0.22",
+      "subjects": [
+        4,
+        15,
+        31
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Công cụ xử lý số liệu thực nghiệm; chưa có nhãn con Vật lý.",
+      "chapterOverride": true,
+      "metadataId": 235,
+      "metadataUpdatedAt": "2026-10-28T22:41:23.721Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/curve-fitting",
+      "releaseDate": "2026-10-28T22:40:32.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "curve-fitting",
+        "version": "1.0.22",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 22:40:32 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/curve-fitting/1.0.22/curve-fitting_vi.html",
+      "sha256": "ce261278840564d9d0c89e7a738d8a9c09f926a9fdbdff84bf0cf6bab929c381",
+      "originalPath": "originals/curve-fitting/1.0.22/curve-fitting_vi.html",
+      "bytes": 2415406,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/curve-fitting/1.0.22/vi.html",
+      "renderedSha256": "21c7033e0502c074779cd77ed53366e14288fe44802548538256cdec2e2ddd98",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "density",
+      "title": "Mật độ",
+      "titleEn": "Density",
+      "version": "1.2.12",
+      "subjects": [
+        4,
+        12,
+        13,
+        14,
+        19
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Khối lượng riêng và lực đẩy; chưa có nhãn con Vật lý.",
+      "chapterOverride": true,
+      "metadataId": 250,
+      "metadataUpdatedAt": "2026-10-28T22:45:55.586Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/density",
+      "releaseDate": "2026-10-28T22:42:26.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "density",
+        "version": "1.2.12",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 22:42:26 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/density/1.2.12/density_vi.html",
+      "sha256": "0433af3fc8b98d08040614aa150a8ee66f67bf276769f630fa722072f6ff36b9",
+      "originalPath": "originals/density/1.2.12/density_vi.html",
+      "bytes": 4846759,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/density/1.2.12/vi.html",
+      "renderedSha256": "3749b1f453a4a6bc002f5840fe84702c77c151bde44c1964e331b7afc30af94a",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "diffusion",
+      "title": "Sự khuếch tán",
+      "titleEn": "Diffusion",
+      "version": "1.1.9",
+      "subjects": [
+        4,
+        8,
+        13,
+        14,
+        19
+      ],
+      "chapter": "thermal",
+      "chapterReason": "Nhãn chủ đề PhET 8.",
+      "chapterOverride": false,
+      "metadataId": 229,
+      "metadataUpdatedAt": "2026-10-28T22:49:42.534Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/diffusion",
+      "releaseDate": "2026-10-28T22:46:49.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "diffusion",
+        "version": "1.1.9",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 22:46:49 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/diffusion/1.1.9/diffusion_vi.html",
+      "sha256": "5ea950e6dc83ee40d7351de613b49964400f5b0f7d2a848df893920eaf3a934a",
+      "originalPath": "originals/diffusion/1.1.9/diffusion_vi.html",
+      "bytes": 2375058,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/diffusion/1.1.9/vi.html",
+      "renderedSha256": "c64a8e9f2714dd8a9ddf539e9064e9d6aecb35bcad2eecc913c982f6525abd20",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "double-wells-and-covalent-bonds",
+      "title": "Giếng kép và liên kết cộng hoá trị",
+      "titleEn": "Double Wells and Covalent Bonds",
+      "version": "1.0.0",
+      "subjects": [
+        4,
+        9,
+        13,
+        20
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Nhãn chủ đề PhET 9.",
+      "chapterOverride": false,
+      "metadataId": 1282,
+      "metadataUpdatedAt": "2026-11-04T21:59:18.159Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/double-wells-and-covalent-bonds",
+      "releaseDate": "2026-11-13T19:06:50.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "double-wells-and-covalent-bonds",
+        "version": "1.0.0",
+        "locale": "vi",
+        "buildTimestamp": "2026-11-13 19:06:50 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/double-wells-and-covalent-bonds/1.0.0/double-wells-and-covalent-bonds_vi.html",
+      "sha256": "ae407f20f2a54f52701c43c8c348056f4d8ececd1677a6150863624adcd05f67",
+      "originalPath": "originals/double-wells-and-covalent-bonds/1.0.0/double-wells-and-covalent-bonds_vi.html",
+      "bytes": 2991674,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/double-wells-and-covalent-bonds/1.0.0/vi.html",
+      "renderedSha256": "fd14848445558a590a29b2e6f961a67a364e388297a8315e80bb909031a5e135",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "energy-forms-and-changes",
+      "title": "Năng lượng: các dạng và sự chuyển hoá",
+      "titleEn": "Energy Forms and Changes",
+      "version": "1.4.26",
+      "subjects": [
+        4,
+        7,
+        8,
+        13,
+        19
+      ],
+      "chapter": "thermal",
+      "chapterReason": "Mục đa chủ đề năng lượng/nhiệt, tập trung trao đổi nhiệt.",
+      "chapterOverride": true,
+      "metadataId": 224,
+      "metadataUpdatedAt": "2026-10-28T22:51:57.572Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/energy-forms-and-changes",
+      "releaseDate": "2026-10-28T22:49:35.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "energy-forms-and-changes",
+        "version": "1.4.26",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 22:49:35 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/energy-forms-and-changes/1.4.26/energy-forms-and-changes_vi.html",
+      "sha256": "a4e2933772392397b5bf3f4cc694589c0c2d801f6d8fb11280eba77616ec4f61",
+      "originalPath": "originals/energy-forms-and-changes/1.4.26/energy-forms-and-changes_vi.html",
+      "bytes": 3525179,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/energy-forms-and-changes/1.4.26/vi.html",
+      "renderedSha256": "0703f21b5643d249f21521a1773502937ecfa119810b84d0407cff1515d8ae06",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "energy-skate-park",
+      "title": "Công viên ván trượt",
+      "titleEn": "Energy Skate Park",
+      "version": "1.6.2",
+      "subjects": [
+        4,
+        5,
+        7
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 238,
+      "metadataUpdatedAt": "2026-10-28T22:55:31.253Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/energy-skate-park",
+      "releaseDate": "2026-11-01T19:20:20.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "energy-skate-park",
+        "version": "1.6.2",
+        "locale": "vi",
+        "buildTimestamp": "2026-11-01 19:20:20 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/energy-skate-park/1.6.2/energy-skate-park_vi.html",
+      "sha256": "3fd1d37fff01fac09e7333cdd24f5dfd52db0309549df5466656d18c760bf6ea",
+      "originalPath": "originals/energy-skate-park/1.6.2/energy-skate-park_vi.html",
+      "bytes": 4900805,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/energy-skate-park/1.6.2/vi.html",
+      "renderedSha256": "a7fc5744df77c2dde3aee7f3bca1864c40482975a486b44abc1d41e3aeba6ec3",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "energy-skate-park-basics",
+      "title": "Công viên ván trượt: Phần cơ bản",
+      "titleEn": "Energy Skate Park: Basics",
+      "version": "1.6.2",
+      "subjects": [
+        4,
+        5,
+        7
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 160,
+      "metadataUpdatedAt": "2026-10-28T22:59:07.089Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/energy-skate-park-basics",
+      "releaseDate": "2026-10-28T22:56:29.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "energy-skate-park-basics",
+        "version": "1.6.2",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 22:56:29 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/energy-skate-park-basics/1.6.2/energy-skate-park-basics_vi.html",
+      "sha256": "51e57d885a3b0ee8a9e4534586070ece7400e11b3c92ec92f1a52f69c449b599",
+      "originalPath": "originals/energy-skate-park-basics/1.6.2/energy-skate-park-basics_vi.html",
+      "bytes": 4945879,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/energy-skate-park-basics/1.6.2/vi.html",
+      "renderedSha256": "90c025405006c05d2edc141fcd6ddc09ea420d8dce9ee7934fca21e8f219d0c2",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "faradays-electromagnetic-lab",
+      "title": "Phòng thí nghiệm điện từ Faraday",
+      "titleEn": "Faraday's Electromagnetic Lab",
+      "version": "1.0.9",
+      "subjects": [
+        4,
+        7,
+        11
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 265,
+      "metadataUpdatedAt": "2026-10-28T23:08:00.820Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/faradays-electromagnetic-lab",
+      "releaseDate": "2026-10-28T23:05:03.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "faradays-electromagnetic-lab",
+        "version": "1.0.9",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 23:05:03 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/faradays-electromagnetic-lab/1.0.9/faradays-electromagnetic-lab_vi.html",
+      "sha256": "3d6e148333f8ef973b7e6293aaf2e01091b673807a7d6f9ee5a6b7f26a164d2f",
+      "originalPath": "originals/faradays-electromagnetic-lab/1.0.9/faradays-electromagnetic-lab_vi.html",
+      "bytes": 2862832,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/faradays-electromagnetic-lab/1.0.9/vi.html",
+      "renderedSha256": "b015fb89db9852e5859c75ccd4258cd50246d70d81c662820ace55f648fe45b0",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "faradays-law",
+      "title": "Định luật Faraday",
+      "titleEn": "Faraday's Law",
+      "version": "1.4.27",
+      "subjects": [
+        4,
+        11
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 161,
+      "metadataUpdatedAt": "2026-10-28T23:08:54.017Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/faradays-law",
+      "releaseDate": "2026-10-28T23:07:55.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "faradays-law",
+        "version": "1.4.27",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 23:07:55 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/faradays-law/1.4.27/faradays-law_vi.html",
+      "sha256": "4b9c108876072fd5ff431482c972f23d34637c5ca4b4fe8f018c3421fd45c75a",
+      "originalPath": "originals/faradays-law/1.4.27/faradays-law_vi.html",
+      "bytes": 2228019,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/faradays-law/1.4.27/vi.html",
+      "renderedSha256": "362db0cd8da4a456e2bd70c1a3b87593f2d6753a7c590dcafc1d13ab69df1cb8",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "forces-and-motion-basics",
+      "title": "Lực và chuyển động: Phần cơ bản",
+      "titleEn": "Forces and Motion: Basics",
+      "version": "2.6.7",
+      "subjects": [
+        4,
+        5
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 162,
+      "metadataUpdatedAt": "2026-10-28T23:12:35.895Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/forces-and-motion-basics",
+      "releaseDate": "2026-11-01T20:51:41.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "forces-and-motion-basics",
+        "version": "2.6.7",
+        "locale": "vi",
+        "buildTimestamp": "2026-11-01 20:51:41 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/forces-and-motion-basics/2.6.7/forces-and-motion-basics_vi.html",
+      "sha256": "dad53853b2c461ce88a535b0a60f112612c5c2863d42e710a670d57607e197bd",
+      "originalPath": "originals/forces-and-motion-basics/2.6.7/forces-and-motion-basics_vi.html",
+      "bytes": 4851075,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/forces-and-motion-basics/2.6.7/vi.html",
+      "renderedSha256": "3f4ba4532bcdbef8ce0bde97cfc95f1e27a24c38ff26e86470ca950494799355",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "fourier-making-waves",
+      "title": "Fourier: Tổng hợp sóng",
+      "titleEn": "Fourier: Making Waves",
+      "version": "1.1.7",
+      "subjects": [
+        4,
+        6,
+        9,
+        10,
+        13,
+        15,
+        20,
+        31
+      ],
+      "chapter": "waves",
+      "chapterReason": "Ưu tiên nội dung tổng hợp sóng thay vì các nhãn lượng tử/quang học.",
+      "chapterOverride": true,
+      "metadataId": 245,
+      "metadataUpdatedAt": "2026-10-28T23:14:01.279Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/fourier-making-waves",
+      "releaseDate": "2026-10-28T23:13:02.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "fourier-making-waves",
+        "version": "1.1.7",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 23:13:02 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/fourier-making-waves/1.1.7/fourier-making-waves_vi.html",
+      "sha256": "7bb8dced6773071d517e500b955254b7aec09a44dc9eab0af9e917fe90c8ee5b",
+      "originalPath": "originals/fourier-making-waves/1.1.7/fourier-making-waves_vi.html",
+      "bytes": 2614734,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/fourier-making-waves/1.1.7/vi.html",
+      "renderedSha256": "1d324ffe7b232e54420a338018e24fd86fe79847a6058b3aafa73f8c4305c33e",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "friction",
+      "title": "Ma sát",
+      "titleEn": "Friction",
+      "version": "1.6.25",
+      "subjects": [
+        4,
+        5,
+        8
+      ],
+      "chapter": "thermal",
+      "chapterReason": "Mục đa chủ đề chuyển động/nhiệt, tập trung sinh nhiệt do ma sát.",
+      "chapterOverride": true,
+      "metadataId": 164,
+      "metadataUpdatedAt": "2026-10-28T23:19:55.030Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/friction",
+      "releaseDate": "2026-10-28T23:17:24.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "friction",
+        "version": "1.6.25",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 23:17:24 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/friction/1.6.25/friction_vi.html",
+      "sha256": "6ebee623b6527ddaaa8a04ffaee38b094360d456bc4a540c48bed95832ea91dc",
+      "originalPath": "originals/friction/1.6.25/friction_vi.html",
+      "bytes": 2082025,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/friction/1.6.25/vi.html",
+      "renderedSha256": "84e44229ca877ebe15695658c2cc0a57d2047790b537b3e4bcd8c1b18cb598cb",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "gas-properties",
+      "title": "Tính chất của chất khí",
+      "titleEn": "Gas Properties",
+      "version": "1.1.12",
+      "subjects": [
+        4,
+        7,
+        8,
+        13,
+        14,
+        19
+      ],
+      "chapter": "thermal",
+      "chapterReason": "Mục đa chủ đề năng lượng/nhiệt, mô hình khí.",
+      "chapterOverride": true,
+      "metadataId": 228,
+      "metadataUpdatedAt": "2026-10-28T23:27:07.546Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/gas-properties",
+      "releaseDate": "2026-10-28T23:23:59.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "gas-properties",
+        "version": "1.1.12",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 23:23:59 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/gas-properties/1.1.12/gas-properties_vi.html",
+      "sha256": "467cbce2ecc6b64e57a91e41436ac4c5eb16858ccae5018ca09f8b2edcecf584",
+      "originalPath": "originals/gas-properties/1.1.12/gas-properties_vi.html",
+      "bytes": 2586223,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/gas-properties/1.1.12/vi.html",
+      "renderedSha256": "1a63430aff59709f76ebb2781b24739014d5963066f44c05ae815460bc6f63d0",
+      "adapterVerified": true,
+      "capabilities": [
+        "APPLY_CONFIG",
+        "RUN_EXPERIMENT",
+        "RESET_SIM",
+        "GET_STATE",
+        "PROPERTY_CHANGED"
+      ]
+    },
+    {
+      "slug": "gases-intro",
+      "title": "Chất khí: phần giới thiệu",
+      "titleEn": "Gases Intro",
+      "version": "1.1.9",
+      "subjects": [
+        4,
+        8,
+        13,
+        14,
+        19
+      ],
+      "chapter": "thermal",
+      "chapterReason": "Nhãn chủ đề PhET 8.",
+      "chapterOverride": false,
+      "metadataId": 230,
+      "metadataUpdatedAt": "2026-10-28T23:30:58.704Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/gases-intro",
+      "releaseDate": "2026-10-28T23:28:02.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "gases-intro",
+        "version": "1.1.9",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 23:28:02 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/gases-intro/1.1.9/gases-intro_vi.html",
+      "sha256": "d84ab574158664fc507f52e933c03ad013c520b5325e27aba475cd4bee2f0b7b",
+      "originalPath": "originals/gases-intro/1.1.9/gases-intro_vi.html",
+      "bytes": 2520889,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/gases-intro/1.1.9/vi.html",
+      "renderedSha256": "b2f90c0f2d32d1168d522c119123377989c3a5e19466a4b6b864834f0332a1b8",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "generator",
+      "title": "Máy phát điện",
+      "titleEn": "Generator",
+      "version": "1.0.9",
+      "subjects": [
+        4,
+        7,
+        11
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 268,
+      "metadataUpdatedAt": "2026-10-28T23:35:20.233Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/generator",
+      "releaseDate": "2026-10-28T23:32:30.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "generator",
+        "version": "1.0.9",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 23:32:30 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/generator/1.0.9/generator_vi.html",
+      "sha256": "84c09c866b16d8009acaed066bd6b32b220b76008b5bf43570f7b24304102c54",
+      "originalPath": "originals/generator/1.0.9/generator_vi.html",
+      "bytes": 2824873,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/generator/1.0.9/vi.html",
+      "renderedSha256": "d94ddb7babd527799ce4ba6d4b95697974ce2384520686932133a73b8d169cfe",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "geometric-optics",
+      "title": "Quang hình",
+      "titleEn": "Geometric Optics",
+      "version": "1.3.18",
+      "subjects": [
+        4,
+        10
+      ],
+      "chapter": "optics",
+      "chapterReason": "Nhãn chủ đề PhET 10.",
+      "chapterOverride": false,
+      "metadataId": 246,
+      "metadataUpdatedAt": "2026-10-28T23:38:35.516Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/geometric-optics",
+      "releaseDate": "2026-10-28T23:36:06.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "geometric-optics",
+        "version": "1.3.18",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 23:36:06 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/geometric-optics/1.3.18/geometric-optics_vi.html",
+      "sha256": "67e4a1950d07300dced8dd2159d27b6598295bb89a7b564641cf09ace53a05e6",
+      "originalPath": "originals/geometric-optics/1.3.18/geometric-optics_vi.html",
+      "bytes": 2353869,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/geometric-optics/1.3.18/vi.html",
+      "renderedSha256": "e2fad9d357bf9cf3ee808d1d858740ff4916cf56ed7c755c926a4514d0374d82",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "geometric-optics-basics",
+      "title": "Quang hình: Phần cơ bản",
+      "titleEn": "Geometric Optics: Basics",
+      "version": "1.3.18",
+      "subjects": [
+        4,
+        10
+      ],
+      "chapter": "optics",
+      "chapterReason": "Nhãn chủ đề PhET 10.",
+      "chapterOverride": false,
+      "metadataId": 255,
+      "metadataUpdatedAt": "2026-10-28T23:41:45.276Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/geometric-optics-basics",
+      "releaseDate": "2026-11-11T17:37:37.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "geometric-optics-basics",
+        "version": "1.3.18",
+        "locale": "vi",
+        "buildTimestamp": "2026-11-11 17:37:37 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/geometric-optics-basics/1.3.18/geometric-optics-basics_vi.html",
+      "sha256": "4a735893fe58c0f114e71523ab3921b38c519b58f9783d8c1e38472ec8b624ad",
+      "originalPath": "originals/geometric-optics-basics/1.3.18/geometric-optics-basics_vi.html",
+      "bytes": 2354895,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/geometric-optics-basics/1.3.18/vi.html",
+      "renderedSha256": "8c582659c37dcba5d5f95e776d38860bd5d083619bc5068c1dff58d353bf01c2",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "gravity-and-orbits",
+      "title": "Lực hấp dẫn và quỹ đạo",
+      "titleEn": "Gravity and Orbits",
+      "version": "1.6.30",
+      "subjects": [
+        4,
+        5,
+        14
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 191,
+      "metadataUpdatedAt": "2026-10-28T23:51:18.074Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/gravity-and-orbits",
+      "releaseDate": "2026-10-28T23:48:39.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "gravity-and-orbits",
+        "version": "1.6.30",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 23:48:39 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/gravity-and-orbits/1.6.30/gravity-and-orbits_vi.html",
+      "sha256": "7e4a2605564a70ca981dd4fcfa8a057949d6a159f244de054508008f72ed0a9f",
+      "originalPath": "originals/gravity-and-orbits/1.6.30/gravity-and-orbits_vi.html",
+      "bytes": 3447673,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/gravity-and-orbits/1.6.30/vi.html",
+      "renderedSha256": "b9cac8f73d7418f37037cc4774891593790c26b5445f72baf9f958d426d05b89",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "gravity-force-lab",
+      "title": "Lực hấp dẫn",
+      "titleEn": "Gravity Force Lab",
+      "version": "2.2.27",
+      "subjects": [
+        4,
+        5,
+        14
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 166,
+      "metadataUpdatedAt": "2026-10-28T23:52:45.400Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/gravity-force-lab",
+      "releaseDate": "2026-10-28T23:51:05.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "gravity-force-lab",
+        "version": "2.2.27",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 23:51:05 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/gravity-force-lab/2.2.27/gravity-force-lab_vi.html",
+      "sha256": "bd747d8a05ee28b030529c6ff7933110e46da0d00c7685f12dad8cb80de23ffb",
+      "originalPath": "originals/gravity-force-lab/2.2.27/gravity-force-lab_vi.html",
+      "bytes": 3121727,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/gravity-force-lab/2.2.27/vi.html",
+      "renderedSha256": "65d685d87b87ccbb289fd1e82e5fbeb5b53b01e131fc3f1962d6cbb37a251a93",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "gravity-force-lab-basics",
+      "title": "Lực hấp dẫn: Phần cơ bản",
+      "titleEn": "Gravity Force Lab: Basics",
+      "version": "1.1.29",
+      "subjects": [
+        4,
+        5,
+        14
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 232,
+      "metadataUpdatedAt": "2026-10-28T23:53:46.099Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/gravity-force-lab-basics",
+      "releaseDate": "2026-10-28T23:52:36.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "gravity-force-lab-basics",
+        "version": "1.1.29",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 23:52:36 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/gravity-force-lab-basics/1.1.29/gravity-force-lab-basics_vi.html",
+      "sha256": "35bb04ec3996cdfd5d8ae1b4c32b9414ba90f2746b80a833adad01728dfab13c",
+      "originalPath": "originals/gravity-force-lab-basics/1.1.29/gravity-force-lab-basics_vi.html",
+      "bytes": 2889473,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/gravity-force-lab-basics/1.1.29/vi.html",
+      "renderedSha256": "310222cd3f0c1ea31f4c68ad4c76e842d1f079297ceb9deccece046bdaad6238",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "greenhouse-effect",
+      "title": "Hiệu ứng Nhà kính",
+      "titleEn": "Greenhouse Effect",
+      "version": "1.3.15",
+      "subjects": [
+        14
+      ],
+      "chapter": "thermal",
+      "chapterReason": "Bổ sung theo phạm vi thí điểm: hiệu ứng nhà kính.",
+      "chapterOverride": true,
+      "metadataId": 244,
+      "metadataUpdatedAt": "2026-10-28T23:57:49.070Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/greenhouse-effect",
+      "releaseDate": "2026-10-28T23:54:43.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "greenhouse-effect",
+        "version": "1.3.15",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 23:54:43 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/greenhouse-effect/1.3.15/greenhouse-effect_vi.html",
+      "sha256": "44235479fab68c4b49ae757eb350904e18b7d7419ea14f4a506cf42094ceb791",
+      "originalPath": "originals/greenhouse-effect/1.3.15/greenhouse-effect_vi.html",
+      "bytes": 3674326,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/greenhouse-effect/1.3.15/vi.html",
+      "renderedSha256": "6109163bd42a2a137d5e947b5c21b8792775d6e7cf7e89cfa7c4d548f44afc0d",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "hookes-law",
+      "title": "Định luật Hooke",
+      "titleEn": "Hooke's Law",
+      "version": "1.2.6",
+      "subjects": [
+        4,
+        5,
+        7
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 178,
+      "metadataUpdatedAt": "2026-10-29T00:00:11.887Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/hookes-law",
+      "releaseDate": "2026-10-28T23:58:22.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "hookes-law",
+        "version": "1.2.6",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-28 23:58:22 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/hookes-law/1.2.6/hookes-law_vi.html",
+      "sha256": "0aa0970a4fc36e91b55a8a91acbd8e9c9fadd28081174dec28bdb758abd43982",
+      "originalPath": "originals/hookes-law/1.2.6/hookes-law_vi.html",
+      "bytes": 2426907,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/hookes-law/1.2.6/vi.html",
+      "renderedSha256": "ff8c5b3c715ae9ec7dd7dde86efab22fc354a7b1f9650aacc7688b2215185eb6",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "john-travoltage",
+      "title": "John Travoltage",
+      "titleEn": "John Travoltage",
+      "version": "1.6.28",
+      "subjects": [
+        4,
+        11
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 167,
+      "metadataUpdatedAt": "2026-10-29T00:03:12.854Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/john-travoltage",
+      "releaseDate": "2026-10-29T00:02:09.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "john-travoltage",
+        "version": "1.6.28",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-29 00:02:09 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/john-travoltage/1.6.28/john-travoltage_vi.html",
+      "sha256": "781f7e56fc2100d47dc43439278df425533b9b1f7ffb1b41ad9253fd603249e2",
+      "originalPath": "originals/john-travoltage/1.6.28/john-travoltage_vi.html",
+      "bytes": 1919440,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/john-travoltage/1.6.28/vi.html",
+      "renderedSha256": "ba0a86dc843e1562a738a1239ec4171ec83f3f14456642a89ab1905591b561a9",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "keplers-laws",
+      "title": "Định luật Kepler",
+      "titleEn": "Kepler's Laws",
+      "version": "1.2.14",
+      "subjects": [
+        4,
+        5,
+        14,
+        15,
+        31
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 260,
+      "metadataUpdatedAt": "2026-10-29T00:07:15.181Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/keplers-laws",
+      "releaseDate": "2026-10-29T00:04:16.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "keplers-laws",
+        "version": "1.2.14",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-29 00:04:16 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/keplers-laws/1.2.14/keplers-laws_vi.html",
+      "sha256": "defd34e75c6c5c35abad5c2b4b691799f9c643bcfb5465a56f055178456eca2d",
+      "originalPath": "originals/keplers-laws/1.2.14/keplers-laws_vi.html",
+      "bytes": 4864536,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/keplers-laws/1.2.14/vi.html",
+      "renderedSha256": "030df11be94520c72afd20984c851495b0dc1f85d2701df56b776c7a469f8bb9",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "magnet-and-compass",
+      "title": "Nam châm và la bàn",
+      "titleEn": "Magnet and Compass",
+      "version": "1.0.9",
+      "subjects": [
+        4,
+        11,
+        14
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 266,
+      "metadataUpdatedAt": "2026-10-29T00:12:33.658Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/magnet-and-compass",
+      "releaseDate": "2026-10-29T00:09:47.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "magnet-and-compass",
+        "version": "1.0.9",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-29 00:09:47 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/magnet-and-compass/1.0.9/magnet-and-compass_vi.html",
+      "sha256": "bec631449d7ce1b84d732fa97df4ee6d78a068f6565b221349eb8d06a0d1102a",
+      "originalPath": "originals/magnet-and-compass/1.0.9/magnet-and-compass_vi.html",
+      "bytes": 2665258,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/magnet-and-compass/1.0.9/vi.html",
+      "renderedSha256": "766385aaa7e003d64f2db7a9f71cc02619d0c3723e70abb34b9153c7af15e17f",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "magnets-and-electromagnets",
+      "title": "Nam châm và nam châm điện",
+      "titleEn": "Magnets and Electromagnets",
+      "version": "1.0.9",
+      "subjects": [
+        4,
+        11
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 267,
+      "metadataUpdatedAt": "2026-10-29T00:16:35.235Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/magnets-and-electromagnets",
+      "releaseDate": "2026-11-11T17:30:30.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "magnets-and-electromagnets",
+        "version": "1.0.9",
+        "locale": "vi",
+        "buildTimestamp": "2026-11-11 17:30:30 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/magnets-and-electromagnets/1.0.9/magnets-and-electromagnets_vi.html",
+      "sha256": "27de9e39a50ccdfbd2cbea563d4234f8d0d2cda49335d4935d00de2471e28a62",
+      "originalPath": "originals/magnets-and-electromagnets/1.0.9/magnets-and-electromagnets_vi.html",
+      "bytes": 2705920,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/magnets-and-electromagnets/1.0.9/vi.html",
+      "renderedSha256": "2741adaceaa0cc66076423c8ac0a04044c4aa13e220ef790f60a51bae659793e",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "masses-and-springs",
+      "title": "Con lắc lò xo",
+      "titleEn": "Masses and Springs",
+      "version": "1.0.31",
+      "subjects": [
+        4,
+        5,
+        7,
+        15,
+        31
+      ],
+      "chapter": "waves",
+      "chapterReason": "Dao động lò xo, trong metadata gắn nhãn chuyển động/năng lượng.",
+      "chapterOverride": true,
+      "metadataId": 217,
+      "metadataUpdatedAt": "2026-10-29T00:19:07.629Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/masses-and-springs",
+      "releaseDate": "2026-10-29T00:18:28.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "masses-and-springs",
+        "version": "1.0.31",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-29 00:18:28 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/masses-and-springs/1.0.31/masses-and-springs_vi.html",
+      "sha256": "57c9c7c91db2af3282761f24210388a0b7d855c06ee49c8df5de8e1b4d7c152c",
+      "originalPath": "originals/masses-and-springs/1.0.31/masses-and-springs_vi.html",
+      "bytes": 1588027,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/masses-and-springs/1.0.31/vi.html",
+      "renderedSha256": "d5c5abc1939a0ded2ae6bca7a5dfb909a69bbb93844a0b30400f82a4637c7d4b",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "masses-and-springs-basics",
+      "title": "Con lắc lò xo: Phần cơ bản",
+      "titleEn": "Masses and Springs: Basics",
+      "version": "1.0.30",
+      "subjects": [
+        4,
+        5
+      ],
+      "chapter": "waves",
+      "chapterReason": "Dao động lò xo, trong metadata gắn nhãn chuyển động.",
+      "chapterOverride": true,
+      "metadataId": 226,
+      "metadataUpdatedAt": "2026-10-29T00:19:45.931Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/masses-and-springs-basics",
+      "releaseDate": "2026-10-29T00:18:55.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "masses-and-springs-basics",
+        "version": "1.0.30",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-29 00:18:55 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/masses-and-springs-basics/1.0.30/masses-and-springs-basics_vi.html",
+      "sha256": "8ec766bc6436da61ef69d6d753422acf3987a6927987b99d12d08e51ac2ec50b",
+      "originalPath": "originals/masses-and-springs-basics/1.0.30/masses-and-springs-basics_vi.html",
+      "bytes": 1763049,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/masses-and-springs-basics/1.0.30/vi.html",
+      "renderedSha256": "63305400cf603e7420c10df80f58ceb89ff9ccfd396871586ea970added144eb",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "models-of-the-hydrogen-atom",
+      "title": "Mô hình nguyên tử Hydrogen",
+      "titleEn": "Models of the Hydrogen Atom",
+      "version": "1.0.11",
+      "subjects": [
+        4,
+        9,
+        10,
+        13,
+        19,
+        20
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Mục đa chủ đề quang/lượng tử, mô hình nguyên tử.",
+      "chapterOverride": true,
+      "metadataId": 271,
+      "metadataUpdatedAt": "2026-10-29T00:29:07.729Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/models-of-the-hydrogen-atom",
+      "releaseDate": "2026-10-29T00:27:26.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "models-of-the-hydrogen-atom",
+        "version": "1.0.11",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-29 00:27:26 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/models-of-the-hydrogen-atom/1.0.11/models-of-the-hydrogen-atom_vi.html",
+      "sha256": "f2d1a5108fc51899594105e485d41e72af2912922a13434eac537abecf097282",
+      "originalPath": "originals/models-of-the-hydrogen-atom/1.0.11/models-of-the-hydrogen-atom_vi.html",
+      "bytes": 3307701,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/models-of-the-hydrogen-atom/1.0.11/vi.html",
+      "renderedSha256": "f867c44252c7a3141fcb903adb7fbffa4724c0957633ea51e26a84e4517f328e",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "molecules-and-light",
+      "title": "Phân tử và ánh sáng",
+      "titleEn": "Molecules and Light",
+      "version": "1.5.35",
+      "subjects": [
+        4,
+        10,
+        13,
+        14,
+        19
+      ],
+      "chapter": "optics",
+      "chapterReason": "Nhãn chủ đề PhET 10.",
+      "chapterOverride": false,
+      "metadataId": 169,
+      "metadataUpdatedAt": "2026-10-29T00:42:31.459Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/molecules-and-light",
+      "releaseDate": "2026-10-29T00:41:19.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "molecules-and-light",
+        "version": "1.5.35",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-29 00:41:19 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/molecules-and-light/1.5.35/molecules-and-light_vi.html",
+      "sha256": "46b3ebb854907bfe52892550766df4f2256fb8fbf04eddacc247d1a3d6bd6a89",
+      "originalPath": "originals/molecules-and-light/1.5.35/molecules-and-light_vi.html",
+      "bytes": 2836222,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/molecules-and-light/1.5.35/vi.html",
+      "renderedSha256": "22d87e260e5cad1a6a3ea5b442855da48515004ac9c9c4f60dc3d789ffd9532d",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "my-solar-system",
+      "title": "Thái dương hệ",
+      "titleEn": "My Solar System",
+      "version": "1.3.18",
+      "subjects": [
+        4,
+        5,
+        14
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 256,
+      "metadataUpdatedAt": "2026-10-29T00:46:27.332Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/my-solar-system",
+      "releaseDate": "2026-10-29T00:43:32.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "my-solar-system",
+        "version": "1.3.18",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-29 00:43:32 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/my-solar-system/1.3.18/my-solar-system_vi.html",
+      "sha256": "6fac2604349cdb18a190eafbb18afc80497e3ce389903afba445f88314c6ee8b",
+      "originalPath": "originals/my-solar-system/1.3.18/my-solar-system_vi.html",
+      "bytes": 4148423,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/my-solar-system/1.3.18/vi.html",
+      "renderedSha256": "36178829bcd6fcf41f2e6bdb6765a68d6a435b3478f6e23e766a6c7bea7df1c2",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "ohms-law",
+      "title": "Định luật Ohm",
+      "titleEn": "Ohm's Law",
+      "version": "1.4.33",
+      "subjects": [
+        4,
+        11,
+        15,
+        31
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 172,
+      "metadataUpdatedAt": "2026-10-29T01:03:24.438Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/ohms-law",
+      "releaseDate": "2026-10-29T01:02:37.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "ohms-law",
+        "version": "1.4.33",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-29 01:02:37 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/ohms-law/1.4.33/ohms-law_vi.html",
+      "sha256": "d12fbe53ff2a17cba470e6c61d839a382d992fe58b55357578623b837b36ae4c",
+      "originalPath": "originals/ohms-law/1.4.33/ohms-law_vi.html",
+      "bytes": 1589486,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/ohms-law/1.4.33/vi.html",
+      "renderedSha256": "f6059763d4c114d7a0adf3339a23f0eeb25159c499f592a0cb9d2585f2b2f286",
+      "adapterVerified": true,
+      "capabilities": [
+        "APPLY_CONFIG",
+        "RUN_EXPERIMENT",
+        "RESET_SIM",
+        "GET_STATE",
+        "PROPERTY_CHANGED"
+      ]
+    },
+    {
+      "slug": "particle-in-a-box",
+      "title": "Hạt trong hộp",
+      "titleEn": "Particle in a Box",
+      "version": "1.0.0",
+      "subjects": [
+        4,
+        9,
+        13,
+        20
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Nhãn chủ đề PhET 9.",
+      "chapterOverride": false,
+      "metadataId": 1283,
+      "metadataUpdatedAt": "2026-11-04T22:08:24.345Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/particle-in-a-box",
+      "releaseDate": "2026-11-13T19:10:01.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "particle-in-a-box",
+        "version": "1.0.0",
+        "locale": "vi",
+        "buildTimestamp": "2026-11-13 19:10:01 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/particle-in-a-box/1.0.0/particle-in-a-box_vi.html",
+      "sha256": "c5d081e1da1cb650c426836a9d88d70e434020d099beec2c3f46b88221a92007",
+      "originalPath": "originals/particle-in-a-box/1.0.0/particle-in-a-box_vi.html",
+      "bytes": 3004543,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/particle-in-a-box/1.0.0/vi.html",
+      "renderedSha256": "dccb45ece91944014e936fc1d859517ee305c914fac9446000413a94714b7fb9",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "pendulum-lab",
+      "title": "Con lắc",
+      "titleEn": "Pendulum Lab",
+      "version": "1.0.37",
+      "subjects": [
+        4,
+        5,
+        7,
+        15,
+        31
+      ],
+      "chapter": "waves",
+      "chapterReason": "Dao động con lắc, trong metadata gắn nhãn chuyển động/năng lượng.",
+      "chapterOverride": true,
+      "metadataId": 204,
+      "metadataUpdatedAt": "2026-10-29T01:04:03.926Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/pendulum-lab",
+      "releaseDate": "2026-10-29T01:03:16.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "pendulum-lab",
+        "version": "1.0.37",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-29 01:03:16 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/pendulum-lab/1.0.37/pendulum-lab_vi.html",
+      "sha256": "f4968d51449a24ac92a13f55eef6b8fb265bd9313067b67e5991c1ca2196284c",
+      "originalPath": "originals/pendulum-lab/1.0.37/pendulum-lab_vi.html",
+      "bytes": 3809827,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/pendulum-lab/1.0.37/vi.html",
+      "renderedSha256": "5078f06122e3473a421234c886a4aa9c263219d43c3dea0d7bbd34beb6f50c63",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "plinko-probability",
+      "title": "Xác suất Plinko",
+      "titleEn": "Plinko Probability",
+      "version": "1.1.38",
+      "subjects": [
+        4,
+        8,
+        15,
+        30
+      ],
+      "chapter": "thermal",
+      "chapterReason": "Nhãn chủ đề PhET 8.",
+      "chapterOverride": false,
+      "metadataId": 190,
+      "metadataUpdatedAt": "2026-10-29T01:09:59.931Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/plinko-probability",
+      "releaseDate": "2026-10-29T01:09:24.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "plinko-probability",
+        "version": "1.1.38",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-29 01:09:24 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/plinko-probability/1.1.38/plinko-probability_vi.html",
+      "sha256": "831f37fca13d41f7f7c4d5d713b28acedcb5bede710760d106e524876561e111",
+      "originalPath": "originals/plinko-probability/1.1.38/plinko-probability_vi.html",
+      "bytes": 3688965,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/plinko-probability/1.1.38/vi.html",
+      "renderedSha256": "eb15949c90d97fa5d2316438447d2bd9db5f62779a1c900de0e812e7b083e6c6",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "projectile-data-lab",
+      "title": "Phòng thí nghiệm đạn tử",
+      "titleEn": "Projectile Data Lab",
+      "version": "1.0.14",
+      "subjects": [
+        4,
+        5,
+        15,
+        31
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 263,
+      "metadataUpdatedAt": "2026-10-29T01:13:36.476Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/projectile-data-lab",
+      "releaseDate": "2026-10-29T01:10:45.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "projectile-data-lab",
+        "version": "1.0.14",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-29 01:10:45 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/projectile-data-lab/1.0.14/projectile-data-lab_vi.html",
+      "sha256": "53fefa5c053df36607bbf9395f04d74722a9a36067635c45f9eaaaa02fe27848",
+      "originalPath": "originals/projectile-data-lab/1.0.14/projectile-data-lab_vi.html",
+      "bytes": 3034188,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/projectile-data-lab/1.0.14/vi.html",
+      "renderedSha256": "425220c36c131ac9c27114fc333b8372e60c68dca1f3f9a50c3d2df73ed5e1a5",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "projectile-motion",
+      "title": "Chuyển động của đạn tử",
+      "titleEn": "Projectile Motion",
+      "version": "1.0.36",
+      "subjects": [
+        4,
+        5,
+        15,
+        31
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 203,
+      "metadataUpdatedAt": "2026-10-29T01:14:21.596Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/projectile-motion",
+      "releaseDate": "2026-10-29T01:13:35.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "projectile-motion",
+        "version": "1.0.36",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-29 01:13:35 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/projectile-motion/1.0.36/projectile-motion_vi.html",
+      "sha256": "770dc2ebaa7d5f200fafe9785c5263fafc63435fa48963e7cec6f3583ea6ed8a",
+      "originalPath": "originals/projectile-motion/1.0.36/projectile-motion_vi.html",
+      "bytes": 4380153,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/projectile-motion/1.0.36/vi.html",
+      "renderedSha256": "3ad3e9f61e58e73e0b8ef4b30bd7846058b119b9ad838c3f6e28dc7aeffec837",
+      "adapterVerified": true,
+      "capabilities": [
+        "APPLY_CONFIG",
+        "RUN_EXPERIMENT",
+        "RESET_SIM",
+        "GET_STATE",
+        "PROPERTY_CHANGED"
+      ]
+    },
+    {
+      "slug": "projectile-sampling-distributions",
+      "title": "Phân bố mẫu của đạn tử",
+      "titleEn": "Projectile Sampling Distributions",
+      "version": "1.0.15",
+      "subjects": [
+        15,
+        31
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Bổ sung theo phạm vi thí điểm: chuyển động ném.",
+      "chapterOverride": true,
+      "metadataId": 264,
+      "metadataUpdatedAt": "2026-10-29T01:17:42.183Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/projectile-sampling-distributions",
+      "releaseDate": "2026-10-29T01:15:00.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "projectile-sampling-distributions",
+        "version": "1.0.15",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-29 01:15:00 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/projectile-sampling-distributions/1.0.15/projectile-sampling-distributions_vi.html",
+      "sha256": "fa010ecd1f10b8dd498adff60b1c6ed5fec22c8b0d7e98821c2d94d83211b1e6",
+      "originalPath": "originals/projectile-sampling-distributions/1.0.15/projectile-sampling-distributions_vi.html",
+      "bytes": 2845691,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/projectile-sampling-distributions/1.0.15/vi.html",
+      "renderedSha256": "48c2a01021789aac0edd0980ee296c918e44b2a546b53e36678fe89d998c9314",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "quantum-bound-states",
+      "title": "Trạng thái liên kết lượng tử",
+      "titleEn": "Quantum Bound States",
+      "version": "1.0.0",
+      "subjects": [
+        4,
+        9,
+        13,
+        20
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Nhãn chủ đề PhET 9.",
+      "chapterOverride": false,
+      "metadataId": 1279,
+      "metadataUpdatedAt": "2026-11-04T21:26:35.196Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/quantum-bound-states",
+      "releaseDate": "2026-11-13T19:12:55.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "quantum-bound-states",
+        "version": "1.0.0",
+        "locale": "vi",
+        "buildTimestamp": "2026-11-13 19:12:55 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/quantum-bound-states/1.0.0/quantum-bound-states_vi.html",
+      "sha256": "bc782ae412b3a1002300a46b32346058bb49abe8468d6c0784e57c51539ead98",
+      "originalPath": "originals/quantum-bound-states/1.0.0/quantum-bound-states_vi.html",
+      "bytes": 3009826,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/quantum-bound-states/1.0.0/vi.html",
+      "renderedSha256": "de72fabfb4e8d880d3b60b89cd8423cf34728b9a711d9da0f70cf09da2abdd94",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "quantum-coin-toss",
+      "title": "Xác suất lượng tử",
+      "titleEn": "Quantum Coin Toss",
+      "version": "1.0.6",
+      "subjects": [
+        4,
+        13,
+        20
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Phép đo lượng tử, nhãn con Vật lý chưa được gán.",
+      "chapterOverride": true,
+      "metadataId": 274,
+      "metadataUpdatedAt": "2026-10-29T01:21:57.636Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/quantum-coin-toss",
+      "releaseDate": "2026-10-29T01:20:27.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "quantum-coin-toss",
+        "version": "1.0.6",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-29 01:20:27 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/quantum-coin-toss/1.0.6/quantum-coin-toss_vi.html",
+      "sha256": "40ec7c75fd508ed6665aaef15ae0f83269c9ca0887657681f4634d99322fa6ba",
+      "originalPath": "originals/quantum-coin-toss/1.0.6/quantum-coin-toss_vi.html",
+      "bytes": 2423081,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/quantum-coin-toss/1.0.6/vi.html",
+      "renderedSha256": "f70cd4aa525f42531dbb34fdd15810e0fa477bb6e8a215b21dca6735b88370d3",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "quantum-measurement",
+      "title": "Thí nghiệm lượng tử",
+      "titleEn": "Quantum Measurement",
+      "version": "1.0.7",
+      "subjects": [
+        4,
+        9,
+        13,
+        20
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Nhãn chủ đề PhET 9.",
+      "chapterOverride": false,
+      "metadataId": 272,
+      "metadataUpdatedAt": "2026-10-29T01:24:20.186Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/quantum-measurement",
+      "releaseDate": "2026-10-29T01:22:45.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "quantum-measurement",
+        "version": "1.0.7",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-29 01:22:45 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/quantum-measurement/1.0.7/quantum-measurement_vi.html",
+      "sha256": "aaf32e7bfdcb6c1e2edf00ea874236c9f1231315615286d687100476d0d365cd",
+      "originalPath": "originals/quantum-measurement/1.0.7/quantum-measurement_vi.html",
+      "bytes": 2579119,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/quantum-measurement/1.0.7/vi.html",
+      "renderedSha256": "ccd564a8536318a6276ab98bd91c08351d63e9fb71ea06435ffedf9fdc651467",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "quantum-wave-interference",
+      "title": "Giao thoa sóng lượng tử",
+      "titleEn": "Quantum Wave Interference",
+      "version": "1.0.2",
+      "subjects": [
+        4,
+        6,
+        9,
+        13,
+        20
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Giao thoa lượng tử, khác sóng cơ học.",
+      "chapterOverride": true,
+      "metadataId": 1276,
+      "metadataUpdatedAt": "2026-10-29T01:27:28.265Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/quantum-wave-interference",
+      "releaseDate": "2026-11-11T03:10:32.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "quantum-wave-interference",
+        "version": "1.0.2",
+        "locale": "vi",
+        "buildTimestamp": "2026-11-11 03:10:32 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/quantum-wave-interference/1.0.2/quantum-wave-interference_vi.html",
+      "sha256": "2a6265854146a5a2754c7785e60a464de45b0434f53c69ff6370befd208a6f8d",
+      "originalPath": "originals/quantum-wave-interference/1.0.2/quantum-wave-interference_vi.html",
+      "bytes": 3143323,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/quantum-wave-interference/1.0.2/vi.html",
+      "renderedSha256": "55bddd27740a242e233c73722e4f52f9e11e63990e5a1d8bb09cdc9869e34d7c",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "resistance-in-a-wire",
+      "title": "Điện trở",
+      "titleEn": "Resistance in a Wire",
+      "version": "1.7.2",
+      "subjects": [
+        4,
+        11,
+        15,
+        31
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 175,
+      "metadataUpdatedAt": "2026-10-29T01:33:34.731Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/resistance-in-a-wire",
+      "releaseDate": "2026-10-29T01:31:34.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "resistance-in-a-wire",
+        "version": "1.7.2",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-29 01:31:34 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/resistance-in-a-wire/1.7.2/resistance-in-a-wire_vi.html",
+      "sha256": "dc5fb20968d8ae78e82f45a9aa836f2ee2cbd86933203d36eda5b6001eba64c0",
+      "originalPath": "originals/resistance-in-a-wire/1.7.2/resistance-in-a-wire_vi.html",
+      "bytes": 2535226,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/resistance-in-a-wire/1.7.2/vi.html",
+      "renderedSha256": "c7e710dba5fd5ade87b53c92888b73c4033ac097fcb96764ae316745bf763491",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "rutherford-scattering",
+      "title": "Tán xạ Rutherford",
+      "titleEn": "Rutherford Scattering",
+      "version": "1.2.2",
+      "subjects": [
+        4,
+        9,
+        13,
+        19
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Nhãn chủ đề PhET 9.",
+      "chapterOverride": false,
+      "metadataId": 187,
+      "metadataUpdatedAt": "2026-10-29T01:35:54.294Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/rutherford-scattering",
+      "releaseDate": "2026-10-29T01:34:35.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "rutherford-scattering",
+        "version": "1.2.2",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-29 01:34:35 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/rutherford-scattering/1.2.2/rutherford-scattering_vi.html",
+      "sha256": "b1f5f701ab365644771a14d98784fe95e797bff28a4d5f5eb94ed4a7192311ab",
+      "originalPath": "originals/rutherford-scattering/1.2.2/rutherford-scattering_vi.html",
+      "bytes": 3337674,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/rutherford-scattering/1.2.2/vi.html",
+      "renderedSha256": "ad8ea8ebe8d0bad7fb7a548ab035700bacebe1689793a89aa650faef5e62c337",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "states-of-matter",
+      "title": "Trạng thái của vật chất",
+      "titleEn": "States of Matter",
+      "version": "1.2.25",
+      "subjects": [
+        4,
+        8,
+        13,
+        19
+      ],
+      "chapter": "thermal",
+      "chapterReason": "Nhãn chủ đề PhET 8.",
+      "chapterOverride": false,
+      "metadataId": 193,
+      "metadataUpdatedAt": "2026-10-29T01:39:41.655Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/states-of-matter",
+      "releaseDate": "2026-10-29T01:37:15.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "states-of-matter",
+        "version": "1.2.25",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-29 01:37:15 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/states-of-matter/1.2.25/states-of-matter_vi.html",
+      "sha256": "9cf84c434220d501e73a1f24652b90732c1f51ffb9a43983c661d5a8effdf879",
+      "originalPath": "originals/states-of-matter/1.2.25/states-of-matter_vi.html",
+      "bytes": 2007074,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/states-of-matter/1.2.25/vi.html",
+      "renderedSha256": "01e8559fd27418ee2a65ed864f8bcb83df3c484d85c89201cd8e6cba7daf3cca",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "states-of-matter-basics",
+      "title": "Trạng thái của vật chất: Phần cơ bản",
+      "titleEn": "States of Matter: Basics",
+      "version": "1.2.25",
+      "subjects": [
+        4,
+        8,
+        13,
+        19
+      ],
+      "chapter": "thermal",
+      "chapterReason": "Nhãn chủ đề PhET 8.",
+      "chapterOverride": false,
+      "metadataId": 194,
+      "metadataUpdatedAt": "2026-10-29T01:41:40.916Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/states-of-matter-basics",
+      "releaseDate": "2026-10-29T01:39:28.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "states-of-matter-basics",
+        "version": "1.2.25",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-29 01:39:28 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/states-of-matter-basics/1.2.25/states-of-matter-basics_vi.html",
+      "sha256": "a19e2945377f1c1fc29ba74ffcfd7b87833a1f8f4c188d8c08bd8577a05a97fd",
+      "originalPath": "originals/states-of-matter-basics/1.2.25/states-of-matter-basics_vi.html",
+      "bytes": 1919275,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/states-of-matter-basics/1.2.25/vi.html",
+      "renderedSha256": "be97ad3c1a073c8bb46a911316d2a591e874e8754239008f7c334d1f15e382c9",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "under-pressure",
+      "title": "Áp suất",
+      "titleEn": "Under Pressure",
+      "version": "1.1.38",
+      "subjects": [
+        4,
+        14
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Áp suất chất lỏng; chưa có nhãn con Vật lý.",
+      "chapterOverride": true,
+      "metadataId": 176,
+      "metadataUpdatedAt": "2026-10-29T01:43:57.737Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/under-pressure",
+      "releaseDate": "2026-10-29T01:43:27.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "under-pressure",
+        "version": "1.1.38",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-29 01:43:27 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/under-pressure/1.1.38/under-pressure_vi.html",
+      "sha256": "40f05ce6faeb17d32c5fccda43186c68f9966a5fce8c2a263d56caed0f9af280",
+      "originalPath": "originals/under-pressure/1.1.38/under-pressure_vi.html",
+      "bytes": 1235020,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/under-pressure/1.1.38/vi.html",
+      "renderedSha256": "94e0bb0c3b9c5129d165f8259c26ec4bca9e2991ab984a0fe0d14d967480a493",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "vector-addition",
+      "title": "Cộng vector",
+      "titleEn": "Vector Addition",
+      "version": "1.2.6",
+      "subjects": [
+        4,
+        5,
+        15,
+        30
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 233,
+      "metadataUpdatedAt": "2026-10-29T01:49:03.461Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/vector-addition",
+      "releaseDate": "2026-10-29T01:47:01.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "vector-addition",
+        "version": "1.2.6",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-29 01:47:01 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/vector-addition/1.2.6/vector-addition_vi.html",
+      "sha256": "ffec2c97aed999f81d2936f18cfc5727092c7abd758335d1cff315365981c937",
+      "originalPath": "originals/vector-addition/1.2.6/vector-addition_vi.html",
+      "bytes": 2535567,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/vector-addition/1.2.6/vi.html",
+      "renderedSha256": "c62543b1e094946bd417ebd78aa70be54621e6f091e49317d9699af8e3f75334",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "wave-interference",
+      "title": "Giao thoa sóng",
+      "titleEn": "Wave Interference",
+      "version": "2.1.2",
+      "subjects": [
+        4,
+        6,
+        10,
+        14
+      ],
+      "chapter": "waves",
+      "chapterReason": "Mục đa chủ đề sóng/ánh sáng, nhóm sóng.",
+      "chapterOverride": true,
+      "metadataId": 225,
+      "metadataUpdatedAt": "2026-10-29T01:54:07.825Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/wave-interference",
+      "releaseDate": "2026-10-29T01:52:41.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "wave-interference",
+        "version": "2.1.2",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-29 01:52:41 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/wave-interference/2.1.2/wave-interference_vi.html",
+      "sha256": "b70895d119db6538b9c4716e0e48296519b053fa946b96e1cd5f6a5be37c84cf",
+      "originalPath": "originals/wave-interference/2.1.2/wave-interference_vi.html",
+      "bytes": 3456110,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/wave-interference/2.1.2/vi.html",
+      "renderedSha256": "2a1d49ad5348e0aed00aba4076c6e24e8145d3b88dab8c7bd89ec6ccac30e012",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    },
+    {
+      "slug": "wave-on-a-string",
+      "title": "Sóng trên một sợi dây",
+      "titleEn": "Wave on a String",
+      "version": "1.2.6",
+      "subjects": [
+        4,
+        6,
+        13,
+        14,
+        15,
+        19,
+        31
+      ],
+      "chapter": "waves",
+      "chapterReason": "Nhãn chủ đề PhET 6.",
+      "chapterOverride": false,
+      "metadataId": 177,
+      "metadataUpdatedAt": "2026-10-29T01:56:33.533Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/wave-on-a-string",
+      "releaseDate": "2026-11-13T10:44:48.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "wave-on-a-string",
+        "version": "1.2.6",
+        "locale": "vi",
+        "buildTimestamp": "2026-11-13 10:44:48 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/wave-on-a-string/1.2.6/wave-on-a-string_vi.html",
+      "sha256": "0498d3b6f8ed2d1a4c850bb9d2f085938fc5d1bb5c0c928cdd0bea65e9d195fb",
+      "originalPath": "originals/wave-on-a-string/1.2.6/wave-on-a-string_vi.html",
+      "bytes": 2486633,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/wave-on-a-string/1.2.6/vi.html",
+      "renderedSha256": "8cf1e82b31cabd7625c18008fb74978d939d748ba2561fdb237aa2bfe13c6319",
+      "adapterVerified": true,
+      "capabilities": [
+        "APPLY_CONFIG",
+        "RUN_EXPERIMENT",
+        "RESET_SIM",
+        "GET_STATE",
+        "PROPERTY_CHANGED"
+      ]
+    },
+    {
+      "slug": "waves-intro",
+      "title": "Sóng",
+      "titleEn": "Waves Intro",
+      "version": "2.1.2",
+      "subjects": [
+        4,
+        6,
+        10,
+        14
+      ],
+      "chapter": "waves",
+      "chapterReason": "Mục đa chủ đề sóng/ánh sáng, nhóm sóng.",
+      "chapterOverride": true,
+      "metadataId": 231,
+      "metadataUpdatedAt": "2026-10-29T01:58:44.788Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/waves-intro",
+      "releaseDate": "2026-10-31T10:32:49.000Z",
+      "license": {
+        "id": "CC-BY-NC-4.0",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "declared": {
+        "slug": "waves-intro",
+        "version": "2.1.2",
+        "locale": "vi",
+        "buildTimestamp": "2026-10-31 10:32:49 UTC"
+      },
+      "attribution": "Mô phỏng của PhET Interactive Simulations, University of Colorado Boulder, CC-BY-NC-4.0. Physim-AI thêm cầu nối điều khiển; giữ nguyên mô phỏng và thông báo bản quyền.",
+      "locale": "vi",
+      "sourceUrl": "https://phet.colorado.edu/sims/html/waves-intro/2.1.2/waves-intro_vi.html",
+      "sha256": "4c1b0ae40368b19f124cfc4c36286a456c7ba50bc3c9a9e5e303e2709cf884d8",
+      "originalPath": "originals/waves-intro/2.1.2/waves-intro_vi.html",
+      "bytes": 3363646,
+      "fallbackReason": null,
+      "htmlPath": "generations/5dd63234f47de7c765be/html/waves-intro/2.1.2/vi.html",
+      "renderedSha256": "3c71e08eac6958319e71c7f01e0539db59e4bf5efd339c075699a3a0658b90e2",
+      "adapterVerified": false,
+      "capabilities": [
+        "GET_STATE"
+      ]
+    }
+  ]
+}

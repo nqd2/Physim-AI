@@ -1,0 +1,77 @@
+{
+  "slug": "ohms-law",
+  "version": "1.4.33",
+  "sourceSha256": "d12fbe53ff2a17cba470e6c61d839a382d992fe58b55357578623b837b36ae4c",
+  "verified": true,
+  "schema": {
+    "slug": "ohms-law",
+    "version": "1.4.33",
+    "adapterVerified": true,
+    "screens": [
+      {
+        "id": "main",
+        "name": "Định luật Ohm",
+        "properties": [
+          {
+            "key": "voltage",
+            "name": "Hiệu điện thế",
+            "type": "number",
+            "min": 0.1,
+            "max": 9,
+            "defaultValue": 4.5,
+            "unit": "V",
+            "writable": true
+          },
+          {
+            "key": "resistance",
+            "name": "Điện trở",
+            "type": "number",
+            "min": 10,
+            "max": 1000,
+            "defaultValue": 500,
+            "unit": "Ω",
+            "writable": true
+          },
+          {
+            "key": "current",
+            "name": "Cường độ dòng điện",
+            "type": "number",
+            "defaultValue": 9,
+            "unit": "mA",
+            "writable": false
+          }
+        ],
+        "actions": [
+          {
+            "id": "observe",
+            "name": "Đo dòng điện"
+          }
+        ]
+      }
+    ]
+  },
+  "checks": [
+    "actual PhET ready",
+    "apply and readback",
+    "invalid config atomic",
+    "observe actual current",
+    "lazyLink telemetry",
+    "real pointer drag telemetry",
+    "pending telemetry rebind",
+    "reset",
+    "wrong nonce ignored"
+  ],
+  "measurements": {
+    "voltage": 6,
+    "resistance": 300,
+    "current": 20,
+    "currentUnit": "mA"
+  },
+  "transportVerifiedAt": "2026-11-14T08:34:41.056Z",
+  "transportMeasurement": {
+    "voltage": 6,
+    "resistance": 300,
+    "current": 20,
+    "currentUnit": "mA"
+  }
+}

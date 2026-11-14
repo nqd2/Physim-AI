@@ -1,0 +1,58 @@
+{
+  "downloadedAt": "2026-11-14T09:08:58.494Z",
+  "source": "Official npm registry packages maintained by Expo Google Fonts",
+  "packages": [
+    {
+      "package": "@expo-google-fonts/fredoka",
+      "version": "0.4.1",
+      "url": "https://registry.npmjs.org/@expo-google-fonts/fredoka/-/fredoka-0.4.1.tgz",
+      "integrity": "sha512-px3uHDidG1RI7mMAjfKQktK9yZoVn/Uvqgp1G/Zkd6ZN9flXFxhUoPDRZdcCj2knFvkKmlvOx96SD3j4fxq7ig==",
+      "files": [
+        {
+          "file": "FREDOKA-OFL.txt",
+          "upstreamPath": "package/LICENSE_FONT",
+          "bytes": 4388,
+          "sha256": "5c9e7eee5c6b25f4b05b8d53b2e470ea4962f9ced742d044a98f7d95d1375bab"
+        },
+        {
+          "file": "Fredoka_600SemiBold.ttf",
+          "upstreamPath": "package/600SemiBold/Fredoka_600SemiBold.ttf",
+          "bytes": 49900,
+          "sha256": "021e30b2bb317fa3618bad84289179f93c9607220cbf9a77ff3f83d7688e43a8"
+        }
+      ]
+    },
+    {
+      "package": "@expo-google-fonts/nunito",
+      "version": "0.4.2",
+      "url": "https://registry.npmjs.org/@expo-google-fonts/nunito/-/nunito-0.4.2.tgz",
+      "integrity": "sha512-1KCWphw/I2ugqfs9iRHUCkPTnomNgGPtF4AvqVquoEKxr0EL+mcLNLgeixsslbaSFevRR6/KJAE3sc8g0VaY0Q==",
+      "files": [
+        {
+          "file": "NUNITO-OFL.txt",
+          "upstreamPath": "package/LICENSE_FONT",
+          "bytes": 4385,
+          "sha256": "580df76c95a1ec5ab878ceb25bb3d85c6a076804e9c970c8c6972aea775fdf65"
+        },
+        {
+          "file": "Nunito_400Regular.ttf",
+          "upstreamPath": "package/400Regular/Nunito_400Regular.ttf",
+          "bytes": 132200,
+          "sha256": "b0885056b60511b29aa9f69198055fe3bad13e76ec8a9b9e37cd61da7b4ee1e5"
+        },
+        {
+          "file": "Nunito_700Bold.ttf",
+          "upstreamPath": "package/700Bold/Nunito_700Bold.ttf",
+          "bytes": 132148,
+          "sha256": "ad443e47990c5fc4b263693b3018b7807868263b8c42ccb1115e030158931960"
+        },
+        {
+          "file": "Nunito_800ExtraBold.ttf",
+          "upstreamPath": "package/800ExtraBold/Nunito_800ExtraBold.ttf",
+          "bytes": 132068,
+          "sha256": "33834506fb216047a70654dce857e073412d78943678052024a9d1cf89cec724"
+        }
+      ]
+    }
+  ]
+}

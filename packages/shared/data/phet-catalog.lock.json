@@ -1,0 +1,1599 @@
+{
+  "schemaVersion": 1,
+  "metadataUrl": "https://phet.colorado.edu/services/metadata/1.3/simulations?format=json&locale=en",
+  "simulations": [
+    {
+      "slug": "alpha-decay",
+      "title": "Alpha Decay",
+      "titleEn": "Alpha Decay",
+      "version": "1.0.2",
+      "subjects": [
+        4,
+        9,
+        13,
+        20
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Nhãn chủ đề PhET 9.",
+      "chapterOverride": false,
+      "metadataId": 1277,
+      "metadataUpdatedAt": "2026-10-31T05:45:24.952Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/alpha-decay"
+    },
+    {
+      "slug": "atomic-interactions",
+      "title": "Atomic Interactions",
+      "titleEn": "Atomic Interactions",
+      "version": "1.2.23",
+      "subjects": [
+        4,
+        8,
+        13,
+        19
+      ],
+      "chapter": "thermal",
+      "chapterReason": "Nhãn chủ đề PhET 8.",
+      "chapterOverride": false,
+      "metadataId": 189,
+      "metadataUpdatedAt": "2026-10-28T21:44:56.298Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/atomic-interactions"
+    },
+    {
+      "slug": "balancing-act",
+      "title": "Balancing Act",
+      "titleEn": "Balancing Act",
+      "version": "1.3.9",
+      "subjects": [
+        4,
+        5,
+        15,
+        31
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 153,
+      "metadataUpdatedAt": "2026-10-28T21:47:08.375Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/balancing-act"
+    },
+    {
+      "slug": "balloons-and-static-electricity",
+      "title": "Balloons and Static Electricity",
+      "titleEn": "Balloons and Static Electricity",
+      "version": "1.5.28",
+      "subjects": [
+        4,
+        11,
+        13,
+        14,
+        19
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 155,
+      "metadataUpdatedAt": "2026-10-28T21:51:15.980Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/balloons-and-static-electricity"
+    },
+    {
+      "slug": "band-structure",
+      "title": "Band Structure",
+      "titleEn": "Band Structure",
+      "version": "1.0.0",
+      "subjects": [
+        4,
+        9,
+        13,
+        20
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Nhãn chủ đề PhET 9.",
+      "chapterOverride": false,
+      "metadataId": 1280,
+      "metadataUpdatedAt": "2026-11-04T21:37:50.307Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/band-structure"
+    },
+    {
+      "slug": "bending-light",
+      "title": "Bending Light",
+      "titleEn": "Bending Light",
+      "version": "1.2.7",
+      "subjects": [
+        4,
+        10
+      ],
+      "chapter": "optics",
+      "chapterReason": "Nhãn chủ đề PhET 10.",
+      "chapterOverride": false,
+      "metadataId": 180,
+      "metadataUpdatedAt": "2026-10-28T21:56:07.928Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/bending-light"
+    },
+    {
+      "slug": "beta-decay",
+      "title": "Beta Decay",
+      "titleEn": "Beta Decay",
+      "version": "1.0.2",
+      "subjects": [
+        4,
+        9,
+        13,
+        20
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Nhãn chủ đề PhET 9.",
+      "chapterOverride": false,
+      "metadataId": 1278,
+      "metadataUpdatedAt": "2026-10-28T21:58:50.490Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/beta-decay"
+    },
+    {
+      "slug": "blackbody-spectrum",
+      "title": "Blackbody Spectrum",
+      "titleEn": "Blackbody Spectrum",
+      "version": "1.0.28",
+      "subjects": [
+        4,
+        9,
+        10,
+        13,
+        14,
+        20
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Mục đa chủ đề quang/lượng tử, bức xạ vật đen.",
+      "chapterOverride": true,
+      "metadataId": 227,
+      "metadataUpdatedAt": "2026-10-28T21:59:41.667Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/blackbody-spectrum"
+    },
+    {
+      "slug": "bound-state-superposition",
+      "title": "Bound State Superposition",
+      "titleEn": "Bound State Superposition",
+      "version": "1.0.0",
+      "subjects": [
+        4,
+        9,
+        13,
+        20
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Nhãn chủ đề PhET 9.",
+      "chapterOverride": false,
+      "metadataId": 1281,
+      "metadataUpdatedAt": "2026-11-04T21:50:39.703Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/bound-state-superposition"
+    },
+    {
+      "slug": "build-a-nucleus",
+      "title": "Build a Nucleus",
+      "titleEn": "Build a Nucleus",
+      "version": "1.1.12",
+      "subjects": [
+        4,
+        13
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Mô phỏng hạt nhân chưa có nhãn con Vật lý.",
+      "chapterOverride": true,
+      "metadataId": 253,
+      "metadataUpdatedAt": "2026-10-28T22:03:16.026Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/build-a-nucleus"
+    },
+    {
+      "slug": "build-an-atom",
+      "title": "Build an Atom",
+      "titleEn": "Build an Atom",
+      "version": "1.9.5",
+      "subjects": [
+        4,
+        13,
+        19
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Mô phỏng nguyên tử chưa có nhãn con Vật lý.",
+      "chapterOverride": true,
+      "metadataId": 157,
+      "metadataUpdatedAt": "2026-10-28T22:06:43.220Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/build-an-atom"
+    },
+    {
+      "slug": "buoyancy",
+      "title": "Buoyancy",
+      "titleEn": "Buoyancy",
+      "version": "1.2.14",
+      "subjects": [
+        4,
+        5
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 269,
+      "metadataUpdatedAt": "2026-10-28T22:11:17.924Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/buoyancy"
+    },
+    {
+      "slug": "buoyancy-basics",
+      "title": "Buoyancy: Basics",
+      "titleEn": "Buoyancy: Basics",
+      "version": "1.2.13",
+      "subjects": [
+        4,
+        5
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 270,
+      "metadataUpdatedAt": "2026-10-28T22:15:41.642Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/buoyancy-basics"
+    },
+    {
+      "slug": "calculus-grapher",
+      "title": "Calculus Grapher",
+      "titleEn": "Calculus Grapher",
+      "version": "1.1.3",
+      "subjects": [
+        4,
+        5,
+        15,
+        30
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 259,
+      "metadataUpdatedAt": "2026-10-28T22:18:40.628Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/calculus-grapher"
+    },
+    {
+      "slug": "capacitor-lab-basics",
+      "title": "Capacitor Lab: Basics",
+      "titleEn": "Capacitor Lab: Basics",
+      "version": "1.6.41",
+      "subjects": [
+        4,
+        11
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 207,
+      "metadataUpdatedAt": "2026-10-28T22:19:31.647Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/capacitor-lab-basics"
+    },
+    {
+      "slug": "charges-and-fields",
+      "title": "Charges and Fields",
+      "titleEn": "Charges and Fields",
+      "version": "1.0.69",
+      "subjects": [
+        4,
+        11
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 188,
+      "metadataUpdatedAt": "2026-10-28T22:23:04.412Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/charges-and-fields"
+    },
+    {
+      "slug": "circuit-construction-kit-ac",
+      "title": "Circuit Construction Kit: AC",
+      "titleEn": "Circuit Construction Kit: AC",
+      "version": "1.0.25",
+      "subjects": [
+        4,
+        11
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 248,
+      "metadataUpdatedAt": "2026-10-28T22:25:21.014Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/circuit-construction-kit-ac"
+    },
+    {
+      "slug": "circuit-construction-kit-ac-virtual-lab",
+      "title": "Circuit Construction Kit: AC - Virtual Lab",
+      "titleEn": "Circuit Construction Kit: AC - Virtual Lab",
+      "version": "1.0.24",
+      "subjects": [
+        4,
+        11
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 249,
+      "metadataUpdatedAt": "2026-10-28T22:27:13.861Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/circuit-construction-kit-ac-virtual-lab"
+    },
+    {
+      "slug": "circuit-construction-kit-dc",
+      "title": "Circuit Construction Kit: DC",
+      "titleEn": "Circuit Construction Kit: DC",
+      "version": "1.5.4",
+      "subjects": [
+        4,
+        11
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 205,
+      "metadataUpdatedAt": "2026-10-28T22:30:27.026Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc"
+    },
+    {
+      "slug": "circuit-construction-kit-dc-virtual-lab",
+      "title": "Circuit Construction Kit: DC - Virtual Lab",
+      "titleEn": "Circuit Construction Kit: DC - Virtual Lab",
+      "version": "1.5.4",
+      "subjects": [
+        4,
+        11
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 206,
+      "metadataUpdatedAt": "2026-10-28T22:33:47.780Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc-virtual-lab"
+    },
+    {
+      "slug": "collision-lab",
+      "title": "Collision Lab",
+      "titleEn": "Collision Lab",
+      "version": "1.1.25",
+      "subjects": [
+        4,
+        5
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 237,
+      "metadataUpdatedAt": "2026-10-28T22:34:31.509Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/collision-lab"
+    },
+    {
+      "slug": "color-vision",
+      "title": "Color Vision",
+      "titleEn": "Color Vision",
+      "version": "1.3.9",
+      "subjects": [
+        4,
+        10,
+        12
+      ],
+      "chapter": "optics",
+      "chapterReason": "Nhãn chủ đề PhET 10.",
+      "chapterOverride": false,
+      "metadataId": 158,
+      "metadataUpdatedAt": "2026-10-28T22:37:05.854Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/color-vision"
+    },
+    {
+      "slug": "coulombs-law",
+      "title": "Coulomb's Law",
+      "titleEn": "Coulomb's Law",
+      "version": "1.0.34",
+      "subjects": [
+        4,
+        11,
+        13,
+        19
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 219,
+      "metadataUpdatedAt": "2026-10-28T22:40:43.059Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/coulombs-law"
+    },
+    {
+      "slug": "curve-fitting",
+      "title": "Curve Fitting",
+      "titleEn": "Curve Fitting",
+      "version": "1.0.22",
+      "subjects": [
+        4,
+        15,
+        31
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Công cụ xử lý số liệu thực nghiệm; chưa có nhãn con Vật lý.",
+      "chapterOverride": true,
+      "metadataId": 235,
+      "metadataUpdatedAt": "2026-10-28T22:41:23.721Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/curve-fitting"
+    },
+    {
+      "slug": "density",
+      "title": "Density",
+      "titleEn": "Density",
+      "version": "1.2.12",
+      "subjects": [
+        4,
+        12,
+        13,
+        14,
+        19
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Khối lượng riêng và lực đẩy; chưa có nhãn con Vật lý.",
+      "chapterOverride": true,
+      "metadataId": 250,
+      "metadataUpdatedAt": "2026-10-28T22:45:55.586Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/density"
+    },
+    {
+      "slug": "diffusion",
+      "title": "Diffusion",
+      "titleEn": "Diffusion",
+      "version": "1.1.9",
+      "subjects": [
+        4,
+        8,
+        13,
+        14,
+        19
+      ],
+      "chapter": "thermal",
+      "chapterReason": "Nhãn chủ đề PhET 8.",
+      "chapterOverride": false,
+      "metadataId": 229,
+      "metadataUpdatedAt": "2026-10-28T22:49:42.534Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/diffusion"
+    },
+    {
+      "slug": "double-wells-and-covalent-bonds",
+      "title": "Double Wells and Covalent Bonds",
+      "titleEn": "Double Wells and Covalent Bonds",
+      "version": "1.0.0",
+      "subjects": [
+        4,
+        9,
+        13,
+        20
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Nhãn chủ đề PhET 9.",
+      "chapterOverride": false,
+      "metadataId": 1282,
+      "metadataUpdatedAt": "2026-11-04T21:59:18.159Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/double-wells-and-covalent-bonds"
+    },
+    {
+      "slug": "energy-forms-and-changes",
+      "title": "Energy Forms and Changes",
+      "titleEn": "Energy Forms and Changes",
+      "version": "1.4.26",
+      "subjects": [
+        4,
+        7,
+        8,
+        13,
+        19
+      ],
+      "chapter": "thermal",
+      "chapterReason": "Mục đa chủ đề năng lượng/nhiệt, tập trung trao đổi nhiệt.",
+      "chapterOverride": true,
+      "metadataId": 224,
+      "metadataUpdatedAt": "2026-10-28T22:51:57.572Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/energy-forms-and-changes"
+    },
+    {
+      "slug": "energy-skate-park",
+      "title": "Energy Skate Park",
+      "titleEn": "Energy Skate Park",
+      "version": "1.6.2",
+      "subjects": [
+        4,
+        5,
+        7
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 238,
+      "metadataUpdatedAt": "2026-10-28T22:55:31.253Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/energy-skate-park"
+    },
+    {
+      "slug": "energy-skate-park-basics",
+      "title": "Energy Skate Park: Basics",
+      "titleEn": "Energy Skate Park: Basics",
+      "version": "1.6.2",
+      "subjects": [
+        4,
+        5,
+        7
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 160,
+      "metadataUpdatedAt": "2026-10-28T22:59:07.089Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/energy-skate-park-basics"
+    },
+    {
+      "slug": "faradays-electromagnetic-lab",
+      "title": "Faraday's Electromagnetic Lab",
+      "titleEn": "Faraday's Electromagnetic Lab",
+      "version": "1.0.9",
+      "subjects": [
+        4,
+        7,
+        11
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 265,
+      "metadataUpdatedAt": "2026-10-28T23:08:00.820Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/faradays-electromagnetic-lab"
+    },
+    {
+      "slug": "faradays-law",
+      "title": "Faraday's Law",
+      "titleEn": "Faraday's Law",
+      "version": "1.4.27",
+      "subjects": [
+        4,
+        11
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 161,
+      "metadataUpdatedAt": "2026-10-28T23:08:54.017Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/faradays-law"
+    },
+    {
+      "slug": "forces-and-motion-basics",
+      "title": "Forces and Motion: Basics",
+      "titleEn": "Forces and Motion: Basics",
+      "version": "2.6.7",
+      "subjects": [
+        4,
+        5
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 162,
+      "metadataUpdatedAt": "2026-10-28T23:12:35.895Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/forces-and-motion-basics"
+    },
+    {
+      "slug": "fourier-making-waves",
+      "title": "Fourier: Making Waves",
+      "titleEn": "Fourier: Making Waves",
+      "version": "1.1.7",
+      "subjects": [
+        4,
+        6,
+        9,
+        10,
+        13,
+        15,
+        20,
+        31
+      ],
+      "chapter": "waves",
+      "chapterReason": "Ưu tiên nội dung tổng hợp sóng thay vì các nhãn lượng tử/quang học.",
+      "chapterOverride": true,
+      "metadataId": 245,
+      "metadataUpdatedAt": "2026-10-28T23:14:01.279Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/fourier-making-waves"
+    },
+    {
+      "slug": "friction",
+      "title": "Friction",
+      "titleEn": "Friction",
+      "version": "1.6.25",
+      "subjects": [
+        4,
+        5,
+        8
+      ],
+      "chapter": "thermal",
+      "chapterReason": "Mục đa chủ đề chuyển động/nhiệt, tập trung sinh nhiệt do ma sát.",
+      "chapterOverride": true,
+      "metadataId": 164,
+      "metadataUpdatedAt": "2026-10-28T23:19:55.030Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/friction"
+    },
+    {
+      "slug": "gas-properties",
+      "title": "Gas Properties",
+      "titleEn": "Gas Properties",
+      "version": "1.1.12",
+      "subjects": [
+        4,
+        7,
+        8,
+        13,
+        14,
+        19
+      ],
+      "chapter": "thermal",
+      "chapterReason": "Mục đa chủ đề năng lượng/nhiệt, mô hình khí.",
+      "chapterOverride": true,
+      "metadataId": 228,
+      "metadataUpdatedAt": "2026-10-28T23:27:07.546Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/gas-properties"
+    },
+    {
+      "slug": "gases-intro",
+      "title": "Gases Intro",
+      "titleEn": "Gases Intro",
+      "version": "1.1.9",
+      "subjects": [
+        4,
+        8,
+        13,
+        14,
+        19
+      ],
+      "chapter": "thermal",
+      "chapterReason": "Nhãn chủ đề PhET 8.",
+      "chapterOverride": false,
+      "metadataId": 230,
+      "metadataUpdatedAt": "2026-10-28T23:30:58.704Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/gases-intro"
+    },
+    {
+      "slug": "generator",
+      "title": "Generator",
+      "titleEn": "Generator",
+      "version": "1.0.9",
+      "subjects": [
+        4,
+        7,
+        11
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 268,
+      "metadataUpdatedAt": "2026-10-28T23:35:20.233Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/generator"
+    },
+    {
+      "slug": "geometric-optics",
+      "title": "Geometric Optics",
+      "titleEn": "Geometric Optics",
+      "version": "1.3.18",
+      "subjects": [
+        4,
+        10
+      ],
+      "chapter": "optics",
+      "chapterReason": "Nhãn chủ đề PhET 10.",
+      "chapterOverride": false,
+      "metadataId": 246,
+      "metadataUpdatedAt": "2026-10-28T23:38:35.516Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/geometric-optics"
+    },
+    {
+      "slug": "geometric-optics-basics",
+      "title": "Geometric Optics: Basics",
+      "titleEn": "Geometric Optics: Basics",
+      "version": "1.3.18",
+      "subjects": [
+        4,
+        10
+      ],
+      "chapter": "optics",
+      "chapterReason": "Nhãn chủ đề PhET 10.",
+      "chapterOverride": false,
+      "metadataId": 255,
+      "metadataUpdatedAt": "2026-10-28T23:41:45.276Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/geometric-optics-basics"
+    },
+    {
+      "slug": "gravity-and-orbits",
+      "title": "Gravity and Orbits",
+      "titleEn": "Gravity and Orbits",
+      "version": "1.6.30",
+      "subjects": [
+        4,
+        5,
+        14
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 191,
+      "metadataUpdatedAt": "2026-10-28T23:51:18.074Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/gravity-and-orbits"
+    },
+    {
+      "slug": "gravity-force-lab",
+      "title": "Gravity Force Lab",
+      "titleEn": "Gravity Force Lab",
+      "version": "2.2.27",
+      "subjects": [
+        4,
+        5,
+        14
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 166,
+      "metadataUpdatedAt": "2026-10-28T23:52:45.400Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/gravity-force-lab"
+    },
+    {
+      "slug": "gravity-force-lab-basics",
+      "title": "Gravity Force Lab: Basics",
+      "titleEn": "Gravity Force Lab: Basics",
+      "version": "1.1.29",
+      "subjects": [
+        4,
+        5,
+        14
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 232,
+      "metadataUpdatedAt": "2026-10-28T23:53:46.099Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/gravity-force-lab-basics"
+    },
+    {
+      "slug": "greenhouse-effect",
+      "title": "Greenhouse Effect",
+      "titleEn": "Greenhouse Effect",
+      "version": "1.3.15",
+      "subjects": [
+        14
+      ],
+      "chapter": "thermal",
+      "chapterReason": "Bổ sung theo phạm vi thí điểm: hiệu ứng nhà kính.",
+      "chapterOverride": true,
+      "metadataId": 244,
+      "metadataUpdatedAt": "2026-10-28T23:57:49.070Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/greenhouse-effect"
+    },
+    {
+      "slug": "hookes-law",
+      "title": "Hooke's Law",
+      "titleEn": "Hooke's Law",
+      "version": "1.2.6",
+      "subjects": [
+        4,
+        5,
+        7
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 178,
+      "metadataUpdatedAt": "2026-10-29T00:00:11.887Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/hookes-law"
+    },
+    {
+      "slug": "john-travoltage",
+      "title": "John Travoltage",
+      "titleEn": "John Travoltage",
+      "version": "1.6.28",
+      "subjects": [
+        4,
+        11
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 167,
+      "metadataUpdatedAt": "2026-10-29T00:03:12.854Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/john-travoltage"
+    },
+    {
+      "slug": "keplers-laws",
+      "title": "Kepler's Laws",
+      "titleEn": "Kepler's Laws",
+      "version": "1.2.14",
+      "subjects": [
+        4,
+        5,
+        14,
+        15,
+        31
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 260,
+      "metadataUpdatedAt": "2026-10-29T00:07:15.181Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/keplers-laws"
+    },
+    {
+      "slug": "magnet-and-compass",
+      "title": "Magnet and Compass",
+      "titleEn": "Magnet and Compass",
+      "version": "1.0.9",
+      "subjects": [
+        4,
+        11,
+        14
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 266,
+      "metadataUpdatedAt": "2026-10-29T00:12:33.658Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/magnet-and-compass"
+    },
+    {
+      "slug": "magnets-and-electromagnets",
+      "title": "Magnets and Electromagnets",
+      "titleEn": "Magnets and Electromagnets",
+      "version": "1.0.9",
+      "subjects": [
+        4,
+        11
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 267,
+      "metadataUpdatedAt": "2026-10-29T00:16:35.235Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/magnets-and-electromagnets"
+    },
+    {
+      "slug": "masses-and-springs",
+      "title": "Masses and Springs",
+      "titleEn": "Masses and Springs",
+      "version": "1.0.31",
+      "subjects": [
+        4,
+        5,
+        7,
+        15,
+        31
+      ],
+      "chapter": "waves",
+      "chapterReason": "Dao động lò xo, trong metadata gắn nhãn chuyển động/năng lượng.",
+      "chapterOverride": true,
+      "metadataId": 217,
+      "metadataUpdatedAt": "2026-10-29T00:19:07.629Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/masses-and-springs"
+    },
+    {
+      "slug": "masses-and-springs-basics",
+      "title": "Masses and Springs: Basics",
+      "titleEn": "Masses and Springs: Basics",
+      "version": "1.0.30",
+      "subjects": [
+        4,
+        5
+      ],
+      "chapter": "waves",
+      "chapterReason": "Dao động lò xo, trong metadata gắn nhãn chuyển động.",
+      "chapterOverride": true,
+      "metadataId": 226,
+      "metadataUpdatedAt": "2026-10-29T00:19:45.931Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/masses-and-springs-basics"
+    },
+    {
+      "slug": "models-of-the-hydrogen-atom",
+      "title": "Models of the Hydrogen Atom",
+      "titleEn": "Models of the Hydrogen Atom",
+      "version": "1.0.11",
+      "subjects": [
+        4,
+        9,
+        10,
+        13,
+        19,
+        20
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Mục đa chủ đề quang/lượng tử, mô hình nguyên tử.",
+      "chapterOverride": true,
+      "metadataId": 271,
+      "metadataUpdatedAt": "2026-10-29T00:29:07.729Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/models-of-the-hydrogen-atom"
+    },
+    {
+      "slug": "molecules-and-light",
+      "title": "Molecules and Light",
+      "titleEn": "Molecules and Light",
+      "version": "1.5.35",
+      "subjects": [
+        4,
+        10,
+        13,
+        14,
+        19
+      ],
+      "chapter": "optics",
+      "chapterReason": "Nhãn chủ đề PhET 10.",
+      "chapterOverride": false,
+      "metadataId": 169,
+      "metadataUpdatedAt": "2026-10-29T00:42:31.459Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/molecules-and-light"
+    },
+    {
+      "slug": "my-solar-system",
+      "title": "My Solar System",
+      "titleEn": "My Solar System",
+      "version": "1.3.18",
+      "subjects": [
+        4,
+        5,
+        14
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 256,
+      "metadataUpdatedAt": "2026-10-29T00:46:27.332Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/my-solar-system"
+    },
+    {
+      "slug": "ohms-law",
+      "title": "Ohm's Law",
+      "titleEn": "Ohm's Law",
+      "version": "1.4.33",
+      "subjects": [
+        4,
+        11,
+        15,
+        31
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 172,
+      "metadataUpdatedAt": "2026-10-29T01:03:24.438Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/ohms-law"
+    },
+    {
+      "slug": "particle-in-a-box",
+      "title": "Particle in a Box",
+      "titleEn": "Particle in a Box",
+      "version": "1.0.0",
+      "subjects": [
+        4,
+        9,
+        13,
+        20
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Nhãn chủ đề PhET 9.",
+      "chapterOverride": false,
+      "metadataId": 1283,
+      "metadataUpdatedAt": "2026-11-04T22:08:24.345Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/particle-in-a-box"
+    },
+    {
+      "slug": "pendulum-lab",
+      "title": "Pendulum Lab",
+      "titleEn": "Pendulum Lab",
+      "version": "1.0.37",
+      "subjects": [
+        4,
+        5,
+        7,
+        15,
+        31
+      ],
+      "chapter": "waves",
+      "chapterReason": "Dao động con lắc, trong metadata gắn nhãn chuyển động/năng lượng.",
+      "chapterOverride": true,
+      "metadataId": 204,
+      "metadataUpdatedAt": "2026-10-29T01:04:03.926Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/pendulum-lab"
+    },
+    {
+      "slug": "plinko-probability",
+      "title": "Plinko Probability",
+      "titleEn": "Plinko Probability",
+      "version": "1.1.38",
+      "subjects": [
+        4,
+        8,
+        15,
+        30
+      ],
+      "chapter": "thermal",
+      "chapterReason": "Nhãn chủ đề PhET 8.",
+      "chapterOverride": false,
+      "metadataId": 190,
+      "metadataUpdatedAt": "2026-10-29T01:09:59.931Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/plinko-probability"
+    },
+    {
+      "slug": "projectile-data-lab",
+      "title": "Projectile Data Lab",
+      "titleEn": "Projectile Data Lab",
+      "version": "1.0.14",
+      "subjects": [
+        4,
+        5,
+        15,
+        31
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 263,
+      "metadataUpdatedAt": "2026-10-29T01:13:36.476Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/projectile-data-lab"
+    },
+    {
+      "slug": "projectile-motion",
+      "title": "Projectile Motion",
+      "titleEn": "Projectile Motion",
+      "version": "1.0.36",
+      "subjects": [
+        4,
+        5,
+        15,
+        31
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 203,
+      "metadataUpdatedAt": "2026-10-29T01:14:21.596Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/projectile-motion"
+    },
+    {
+      "slug": "projectile-sampling-distributions",
+      "title": "Projectile Sampling Distributions",
+      "titleEn": "Projectile Sampling Distributions",
+      "version": "1.0.15",
+      "subjects": [
+        15,
+        31
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Bổ sung theo phạm vi thí điểm: chuyển động ném.",
+      "chapterOverride": true,
+      "metadataId": 264,
+      "metadataUpdatedAt": "2026-10-29T01:17:42.183Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/projectile-sampling-distributions"
+    },
+    {
+      "slug": "quantum-bound-states",
+      "title": "Quantum Bound States",
+      "titleEn": "Quantum Bound States",
+      "version": "1.0.0",
+      "subjects": [
+        4,
+        9,
+        13,
+        20
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Nhãn chủ đề PhET 9.",
+      "chapterOverride": false,
+      "metadataId": 1279,
+      "metadataUpdatedAt": "2026-11-04T21:26:35.196Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/quantum-bound-states"
+    },
+    {
+      "slug": "quantum-coin-toss",
+      "title": "Quantum Coin Toss",
+      "titleEn": "Quantum Coin Toss",
+      "version": "1.0.6",
+      "subjects": [
+        4,
+        13,
+        20
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Phép đo lượng tử, nhãn con Vật lý chưa được gán.",
+      "chapterOverride": true,
+      "metadataId": 274,
+      "metadataUpdatedAt": "2026-10-29T01:21:57.636Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/quantum-coin-toss"
+    },
+    {
+      "slug": "quantum-measurement",
+      "title": "Quantum Measurement",
+      "titleEn": "Quantum Measurement",
+      "version": "1.0.7",
+      "subjects": [
+        4,
+        9,
+        13,
+        20
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Nhãn chủ đề PhET 9.",
+      "chapterOverride": false,
+      "metadataId": 272,
+      "metadataUpdatedAt": "2026-10-29T01:24:20.186Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/quantum-measurement"
+    },
+    {
+      "slug": "quantum-wave-interference",
+      "title": "Quantum Wave Interference",
+      "titleEn": "Quantum Wave Interference",
+      "version": "1.0.2",
+      "subjects": [
+        4,
+        6,
+        9,
+        13,
+        20
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Giao thoa lượng tử, khác sóng cơ học.",
+      "chapterOverride": true,
+      "metadataId": 1276,
+      "metadataUpdatedAt": "2026-10-29T01:27:28.265Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/quantum-wave-interference"
+    },
+    {
+      "slug": "resistance-in-a-wire",
+      "title": "Resistance in a Wire",
+      "titleEn": "Resistance in a Wire",
+      "version": "1.7.2",
+      "subjects": [
+        4,
+        11,
+        15,
+        31
+      ],
+      "chapter": "electricity",
+      "chapterReason": "Nhãn chủ đề PhET 11.",
+      "chapterOverride": false,
+      "metadataId": 175,
+      "metadataUpdatedAt": "2026-10-29T01:33:34.731Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/resistance-in-a-wire"
+    },
+    {
+      "slug": "rutherford-scattering",
+      "title": "Rutherford Scattering",
+      "titleEn": "Rutherford Scattering",
+      "version": "1.2.2",
+      "subjects": [
+        4,
+        9,
+        13,
+        19
+      ],
+      "chapter": "nuclear",
+      "chapterReason": "Nhãn chủ đề PhET 9.",
+      "chapterOverride": false,
+      "metadataId": 187,
+      "metadataUpdatedAt": "2026-10-29T01:35:54.294Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/rutherford-scattering"
+    },
+    {
+      "slug": "states-of-matter",
+      "title": "States of Matter",
+      "titleEn": "States of Matter",
+      "version": "1.2.25",
+      "subjects": [
+        4,
+        8,
+        13,
+        19
+      ],
+      "chapter": "thermal",
+      "chapterReason": "Nhãn chủ đề PhET 8.",
+      "chapterOverride": false,
+      "metadataId": 193,
+      "metadataUpdatedAt": "2026-10-29T01:39:41.655Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/states-of-matter"
+    },
+    {
+      "slug": "states-of-matter-basics",
+      "title": "States of Matter: Basics",
+      "titleEn": "States of Matter: Basics",
+      "version": "1.2.25",
+      "subjects": [
+        4,
+        8,
+        13,
+        19
+      ],
+      "chapter": "thermal",
+      "chapterReason": "Nhãn chủ đề PhET 8.",
+      "chapterOverride": false,
+      "metadataId": 194,
+      "metadataUpdatedAt": "2026-10-29T01:41:40.916Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/states-of-matter-basics"
+    },
+    {
+      "slug": "under-pressure",
+      "title": "Under Pressure",
+      "titleEn": "Under Pressure",
+      "version": "1.1.38",
+      "subjects": [
+        4,
+        14
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Áp suất chất lỏng; chưa có nhãn con Vật lý.",
+      "chapterOverride": true,
+      "metadataId": 176,
+      "metadataUpdatedAt": "2026-10-29T01:43:57.737Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/under-pressure"
+    },
+    {
+      "slug": "vector-addition",
+      "title": "Vector Addition",
+      "titleEn": "Vector Addition",
+      "version": "1.2.6",
+      "subjects": [
+        4,
+        5,
+        15,
+        30
+      ],
+      "chapter": "mechanics",
+      "chapterReason": "Nhãn chủ đề PhET 5.",
+      "chapterOverride": false,
+      "metadataId": 233,
+      "metadataUpdatedAt": "2026-10-29T01:49:03.461Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/vector-addition"
+    },
+    {
+      "slug": "wave-interference",
+      "title": "Wave Interference",
+      "titleEn": "Wave Interference",
+      "version": "2.1.2",
+      "subjects": [
+        4,
+        6,
+        10,
+        14
+      ],
+      "chapter": "waves",
+      "chapterReason": "Mục đa chủ đề sóng/ánh sáng, nhóm sóng.",
+      "chapterOverride": true,
+      "metadataId": 225,
+      "metadataUpdatedAt": "2026-10-29T01:54:07.825Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/wave-interference"
+    },
+    {
+      "slug": "wave-on-a-string",
+      "title": "Wave on a String",
+      "titleEn": "Wave on a String",
+      "version": "1.2.6",
+      "subjects": [
+        4,
+        6,
+        13,
+        14,
+        15,
+        19,
+        31
+      ],
+      "chapter": "waves",
+      "chapterReason": "Nhãn chủ đề PhET 6.",
+      "chapterOverride": false,
+      "metadataId": 177,
+      "metadataUpdatedAt": "2026-10-29T01:56:33.533Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/wave-on-a-string"
+    },
+    {
+      "slug": "waves-intro",
+      "title": "Waves Intro",
+      "titleEn": "Waves Intro",
+      "version": "2.1.2",
+      "subjects": [
+        4,
+        6,
+        10,
+        14
+      ],
+      "chapter": "waves",
+      "chapterReason": "Mục đa chủ đề sóng/ánh sáng, nhóm sóng.",
+      "chapterOverride": true,
+      "metadataId": 231,
+      "metadataUpdatedAt": "2026-10-29T01:58:44.788Z",
+      "metadataLicenseUrls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/GPL/2.0/"
+      ],
+      "sourcePage": "https://phet.colorado.edu/en/simulations/waves-intro"
+    }
+  ]
+}
